@@ -1,15 +1,15 @@
 {
     "layout": "speaker.njk",
     "page": {
-        "title": "ServerlessDays London - Chris Gormley",
+        "title": "ServerlessDays ANZ - Chris Gormley",
         "description": "Principal Software Engineer for Liberty IT Belfast. Techie and Serverless convert. Big fan of travelling.",
         "url": "https://serverlessdays.io/speakers/chris",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762318/London/2019/chris_card.jpg"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560762318/ANZ/2019/chris_card.jpg"
     },
     "speaker": {
         "name": "Chris Gormley",
         "title": "Principal Software Engineer for Liberty IT",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753307/London/2019/chrisgormley.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560753307/ANZ/2019/chrisgormley.jpg",
         "bio": "Principal Software Engineer for Liberty IT Belfast. Techie and Serverless convert. Big fan of travelling.",
         "talk": {
             "title": "Creating an Enterprise Level Call Centre using a serverless architecture",

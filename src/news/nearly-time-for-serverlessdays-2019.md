@@ -1,6 +1,6 @@
-# It's nearly time for ServerlessDays London 2019!
+# It's nearly time for ServerlessDays ANZ 2019!
 
-London is the home of the Global ServerlessDays movement and this conference has shown the appetite for Serverless is growing here.
+ANZ is the home of the Global ServerlessDays movement and this conference has shown the appetite for Serverless is growing here.
 
 In 2017, when we started it was simply called JeffConf, and we managed to get 120 of us crammed into St Johns church in Hoxton in 6 weeks. In just 2 short years, we've moved venue to Imperial College, and are going to be pushing around 350 to 400 people, with some of the best speakers from around the world. 
 
@@ -15,11 +15,11 @@ __This is going to be a gathering of some of the brightest and the best serverle
 
 ### Tickets and Workshops are still available
 
-So, the first thing to say, is that we still have [tickets](https://london.serverlessdays.io/tickets/)! So, if you've got a friend you'd like to bring or a colleague who wants to know more, then they can still come. 
+So, the first thing to say, is that we still have [tickets](https://anz.serverlessdays.io/tickets/)! So, if you've got a friend you'd like to bring or a colleague who wants to know more, then they can still come. 
 
 Our commitment to keeping the ticket price low continues - it's only £35! We're looking to ensure that everybody who wants to come, has every opportunity to.
 
-We also still have spaces on some of the [workshops](https://london.serverlessdays.io/workshops/) so if you want to make even better use of your time and learn some amazing new Serverless skills, then you still can!
+We also still have spaces on some of the [workshops](https://anz.serverlessdays.io/workshops/) so if you want to make even better use of your time and learn some amazing new Serverless skills, then you still can!
 
 ### Don't forget your toothbrush!
 
@@ -33,10 +33,10 @@ If you're not sure about anything on the day, the helpers and organisers on the 
 
 It's always worth reminding everyone before they arrive of the Code of Conduct. We want everyone to have a great time, and require agreement with the Code of Conduct from everybody who is there right through from the organisers to the attendees. If you're not sure or haven't read it through yet, the Code of Conduct is here:
 
-[Code of Conduct](https://london.serverlessdays.io/coc/)
+[Code of Conduct](https://anz.serverlessdays.io/coc/)
 
 ### We're excited
 
-We cannot wait to see you all on Thursday at 08:30 at Imperial College for the best day of the ServerlessDays London Year.
+We cannot wait to see you all on Thursday at 08:30 at Imperial College for the best day of the ServerlessDays ANZ Year.
 
-The ServerlessDays London Team
+The ServerlessDays ANZ Team

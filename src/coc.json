@@ -1,10 +1,10 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays London - Home",
+        "title": "ServerlessDays ANZ - Home",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/coc",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+        "url": "https://anz.serverlessdays.io/coc",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "navBarItems": [
         {
@@ -35,7 +35,7 @@
         }
     ],
     "contact": {
-        "email": "london@serverlessdays.io",
+        "email": "anz@serverlessdays.io",
         "twitter": "https://twitter.com/@serverlessLDN"
     }
 }

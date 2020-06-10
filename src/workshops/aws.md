@@ -23,7 +23,7 @@ The content for the workshop is available online:
 
 Thank you!!!
 
-**Location:** 1 Principal Place, Worship Street, EC2A 2BA, London
+**Location:** 1 Principal Place, Worship Street, EC2A 2BA, ANZ
 
 **Date:** 12 July 2019
 

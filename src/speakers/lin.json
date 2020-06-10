@@ -1,15 +1,15 @@
 {
     "layout": "speaker.njk",
     "page": {
-        "title": "ServerlessDays London - Lin Clark",
+        "title": "ServerlessDays ANZ - Lin Clark",
         "description": "Lin Clark makes code cartoons and is a Principal Research Engineer on Mozilla's Advanced Development team, focusing on WebAssembly and Rust.",
         "url": "https://serverlessdays.io/speakers/lin",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810332/London/2019/lin_card.jpg"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810332/ANZ/2019/lin_card.jpg"
     },
     "speaker": {
         "name": "Lin Clark",
         "title": "Principal Research Engineer at Mozilla",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1559600203/London/2019/linclark.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1559600203/ANZ/2019/linclark.jpg",
         "bio": "Lin Clark makes code cartoons and is a Principal Research Engineer on Mozilla's Advanced Development team, focusing on WebAssembly and Rust.",
         "talk": {
             "title": "Bringing WebAssembly outside the Web with WASI",

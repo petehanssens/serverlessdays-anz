@@ -1,15 +1,15 @@
 {
     "layout": "speaker.njk",
     "page": {
-        "title": "ServerlessDays London - Roberto Diaz",
+        "title": "ServerlessDays ANZ - Roberto Diaz",
         "description": "Roberto is a Software Developer at Agile Monkeys and is passionate about technologies. With more than 10 years of experience as a full-stack developer, and experience working on several projects related to image processing in real time and augmented reality.",
         "url": "https://serverlessdays.io/speakers/roberto",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561361001/London/2019/roberto_card.jpg"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561361001/ANZ/2019/roberto_card.jpg"
     },
     "speaker": {
         "name": "Roberto Diaz",
         "title": "Developer at Agile Monkeys",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561357206/London/2019/roberto.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561357206/ANZ/2019/roberto.jpg",
         "bio": "Roberto is a Software Developer at Agile Monkeys and is passionate about technologies. With more than 10 years of experience as a full-stack developer, and experience working on several projects related to image processing in real time and augmented reality. When he came across serverless technologies, he fell in love with them and has soaked up as much knowledge about them as he possibly could since.",
         "talk": {
             "title": "Discovering the microbiological world with Apache OpenWhisk and Rust",

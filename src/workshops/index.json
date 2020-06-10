@@ -1,10 +1,10 @@
 {
     "layout": "workshops.njk",
     "page": {
-        "title": "ServerlessDays London - Workshops",
+        "title": "ServerlessDays ANZ - Workshops",
         "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
-        "url": "https://london.serverlessdays.io/workshops",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+        "url": "https://anz.serverlessdays.io/workshops",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "workshops": [
         {
@@ -15,7 +15,7 @@
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
             "duration": "3 hours",
             "start": "14:00",
-            "location": "DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, London W6 0NW",
+            "location": "DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, ANZ W6 0NW",
             "capacity": "20",
             "speakers": [
                 {
@@ -33,7 +33,7 @@
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1529401537/google-cloud-logo-white.png",
             "duration": "3 hours",
             "start": "14:00",
-            "location": "Google Academy, 123 Buckingham Palace Road, London, SW1W 9SR",
+            "location": "Google Academy, 123 Buckingham Palace Road, ANZ, SW1W 9SR",
             "capacity": "40",
             "speakers": [
                 {
@@ -56,7 +56,7 @@
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
             "duration": "4 hours",
             "start": "09:00",
-            "location": "1 Principal Place, Worship Street, EC2A 2BA, London",
+            "location": "1 Principal Place, Worship Street, EC2A 2BA, ANZ",
             "capacity": "40",
             "speakers": [
                 {

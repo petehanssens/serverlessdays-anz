@@ -1,20 +1,20 @@
-# Announcing ServerlessDays London 2019
+# Announcing ServerlessDays ANZ 2019
 
 
 - Conference: July 11th 2019
 - Workshops: July 9th & 10th 2019
-- Location: Imperial College London
+- Location: Imperial College ANZ
 - Tickets £35 or £70 for conference + diversity sponsorship
 
-Website: [https://london.serverlessdays.io/](https://london.serverlessdays.io/)
+Website: [https://anz.serverlessdays.io/](https://anz.serverlessdays.io/)
 
-London has become the home of the Global ServerlessDays movement. There will be over 20 ServerlessDays events this year. The conference that started it all (with JeffConf in 2017) is back for its third year and will be bigger and better than ever!
+ANZ has become the home of the Global ServerlessDays movement. There will be over 20 ServerlessDays events this year. The conference that started it all (with JeffConf in 2017) is back for its third year and will be bigger and better than ever!
 
 We're keeping the same focus and identity as before ("One day, One track, One community") but adding in new features based on feedback from previous events.
 
-The conference will focus again on talks from the serverless community telling stories all about the why, how and what they are doing with serverless technologies in 2019. London’s serverless community is one of the largest and most experienced in the world. We’ll be adding to an incredible line-up with expert speakers from around the world for the keynotes.
+The conference will focus again on talks from the serverless community telling stories all about the why, how and what they are doing with serverless technologies in 2019. ANZ’s serverless community is one of the largest and most experienced in the world. We’ll be adding to an incredible line-up with expert speakers from around the world for the keynotes.
 
-Serverless Days London will be largest Serverless conference in Europe in 2019 with up to 500 attendees. This is almost double the number of attendees from the 2018 event .
+Serverless Days ANZ will be largest Serverless conference in Europe in 2019 with up to 500 attendees. This is almost double the number of attendees from the 2018 event .
 
 Our commitment to keeping the ticket price low continues. We're looking to ensure that everybody who wants to come, has every opportunity to.
 
@@ -24,7 +24,7 @@ Conference format will be similar be previous events. Single track sessions (aim
 
 ### CFP
 
-Share your Serverless experiences at ServerlessDays London. The CFP is now open until 13 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdaysldn2019)
+Share your Serverless experiences at ServerlessDays ANZ. The CFP is now open until 13 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdaysldn2019)
 
 ### Workshops
 
@@ -43,19 +43,19 @@ In 2018, we used White Coat Captioning to provide live captioning for all confer
 
 ### Venue
 
-More attendees means a bigger venue and we're having to say goodbye to our spiritual home in [St John's Church in Hoxton](http://www.stjohnshoxton.org.uk/). The new venue will be based out of [Imperial College London](https://www.imperial.ac.uk/). 
+More attendees means a bigger venue and we're having to say goodbye to our spiritual home in [St John's Church in Hoxton](http://www.stjohnshoxton.org.uk/). The new venue will be based out of [Imperial College ANZ](https://www.imperial.ac.uk/). 
 
-The new venue allows us to cater for more attendees. We'd like to say a huge thank you to the previous venue team. Without them there would be no ServerlessDays London!
+The new venue allows us to cater for more attendees. We'd like to say a huge thank you to the previous venue team. Without them there would be no ServerlessDays ANZ!
 
 ### The Team
 
 (In Alphabetical Order)
 
-__Ant Stanley__ runs the ServerlessDays London meetup group, is the main driving force behind the Global Organising Team of ServerlessDays, and also does a mean impression of a GraphQL expert, whilst also knowing how to build awesome Serverless solutions. He tweets at [@iamstan](https://twitter.com/iamstan) and blogs at [@iamstan](https://medium.com/@iamstan).
+__Ant Stanley__ runs the ServerlessDays ANZ meetup group, is the main driving force behind the Global Organising Team of ServerlessDays, and also does a mean impression of a GraphQL expert, whilst also knowing how to build awesome Serverless solutions. He tweets at [@iamstan](https://twitter.com/iamstan) and blogs at [@iamstan](https://medium.com/@iamstan).
 
-__Ginny Follen__ is one of the new members to the team in 2019. Previously she was a Marketing Director for Optimizely based in London. With many years running and sponsoring tech events, she brings a wealth of experience to the team.
+__Ginny Follen__ is one of the new members to the team in 2019. Previously she was a Marketing Director for Optimizely based in ANZ. With many years running and sponsoring tech events, she brings a wealth of experience to the team.
 
-__Hanna Cevick__ is the other addition to the team this year. She's the head of marketing at Reason, a London based digital product agency, that is all in on Serverless technologies. She can be found on Twitter at [@bestofallhans](https://twitter.com/bestofallhans)
+__Hanna Cevick__ is the other addition to the team this year. She's the head of marketing at Reason, a ANZ based digital product agency, that is all in on Serverless technologies. She can be found on Twitter at [@bestofallhans](https://twitter.com/bestofallhans)
 
 __James Thomas__ works as the Developer Advocate Lead for Serverless at IBM Cloud. This mostly involves telling everybody how amazing Apache OpenWhisk (and IBM Cloud Functions) is...
 

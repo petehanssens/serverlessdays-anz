@@ -1,21 +1,21 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays London - Home",
+        "title": "ServerlessDays ANZ - Home",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+        "url": "https://anz.serverlessdays.io",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "eventDetails": {
-        "name": "London",
+        "name": "ANZ",
         "description":"Let's get Serverless",
         "startDate": "9 July 2019",
         "endDate": "11 July 2019",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
-        "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
+        "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/ANZ/2019/imperial_above.jpg",
         "tagline": "One Day. One Track. One Community",
         "cta": {
-            "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+            "path": "https://ti.to/serverlessdays-anz/serverlessdays-anz-2019",
             "name": "Get Tickets"
         },
         "altCTA": {
@@ -38,7 +38,7 @@
       ],
       "gold": [
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562595079/London/2019/logo_aqua_dark.png",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562595079/ANZ/2019/logo_aqua_dark.png",
               "alt": "Aqua Security",
               "link": "https://www.aquasec.com/"
           },
@@ -53,7 +53,7 @@
               "link": "https://azure.microsoft.com"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_55/v1562651856/London/2019/stdlib_white.png",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_55/v1562651856/ANZ/2019/stdlib_white.png",
               "alt": "Standard Library",
               "link": "https://stdlib.com"
           }
@@ -70,12 +70,12 @@
               "link": "https://thundra.io"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652192/London/2019/twilio-logo-white.png",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652192/ANZ/2019/twilio-logo-white.png",
               "alt": "Twilio",
               "link": "https://www.twilio.com"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652298/London/2019/cloudinary_logo_for_blue_bg.png",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652298/ANZ/2019/cloudinary_logo_for_blue_bg.png",
               "alt": "Cloudinary",
               "link": "https://cloudinary.com"
           },
@@ -92,103 +92,103 @@
               "link": "https://reason.co"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/London/2019/nearst.png",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/ANZ/2019/nearst.png",
               "alt": "NearSt",
               "link": "https://near.st"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1562652066/London/2019/tray_white.png",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1562652066/ANZ/2019/tray_white.png",
               "alt": "Tray",
               "link": "https://tray.io"
           }
       ]
     },
     "speakers": {
-        "text": "The 2019 edition of ServerlessDays London brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope this year's edition of ServerlessDays London will have something for everyone.",
+        "text": "The 2019 edition of ServerlessDays ANZ brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope this year's edition of ServerlessDays ANZ will have something for everyone.",
         "lineup": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/ANZ/2019/teriradichel.jpg",
                 "alt": "Teri Radichel",
                 "link": "/speakers/teri"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1559600203/London/2019/linclark.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1559600203/ANZ/2019/linclark.jpg",
                 "alt": "Lin Clark",
                 "link": "/speakers/lin"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560781936/London/2019/till.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560781936/ANZ/2019/till.jpg",
                 "alt": "Till Schneidereit",
                 "link": "/speakers/sarah"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/sarahdrasner.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/ANZ/2019/sarahdrasner.jpg",
                 "alt": "Sarah Drasner",
                 "link": "/speakers/sarah",
                 "talk": "The Art of Code Comments"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/London/2019/chrisgormley.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753307/ANZ/2019/chrisgormley.jpg",
                 "alt": "Chris Gormley",
                 "link": "/speakers/chris",
                 "talk": "Creating an Enterprise Level Call Centre using a serverless architecture"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560749346/London/2019/seantracey.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560749346/ANZ/2019/seantracey.jpg",
                 "alt": "Sean Tracey",
                 "link": "/speakers/sean",
                 "talk": "Combining serverless and AI to delight your Nan"
             },
             {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1562653626/London/2019/ErezBerkner.jpg",
+              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1562653626/ANZ/2019/ErezBerkner.jpg",
               "alt": "Erez Berkner",
               "link": "/speakers/erez",
               "talk": "Serverless testing, the required adaptation to our testing methodologies"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753805/London/2019/avishai.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560753805/ANZ/2019/avishai.jpg",
                 "alt": "Avishai Shafir",
                 "link": "/speakers/avishai",
                 "talk": "Serverless testing, the required adaptation to our testing methodologies"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768539/London/2019/alexa.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768539/ANZ/2019/alexa.jpg",
                 "alt": "Alexandra Abbas",
                 "link": "/speakers/alexa",
                 "talk": "Machine Learning on Mobile and Serverless"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768751/London/2019/kas.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768751/ANZ/2019/kas.jpg",
                 "alt": "Kas Perch",
                 "link": "/speakers/kas",
                 "talk": "V8, Web Assembly, and Serverless-- a new way of thinking about edge computing"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768639/London/2019/sheen.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768639/ANZ/2019/sheen.jpg",
                 "alt": "Sheen Brisals",
                 "link": "/speakers/sheen",
                 "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561359670/London/2019/chrism.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561359670/ANZ/2019/chrism.jpg",
                 "alt": "Chris Munns",
                 "link": "/speakers/chrism",
                 "talk": "How AWS Builds Serverless Services Using Serverless"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561359021/London/2019/jennifer.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561359021/ANZ/2019/jennifer.jpg",
                 "alt": "Jennifer Davis",
                 "link": "/speakers/jennifer",
                 "talk": "Monitoring and Debugging Serverless"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561359022/London/2019/dan.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561359022/ANZ/2019/dan.jpg",
                 "alt": "Daniel Bass",
                 "link": "/speakers/dan",
                 "talk": "Serverless 'On Desk'"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561357206/London/2019/roberto.jpg",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1561357206/ANZ/2019/roberto.jpg",
                 "alt": "Roberto Diaz",
                 "link": "/speakers/roberto",
                 "talk": "Discovering the microbiological world with Apache OpenWhisk and Rust"
@@ -415,10 +415,10 @@
       }
     ],
     "venue": {
-        "text": "After two great years in East London, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. \r\n \r\n**Location:** Sherfield Building, Imperial College, South Kensington, SW7 5NH",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/London/2019/imperial_med.jpg",
+        "text": "After two great years in East ANZ, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. \r\n \r\n**Location:** Sherfield Building, Imperial College, South Kensington, SW7 5NH",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/ANZ/2019/imperial_med.jpg",
         "cta": {
-            "path": "https://www.google.com/maps/dir/South+Kensington+Station,+London/51.4985229,-0.1779713/@51.4961326,-0.1808188,16z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x48760542a2c42db5:0xf56b36019c8646fc!2m2!1d-0.1747855!2d51.4944371!1m0!3e2",
+            "path": "https://www.google.com/maps/dir/South+Kensington+Station,+ANZ/51.4985229,-0.1779713/@51.4961326,-0.1808188,16z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x48760542a2c42db5:0xf56b36019c8646fc!2m2!1d-0.1747855!2d51.4944371!1m0!3e2",
             "name": "Directions"
         }
     }

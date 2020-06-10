@@ -1,10 +1,10 @@
 {
     "layout": "tickets.njk",
     "page": {
-        "title": "ServerlessDays London - Tickets",
+        "title": "ServerlessDays ANZ - Tickets",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/tickets",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+        "url": "https://anz.serverlessdays.io/tickets",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "tickets": [
         {
@@ -12,7 +12,7 @@
             "description": "Standard Admission",
             "price": "£35",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+                "path": "https://ti.to/serverlessdays-anz/serverlessdays-anz-2019",
                 "name": "Buy"
             }
         },
@@ -21,7 +21,7 @@
             "description": "Standard Admission for you and sponsor a ticket for someone else",
             "price": "£70",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
+                "path": "https://ti.to/serverlessdays-anz/serverlessdays-anz-2019",
                 "name": "Buy"
             }
         },

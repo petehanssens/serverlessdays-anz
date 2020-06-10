@@ -1,10 +1,10 @@
 {
     "layout": "agenda.njk",
     "page": {
-        "title": "ServerlessDays London - Agenda",
+        "title": "ServerlessDays ANZ - Agenda",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/agenda",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+        "url": "https://anz.serverlessdays.io/agenda",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "agenda": [
     {
@@ -16,7 +16,7 @@
         "name": "Workshop",
         "title": "Build a Serverless Web Store",
         "abstract": "Build a serverless web store using Google Cloud's serverless stack! Along the way, you'll learn how to convert an App Engine app to Cloud Run, use Cloud Functions for event driven processing, and use Cloud Firestore, a fully managed serverless NoSql database. **LIMITED AVAILABILITY**",
-        "location": "Google Academy, 123 Buckingham Palace Road, London, SW1W 9SR",
+        "location": "Google Academy, 123 Buckingham Palace Road, ANZ, SW1W 9SR",
         "speaker": [
             {
               "name": "Justin Grayston"
@@ -32,7 +32,7 @@
         "name": "Workshop",
         "title": "Building a 100% Serverless Blog Site Application with the Right Observability",
         "abstract": "Learn how to build a simplistic version of a blog site application in serverless and how to gain observability into the application and architecture with Thundra. **LIMITED AVAILABILITY**",
-        "location": "DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, London W6 0NW",
+        "location": "DAZN, 6th floor, 12 Hammersmith Grove, Hammersmith, ANZ W6 0NW",
         "speaker": [
             {
                 "name": "Serkan Özal"
@@ -266,7 +266,7 @@
         "name": "Workshop",
         "title": "Serverless Security Workshop",
         "abstract": "Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. \r\n \r\nIt covers AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, infrastructure, data, code, logging & monitoring **LIMITED AVAILABILITY**",
-        "location": "1 Principal Place, Worship Street, EC2A 2BA, London",
+        "location": "1 Principal Place, Worship Street, EC2A 2BA, ANZ",
         "speaker": [
             {
               "name": "Danilo Poccia"

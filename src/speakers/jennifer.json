@@ -1,15 +1,15 @@
 {
     "layout": "speaker.njk",
     "page": {
-        "title": "ServerlessDays London - Jennifer Davis",
+        "title": "ServerlessDays ANZ - Jennifer Davis",
         "description": "Jennifer Davis is the co-author of Effective DevOps and a cloud advocate at Microsoft. Previously, she was a principal site reliability engineer at RealSelf, developed cookbooks to simplify building and managing infrastructure at Chef, and built reliable service platforms at Yahoo.",
         "url": "https://serverlessdays.io/speakers/jennifer",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561360998/London/2019/jennifer_card.jpg"
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561360998/ANZ/2019/jennifer_card.jpg"
     },
     "speaker": {
         "name": "Jennifer Davis",
         "title": "Cloud Developer Advocate at Microsoft",
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359021/London/2019/jennifer.jpg",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1561359021/ANZ/2019/jennifer.jpg",
         "bio": "Jennifer Davis is the co-author of Effective DevOps and a cloud advocate at Microsoft. Previously, she was a principal site reliability engineer at RealSelf, developed cookbooks to simplify building and managing infrastructure at Chef, and built reliable service platforms at Yahoo. She is a global organizer of devopsdays and organizes the Silicon Valley event. She is the founder of CoffeeOps",
         "talk": {
             "title": "Monitoring and Debugging Serverless",

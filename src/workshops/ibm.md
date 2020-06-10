@@ -15,7 +15,7 @@ Please bring your laptop for the hands-on workshop.
 - Ed Shee - Developer Advocate @ IBM
 - James Thomas - Developer Advocate @ IBM
 
-**Location:** Cloudflare, County Hall/The Riverside Building, Belvedere Rd, Lambeth, London SE1 7PB
+**Location:** Cloudflare, County Hall/The Riverside Building, Belvedere Rd, Lambeth, ANZ SE1 7PB
 
 **Date:** 10 July 2019
 

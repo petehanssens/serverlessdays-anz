@@ -13,7 +13,7 @@ Please bring your laptop for the hands-on workshop.
 - Justin Grayston - CRE @ Google
 - Brett McGowan - Developer Advocate @ Google
 
-**Location:** Google Academy, 123 Buckingham Palace Road, Victoria, London, SW1W 9SR
+**Location:** Google Academy, 123 Buckingham Palace Road, Victoria, ANZ, SW1W 9SR
 
 **Date:** 10 July 2019
 

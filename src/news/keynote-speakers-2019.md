@@ -1,8 +1,8 @@
 # Announcing Keynotes and Speakers
 
-We're delighted to announce the keynotes & speakers at the 2019 edition of [Serverless Days London](https://london.serverlessdays.io/). Keynote sessions for the conference come from [Teri Radichel](https://london.serverlessdays.io/speakers/teri/), [Lin Clark](https://london.serverlessdays.io/speakers/lin/), [Till Schneidereit](https://london.serverlessdays.io/speakers/till/) and [Sarah Drasner](https://london.serverlessdays.io/speakers/sarah/).
+We're delighted to announce the keynotes & speakers at the 2019 edition of [Serverless Days ANZ](https://anz.serverlessdays.io/). Keynote sessions for the conference come from [Teri Radichel](https://anz.serverlessdays.io/speakers/teri/), [Lin Clark](https://anz.serverlessdays.io/speakers/lin/), [Till Schneidereit](https://anz.serverlessdays.io/speakers/till/) and [Sarah Drasner](https://anz.serverlessdays.io/speakers/sarah/).
 
-![Keynote speakers](https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_800/v1560839157/London/2019/keynote.jpg)
+![Keynote speakers](https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_800/v1560839157/ANZ/2019/keynote.jpg)
 
 ### Keynotes
 
@@ -20,18 +20,18 @@ We had an overwhelming response to the conference CFP, with 136 proposals were r
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">IT IS READY! 👏 Three hours locked in a WeWork meeting room with <a href="https://twitter.com/IamStan?ref_src=twsrc%5Etfw">@IamStan</a>, <a href="https://twitter.com/PaulDJohnston?ref_src=twsrc%5Etfw">@PaulDJohnston</a> and others and we have a first draft of the agenda... <a href="https://t.co/QINGZV2VCl">https://t.co/QINGZV2VCl</a></p>&mdash; James Thomas (@thomasj) <a href="https://twitter.com/thomasj/status/1133780701487276034?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-The first selection of CFP speakers is now available on the [website](https://london.serverlessdays.io/speakers/), these include…. 
+The first selection of CFP speakers is now available on the [website](https://anz.serverlessdays.io/speakers/), these include…. 
 
-**["Combining serverless and AI to delight your Nan"](https://london.serverlessdays.io/speakers/sean/) by Sean Tracey (Developer Advocate @ IBM Cloud)**
+**["Combining serverless and AI to delight your Nan"](https://anz.serverlessdays.io/speakers/sean/) by Sean Tracey (Developer Advocate @ IBM Cloud)**
 
 Sean Tracy will explain why he chose serverless technologies to power a digital picture frame he built for his mother, which used AI to filter my Instagram feed to only show her pictures of her grandchildren.
 
-**["Serverless testing, the required adaptation to our testing methodologies"](https://london.serverlessdays.io/speakers/avishai/) by Avishai Shafir, VP Products at Lumigo.**
+**["Serverless testing, the required adaptation to our testing methodologies"](https://anz.serverlessdays.io/speakers/avishai/) by Avishai Shafir, VP Products at Lumigo.**
 
 Increasing development velocity and feature release pace is the No. 1 goal of software engineering 
 teams. You cannot move fast when your software is failing. Serverless architecture offers new opportunities, but we need to modify our testing methods to enjoy them. Avishai Shafir will talk about this!
 
-**["Creating an Enterprise Level Call Centre using a serverless architecture"](https://london.serverlessdays.io/speakers/chris/) by Chris Gormley, Principal Software Engineer for Liberty IT**
+**["Creating an Enterprise Level Call Centre using a serverless architecture"](https://anz.serverlessdays.io/speakers/chris/) by Chris Gormley, Principal Software Engineer for Liberty IT**
 
 Chris will talk about how Liberty IT created a completely serverless AI backed call center using Amazon Lex & Amazon Connect. Currently taking 150,000 calls a month resulting in a magnitude of cost savings of 47% with zero downtime for over a year. All with a team of serverless newbies under tight deadlines.
 
@@ -39,7 +39,7 @@ Exciting huh?! More details on all the other talks will be published shortly….
 
 ### Tickets
 
-Tickets are still available at [https://london.serverlessdays.io/tickets/](https://london.serverlessdays.io/tickets/) and only £35 for a full-days talks on everything serverless and access to a free workshop. Tickets are selling faster than last year and we expect to be sold out again in 2019. Don't wait to get your ticket to the last minute and miss out...
+Tickets are still available at [https://anz.serverlessdays.io/tickets/](https://anz.serverlessdays.io/tickets/) and only £35 for a full-days talks on everything serverless and access to a free workshop. Tickets are selling faster than last year and we expect to be sold out again in 2019. Don't wait to get your ticket to the last minute and miss out...
 
 ### Workshops
 
@@ -47,8 +47,8 @@ Ticket holders will have access to a free workshop on the day before the confere
 
 ### Diversity
 
-ServerlessDays London is running a scholarship program for under represented minorities in tech to attend for free, through **diversitytickets.org** which you can [apply for here](https://diversitytickets.org/en/events/420). Please share this with people who are eligible. 
+ServerlessDays ANZ is running a scholarship program for under represented minorities in tech to attend for free, through **diversitytickets.org** which you can [apply for here](https://diversitytickets.org/en/events/420). Please share this with people who are eligible. 
 
 ### Sponsorships
 
-If you run a company who wants to meet the serverless community in London, sponsorship packages are still available. The first list of sponsors have been agreed with AWS, IBM, Google Cloud and other all attending. There are a limited number of slots left, please contact us for details. See the prospectus for more details: [https://london.serverlessdays.io/static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf](https://london.serverlessdays.io/static/ServerlessDaysLondon_SponsorProspectus_20190321.pdf)
+If you run a company who wants to meet the serverless community in ANZ, sponsorship packages are still available. The first list of sponsors have been agreed with AWS, IBM, Google Cloud and other all attending. There are a limited number of slots left, please contact us for details. See the prospectus for more details: [https://anz.serverlessdays.io/static/ServerlessDaysANZ_SponsorProspectus_20190321.pdf](https://anz.serverlessdays.io/static/ServerlessDaysANZ_SponsorProspectus_20190321.pdf)
