@@ -1,9 +1,0 @@
-{
-  "layout": "post.njk",
-  "page": {
-      "title": "ServerlessDays ANZ 2019 Workshops",
-      "description": "We're delighted to announce our workshops. We have workshops from Thundra, IBM, AWS and Google.",
-      "url": "https://anz.serverlessdays.io/news/workshops-2019",
-      "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1562142638/ANZ/2019/workshops_card.jpg"
-  }
-}
