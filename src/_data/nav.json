@@ -1,4 +1,22 @@
 {
     "navBarItems": [
+        {
+            "key":"attend",
+            "path":"https://www.tickettailor.com/events/slsdaysanz/384906",
+            "name":"Attend",
+            "target": "_blank"
+        },
+        {
+            "key":"speak",
+            "path":"https://sessionize.com/serverlessdays-anz-2020",
+            "name":"Speak",
+            "target": "_blank"
+        },
+        {
+            "key":"coc",
+            "path":"/coc",
+            "name":"Code of Conduct",
+            "target": "_self"
+        }
     ]
 }
