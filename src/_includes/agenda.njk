@@ -5,7 +5,6 @@ layout: base.njk
     <div class="mw6-m mw7-l avenir center">
         <div class="dt w-100">
             {% for item in agenda %}
-
                 {% if item.type === 'date' %}
                 <div class="dt-row">
                     <div class="dtc w-4 pa1 pa2-ns pt2 pt3-ns">
@@ -14,6 +13,8 @@ layout: base.njk
                     <div class="dtc pa1 pa2-ns v-mid">
                         <div class="ph3 ph4-l pv2 pv3-ns tc">
                             <div class="f4 f3-ns f4-l v-mid">{{ item.date }}</div>
+                            <p>Please note this is just a placeholder for now - we will have more than two talks on the day! Keynotes can be watched on Track 1.<br/>
+                            Times displayed are Australian Eastern Standard Time (UTC+10).</p>
                         </div>
                     </div>
                 </div>

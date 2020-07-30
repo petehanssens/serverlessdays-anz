@@ -7,10 +7,10 @@
             "target": "_blank"
         },
         {
-            "key":"speak",
-            "path":"https://sessionize.com/serverlessdays-anz-2020",
-            "name":"Speak",
-            "target": "_blank"
+            "key":"agenda",
+            "path":"/agenda",
+            "name":"Agenda",
+            "target": "_self"
         },
         {
             "key":"coc",

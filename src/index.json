@@ -15,33 +15,21 @@
         "tagline": "The ANZ Serverless Community Together Online!"
     },
     "sponsors": {
-      "platinum": [
-          {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
-              "alt": "Amazon Web Services",
-              "link": "https://aws.amazon.com"
-          }
-      ],
       "gold": [
           {
               "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
               "alt": "Microsoft Azure",
-              "link": "https://azure.microsoft.com"
+              "link": "https://aka.ms/DevNewsletterJoin"
+          },
+          {
+            "img": "img/mgdb.png",
+            "alt": "MongoDB",
+            "link": "https://www.mongodb.com/"
           }
       ],
       "silver": [
-          {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1562652192/ANZ/2019/twilio-logo-white.png",
-              "alt": "Twilio",
-              "link": "https://www.twilio.com"
-          }
       ],
       "community": [
-          {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_25/v1528242508/reason-white.png",
-              "alt": "Reason",
-              "link": "https://reason.co"
-          }
       ]
     },
     "speakers": {
