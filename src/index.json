@@ -17,13 +17,18 @@
     "sponsors": {
       "gold": [
           {
+              "img": "img/aws.png",
+              "alt": "Amazon Web Services (AWS)",
+              "link": "https://aws.amazon.com/"
+          },
+          {
               "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
               "alt": "Microsoft Azure",
               "link": "https://aka.ms/DevNewsletterJoin"
           },
           {
             "img": "img/mgdb.png",
-            "alt": "MongoDB",
+            "alt": "mongoDB",
             "link": "https://www.mongodb.com/"
           }
       ],
