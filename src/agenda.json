@@ -82,7 +82,7 @@
             "time": "12:30",
             "name": "Lightning Talk",
             "title": "Security in Serverless Solutions",
-            "abstract": "This lightning talk will all about Serverless Security Threats, Challenges and how to improve Security in the Serverless Solutions.",
+            "abstract": "This lightning talk will be all about Serverless Security Threats, Challenges and how to improve Security in Serverless Solutions.",
             "speaker": [
                 {
                     "name": "Tariq Younas",
@@ -152,7 +152,7 @@
             "time": "14:40",
             "name": "Talk",
             "title": "Flexible Integration Model With Serverless",
-            "abstract": "In this session, Nelly will walk you through the integration of various services in Azure using Azure Functions at the core of solution. She will demonstrate how you can easily transition from your local development environment to production and how Azure Function's programming model simplifies your development process.",
+            "abstract": "In this session, Nelly will walk you through the integration of various services in Azure using Azure Functions at the core of solution. She will demonstrate how you can easily transition from your local development environment to production and how Azure Function's programming model simplifies your development process. A fun interactive demo will also be available for those attending!",
             "speaker": [
                 {
                     "name": "Nelly Sattari",
