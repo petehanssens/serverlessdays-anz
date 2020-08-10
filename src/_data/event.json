@@ -3,5 +3,5 @@
     "email": "anz@serverlessdays.io",
     "eventDate": "4 September 2020",
     "location": "Online!",
-    "favicon": "img/favicon.ico"
+    "favicon": "/img/favicon.ico"
 }
