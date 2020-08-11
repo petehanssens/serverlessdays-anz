@@ -242,7 +242,11 @@
         "abstract": "The rise in remote learning has seen the emergence of society to connect via various remote learning platforms and tools in new and creative ways. None more so than via video which has seen the adoption of virtual backgrounds, green screening (Chroma Key) and video filters in some really creative ways. This however often comes with heavy CPU costs on a local computer resources, In this talk we are going to show you how you can run your own serverless video processing stack utilising some open source libraries and IBM's Cloud Functions to move creative video processing into the cloud.",
         "speaker": [
             {
-                "name": "'DeveloperSteve' (Steve Coochin)",
+                "name": "Cong Nguyen",
+                "link": "https://www.linkedin.com/in/cong-ng/"
+            },
+            {
+                "name": "DeveloperSteve Coochin",
                 "link": "https://twitter.com/developersteve"
             }
         ],
