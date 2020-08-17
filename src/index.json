@@ -27,6 +27,11 @@
               "link": "https://aka.ms/DevNewsletterJoin"
           },
           {
+              "img": "img/ibm1.gif",
+              "alt": "IBM",
+              "link": "https://www.ibm.com/au-en"
+          },
+          {
             "img": "img/mgdb.png",
             "alt": "mongoDB",
             "link": "https://www.mongodb.com/"
