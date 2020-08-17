@@ -27,6 +27,11 @@
               "link": "https://aka.ms/DevNewsletterJoin"
           },
           {
+              "img": "img/IBM_logoRR_pos_RGB.gif",
+              "alt": "IBM",
+              "link": "https://www.ibm.com/"
+          },
+          {
             "img": "img/mgdb.png",
             "alt": "mongoDB",
             "link": "https://www.mongodb.com/"
