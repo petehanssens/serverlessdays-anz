@@ -35,6 +35,11 @@
             "img": "img/mgdb.png",
             "alt": "mongoDB",
             "link": "https://www.mongodb.com/"
+          },
+          {
+            "img": "img/Apptio_logo_web.png",
+            "alt": "Apptio",
+            "link": "https://www.apptio.com/products/cloudability/"
           }
       ],
       "silver": [
