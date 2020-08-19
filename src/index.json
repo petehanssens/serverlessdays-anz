@@ -40,6 +40,11 @@
             "img": "img/apptio-logo-cmyk-hz-white-text.png",
             "alt": "Apptio",
             "link": "https://www.apptio.com/products/cloudability/"
+          },
+          {
+            "img": "https://res.cloudinary.com/dtsyxzxfx/image/upload/h_100,f_auto,q_auto/v1597823770/2020/40FOOT_logo_600px.png",
+            "alt": "40 Foot Consulting",
+            "link": "https://www.40foot.co.nz/"
           }
       ],
       "silver": [
