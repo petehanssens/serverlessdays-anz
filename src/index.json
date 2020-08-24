@@ -17,12 +17,12 @@
     "sponsors": {
       "gold": [
           {
-              "img": "img/aws.png",
+              "img": "https://res.cloudinary.com/du73ags2q/image/upload/h_100,f_auto,q_auto/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
               "alt": "Amazon Web Services (AWS)",
               "link": "https://aws.amazon.com/"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+              "img": "https://res.cloudinary.com/du73ags2q/image/upload/h_200,f_auto,q_auto/v1598277929/ms-azure_d4212w.png",
               "alt": "Microsoft Azure",
               "link": "https://aka.ms/DevNewsletterJoin"
           },
