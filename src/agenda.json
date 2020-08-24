@@ -25,7 +25,7 @@
             "time": "10:10",
             "name": "Keynote",
             "title": "Building a Serverless Startup to manage Enterprise Serverless Solutions",
-            "abstract": "For nearly two decades I worked as an enterprise consultant, always entertaining the dream of one day building my own SaaS product. In 2018, I saw a specific niche, and decided that unless I take the leap, I will forever be waiting for that opportunity. Luckily, in 2018 and even more now in 2020, serverless technology stack was already appearing, and it made so much sense when you are a lean start up needing to build fast, test fast, and rebuild even faster. Today, there are even more components that we can integrate and plug into our systems. This is a story of a lean serverless startup and why I couldn't have done this without serverless. I hope it inspires you to also take your dream idea, and build it to test it.",
+            "abstract": "For two decades I worked as an enterprise consultant, always dreaming of one day building my own SaaS product. In 2018, I saw a niche and decided that unless I take the leap, I will forever be waiting for that next opportunity. Luckily, by 2018 and even more now in 2020, the serverless technology stack was already becoming mature and practical, and it made so much sense when you are a lean startup needing to build fast, test fast, and rebuild even faster. Today, there are many more components that we can integrate and plug into our systems. This is a story of a lean serverless startup and why I couldn't have done this without serverless. I hope it inspires you to also take your dream idea, build it, test it and live it.",
             "speaker": [
                 {
                     "name": "John Liu",
