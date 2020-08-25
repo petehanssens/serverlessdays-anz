@@ -17,19 +17,34 @@
     "sponsors": {
       "gold": [
           {
-              "img": "img/aws.png",
+              "img": "https://res.cloudinary.com/du73ags2q/image/upload/h_100,f_auto,q_auto/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
               "alt": "Amazon Web Services (AWS)",
               "link": "https://aws.amazon.com/"
           },
           {
-              "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+              "img": "https://res.cloudinary.com/du73ags2q/image/upload/h_200,f_auto,q_auto/v1598277929/ms-azure_d4212w.png",
               "alt": "Microsoft Azure",
               "link": "https://aka.ms/DevNewsletterJoin"
+          },
+          {
+              "img": "img/IBM_logoRR_blue60_RGB.gif",
+              "alt": "IBM",
+              "link": "https://www.ibm.com/"
           },
           {
             "img": "img/mgdb.png",
             "alt": "mongoDB",
             "link": "https://www.mongodb.com/"
+          },
+          {
+            "img": "img/apptio-logo-cmyk-hz-white-text.png",
+            "alt": "Apptio",
+            "link": "https://www.apptio.com/products/cloudability/"
+          },
+          {
+            "img": "https://res.cloudinary.com/dtsyxzxfx/image/upload/h_100,f_auto,q_auto/v1597823770/2020/40FOOT_logo_600px.png",
+            "alt": "40 Foot Consulting",
+            "link": "https://www.40foot.co.nz/"
           }
       ],
       "silver": [
