@@ -25,7 +25,7 @@
             "time": "10:10",
             "name": "Keynote",
             "title": "Building a Serverless Startup to manage Enterprise Serverless Solutions",
-            "abstract": "For nearly two decades I worked as an enterprise consultant, always entertaining the dream of one day building my own SaaS product. In 2018, I saw a specific niche, and decided that unless I take the leap, I will forever be waiting for that opportunity. Luckily, in 2018 and even more now in 2020, serverless technology stack was already appearing, and it made so much sense when you are a lean start up needing to build fast, test fast, and rebuild even faster. Today, there are even more components that we can integrate and plug into our systems. This is a story of a lean serverless startup and why I couldn't have done this without serverless. I hope it inspires you to also take your dream idea, and build it to test it.",
+            "abstract": "For two decades I worked as an enterprise consultant, always dreaming of one day building my own SaaS product. In 2018, I saw a niche and decided that unless I take the leap, I will forever be waiting for that next opportunity. Luckily, serverless stack has grown rapidly. Today there are so many more components that we can integrate and plug into our systems.  Leveraging it all made so much sense when you need to build fast, test fast, and rebuild even faster.  This is a story of a lean serverless startup and why I couldn't have done this without serverless. I hope it inspires you to also take your dream idea and bring it to life.",
             "speaker": [
                 {
                     "name": "John Liu",
@@ -358,6 +358,75 @@
             {
                 "name": "Mete Atamel",
                 "link": "https://twitter.com/meteatamel"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "date": "On-demand talks on YouTube",
+        "type": "date"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Building Serverless SPAs with Azure Static Web Apps",
+        "abstract": "Are you developer building a modern web app with your favourite SPA framework and want to have a serverless APIs? What about deploying your app and reach millions of people? Do you want to just one service to make all this possible instead of going through multiple services to manage your frontend and backend? Join me to learn how to accelerate development of modern web apps with a static frontend and dynamic backend (powered by serverless APIs) using a single managed service in the form of Azure Static Web Apps on App Service..",
+        "speaker": [
+            {
+                "name": "Haitham Shaddad",
+                "link": "https://twitter.com/haitham_shaddad"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Homemade Serverless: Baking Serverless Solutions from Scratch (featuring Knative)",
+        "abstract": "When Amazon introduced its Lambda product in November 2014 many saw it as a revolution in computing, and they weren't wrong. But for all the benefits that Lambda and other similar products have brought to software development it also distorted the concept of 'serverless computing' and buried the chain of computing innovations that led to that point. Nowadays, for most of us, the term 'serverless' is just a progressive but nebulous buzzword meaning 'programming...but more futuristic'. In this talk we look at the conditions that gave rise to so-called 'serverless computing' and apply those first principles to modernise a small microservice-based website running on Kubernetes. Along the way we'll dispel some myths on what serverless isn't, reveal the surprisingly simple heart of what serverless actually is, and explain why you might want to think about making your own serverless solution using existing and proven open source software.",
+        "speaker": [
+            {
+                "name": "Marc Hildenbrand",
+                "link": "https://twitter.com/unremarqued"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Level-up your DevOps with GitHub Actions and Azure Functions",
+        "abstract": "Are you looking to rapidly deploy your content? Is serverless in your future? Come for this demo-only presentation where we start from scratch, build up a DevOps pipeline in GitHub Actions, and deploy to Azure Functions. Once setup, commit, and watch the magic flow into place. You too can automate your deployments.",
+        "speaker": [
+            {
+                "name": "Rob Richardson",
+                "link": "https://twitter.com/rob_rich"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Serverless Event Sourcing in Action",
+        "abstract": "Event Sourcing is an architectural pattern that stores all changes to application state as a sequence of events. Events can be queried and the event log can be used to reconstruct past states at arbitrary points in time. Coupled with Command Query Responsibility Segregation (CQRS) we can model events and map these to multiple views of our state. Serverless provides the perfect platform for Event Sourced architectures. As everything in a serverless architecture is already evented and eventually consistent, we always need to Think in Events (tm). Event Sourcing is a powerful tool in the architectural arsenal for anyone grappling with how to manage events in a complex system. In this session we'll explore Event Sourcing and CQRS as an architectural pattern and deep dive into an example implementation inside AWS using Lambda and DynamoDB, with multiple views of state across disparate data stores.",
+        "speaker": [
+            {
+                "name": "Toby Hede",
+                "link": "https://twitter.com/tobyhede"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Serverless Deep Neural Network with Azure Functions and ML.Net",
+        "abstract": "Have you ever wondered how does a machine is able to classify among different species of animals just by looking an image? Deep Neural Network simplifies and help classify the things. In this session, I will cover an introduction and concepts of Deep Neural Networks and show how to build a serverless image classification application using Microsoft Azure Functions and ML.Net framework. The implementation will be in C# language.",
+        "speaker": [
+            {
+                "name": "Praveen Raghuvanshi",
+                "link": "https://twitter.com/praveenraghuvan"
             }
         ],
         "type": "talk"
