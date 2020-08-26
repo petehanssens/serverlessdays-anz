@@ -417,7 +417,7 @@
             }
         ],
         "type": "talk"
-    },
+    },    
     {
         "time": "-",
         "name": "Talk",
@@ -427,6 +427,32 @@
             {
                 "name": "Praveen Raghuvanshi",
                 "link": "https://twitter.com/praveenraghuvan"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Autonomous Multi-Cloud serverless deployment and optimized management",
+        "abstract": "This presentation describes how to implement Multi-Cloud native strategies using advanced an open source framework that allows for Cloud-agnostic Multi-Cloud deployment and optimized management of the serverless applications based on flexible monitoring, context aware maximization of the application owner’s utility of the deployed serverless components, and autonomic reconfiguration based on the application’s current execution context.",
+        "speaker": [
+            {
+                "name": "Paweł Skrzypek",
+                "link": "https://twitter.com/melodic_CLOUD"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Using Azure Function for Dynamic Admission Control in Kubernetes",
+        "abstract": "Do you want to have complete control over what gets deployed on your Kubernetes cluster? Do you have existing deployment certification processes that you want to extend to Kubernetes as well? Or do you want Kubernetes to keep you in the loop when deployments happen? Kubernetes version 1.9 introduced two code packages that allow you to write custom admission plugins: ValidatingAdmissionWebhook and MutatingAdmissionWebhook. These plugins give you a great deal of flexibility to integrate directly into the resource admission process. In this session, we will write a validating admission webhook with Azure Functions and apply governance policies on the deployments in Kubernetes. We will also use the native Azure Function Twilio binding to send SMS updates to SRE teams. After completing this session, you will understand how easy it is to write custom validating webhooks for Kubernetes. You will also be equipped to automate your existing organizational deployment policies and certify deployments at scale in Kubernetes.",
+        "speaker": [
+            {
+                "name": "Rahul Rai",
+                "link": "https://twitter.com/rahulrai_in"
             }
         ],
         "type": "talk"
