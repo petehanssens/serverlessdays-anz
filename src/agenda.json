@@ -456,6 +456,19 @@
             }
         ],
         "type": "talk"
+    },
+    {
+        "time": "-",
+        "name": "Talk",
+        "title": "Serverless with MongoDB Realm",
+        "abstract": "Whether you've been creating serverless applications for years or are new to the party, this session is designed to show some novel and compelling ways to use serverless Functions. You will learn how MongoDB Realm’s application development services let you focus on building the front-end features your users care about, without worrying about servers. You'll walk away from this session with some ideas to build serverless workflows on top of MongoDB, building new features, and shipping great apps.",
+        "speaker": [
+            {
+                "name": "Vigyan Jain",
+                "link": "https://twitter.com/vigyanj"
+            }
+        ],
+        "type": "talk"
     }
   ]
 }
