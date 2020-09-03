@@ -248,11 +248,6 @@
         "type": "talk"
     },
     {
-        "time": "12:10",
-        "name": "Lunch",
-        "type": "break"
-    },
-    {
         "time": "12:30",
         "name": "Interview",
         "title": "Fireside chat with A Cloud Guru's Sam Kroonenberg",
