@@ -22,7 +22,7 @@
             "type": "break"
         },
         {
-            "time": "10:10",
+            "time": "10:05",
             "name": "Keynote",
             "title": "Building a Serverless Startup to manage Enterprise Serverless Solutions",
             "abstract": "For two decades I worked as an enterprise consultant, always dreaming of one day building my own SaaS product. In 2018, I saw a niche and decided that unless I take the leap, I will forever be waiting for that next opportunity. Luckily, serverless stack has grown rapidly. Today there are so many more components that we can integrate and plug into our systems.  Leveraging it all made so much sense when you need to build fast, test fast, and rebuild even faster.  This is a story of a lean serverless startup and why I couldn't have done this without serverless. I hope it inspires you to also take your dream idea and bring it to life.",
@@ -61,7 +61,7 @@
             "type": "talk"
         },
         {
-            "time": "11:50",
+            "time": "11:55",
             "name": "Talk",
             "title": "Demystifying API Management for Serverless services",
             "abstract": "The serverless landscape changed dramatically architecture paradigms and challenges service providers to enforce the Quality of Services (QOS) on Functions; This talk will show how API Management can be used to overcome these QoS challenges.",
@@ -72,11 +72,6 @@
                 }
             ],
             "type": "talk"
-        },
-        {
-            "time": "12:10",
-            "name": "Lunch",
-            "type": "break"
         },
         {
             "time": "12:30",
@@ -118,7 +113,7 @@
             "type": "talk"
         },
         {
-            "time": "13:30",
+            "time": "13:35",
             "name": "Talk",
             "title": "AI Builder in Power Apps",
             "abstract": "A brief tour of Azure Cognitive Services and a look at new Power Platform capability 'AI Builder' that is directly integrated into Power Apps and Power Automate. AI Builder enables us to create more intelligent no-code applications and to improve business performance.",
@@ -149,7 +144,7 @@
             "type": "talk"
         },
         {
-            "time": "14:40",
+            "time": "14:45",
             "name": "Talk",
             "title": "Flexible Integration Model With Serverless",
             "abstract": "In this session, Nelly will walk you through the integration of various services in Azure using Azure Functions at the core of solution. She will demonstrate how you can easily transition from your local development environment to production and how Azure Function's programming model simplifies your development process. A fun interactive demo will also be available for those attending!",
@@ -162,7 +157,7 @@
             "type": "talk"
         },
         {
-            "time": "15:10",
+            "time": "15:20",
             "name": "Talk",
             "title": "Time for an opinion: Serverless Framework Components",
             "abstract": "When the Serverless Framework shipped in 2015, it quickly became, and remains, the most popular developer framework for Serverless Application development. Things have slowly been changing in the developer ecosystem however, and the non-opinionated way of composing an application of cloud based managed services has shown its short comings, primarily through confusion of developers as to how to build an application using Serverless technologies. Enter components; a collection of opinionated Serverless outcomes that take the minimum of input to deploy into the cloud and allows developers to improve not just the capability to launch their Serverless applications fast, but improves developer experience in many ways!",
@@ -175,7 +170,7 @@
             "type": "talk"
         },
         {
-            "time": "15:40",
+            "time": "15:55",
             "name": "Talk",
             "title": "Serverless - how to speed up tests over 300 times and achieve continuous feedback?",
             "abstract": "Modern software development approaches help increase delivery speed while still caring about software quality. However, if we think about manual regression tests, they are not only time consuming and repeatable, but also feedback time is quite high. These are the reasons why regression tests are often automated. But what if we have more and more tests and even automated execution of them takes too much time - 10 minutes... 30 minutes... maybe even hours? During this session, you will see how the serverless cloud services like AWS Lambda may be used to run tests in the highly parallelized environment that can speed up test execution even hundreds of times.",
@@ -188,7 +183,7 @@
             "type": "talk"
         },
     {
-        "time": "16:10",
+        "time": "16:30",
         "name": "Closing Keynote",
         "title": "How to Grow a Serverless Team in an Organisation",
         "abstract": "Many of us agree that adopting serverless in an enterprise has challenges. These challenges increase when the enterprise has no serverless expertise within itself. We know that serverless requires a new mindset and a different way of approaching application development. When business pressure mounts to deliver solutions faster, organisations often fall into the trap of quickly building a team by pulling engineers from different sources in order to satisfy the business goals. In this talk, taking inspiration from the nature, I will take you through few important phases of growing a serverless team, and discuss how it can bring near term as well as long term benefits to an organisation. Let's all grow and not build a serverless team!",
@@ -236,7 +231,7 @@
         "type": "talk"
     },
     {
-        "time": "11:50",
+        "time": "11:55",
         "name": "Talk",
         "title": "Green screening the serverless way",
         "abstract": "The rise in remote learning has seen the emergence of society to connect via various remote learning platforms and tools in new and creative ways. None more so than via video which has seen the adoption of virtual backgrounds, green screening (Chroma Key) and video filters in some really creative ways. This however often comes with heavy CPU costs on a local computer resources, In this talk we are going to show you how you can run your own serverless video processing stack utilising some open source libraries and IBM's Cloud Functions to move creative video processing into the cloud.",
@@ -293,7 +288,7 @@
         "type": "talk"
     },
     {
-        "time": "13:30",
+        "time": "13:35",
         "name": "Talk",
         "title": "Building an event driven Serverless Digital Platform",
         "abstract": "In this session, I will talk about the process of establishing a resilient and powerful serverless Digital Platform as well as highlighting technical challenges I encountered. Covering a wide range of new technologies and serverless principles, like deploying directly to production, establishing domain based services as units of deployment, managing code failure in production, operations, and how I developed patterns to meet these challenges. I will use real life examples about how we leveraged AWS serverless technologies to architect this event driven Platform and some key leanings on why event driven architecture can be challenging, yet rewarding.",
@@ -324,7 +319,7 @@
         "type": "talk"
     },
     {
-        "time": "14:40",
+        "time": "14:45",
         "name": "Talk",
         "title": "Serverless with MongoDB Realm",
         "abstract": "Whether you've been creating serverless applications for years or are new to the party, this session is designed to show some novel and compelling ways to use serverless Functions. You will learn how MongoDB Realm’s application development services let you focus on building the front-end features your users care about, without worrying about servers. You'll walk away from this session with some ideas to build serverless workflows on top of MongoDB, building new features, and shipping great apps.",
@@ -337,7 +332,7 @@
         "type": "talk"
     },
     {
-        "time": "15:10",
+        "time": "15:20",
         "name": "Talk",
         "title": "How to Build a Quokkabot",
         "abstract": "Quokkas are the happiest animal in Australia that surprisingly isn't trying to kill you. But can you really be sure that what you're looking at is a Quokka and not something more dangerous? Let's look at how we can build a quokka identifying chatbot, combining a number of services including Twilio, Azure Functions and Custom Vision for ML image detection. Join me as we look at how to train an ML model to do image detection, then link the Cognitive Services API up with various Twilio communication channels to allow multiple platforms for engagement and accessing the chatbot.",
@@ -350,7 +345,7 @@
         "type": "talk"
     },
     {
-        "time": "15:40",
+        "time": "15:55",
         "name": "Talk",
         "title": "An app modernization story with Cloud Run",
         "abstract": "Back in 2016, I deployed an ASP.NET monolith app to IIS on Windows. It worked but it was clunky in every sense of the word. Over the years, the app was freed from Windows (thanks to .NET Core), containerized to run consistently in different environments (thanks to Docker) and decomposed into a set of loosely-coupled, event-driven, microservices (thanks to Cloud Run). The end result is a simpler and portable serverless architecture that's much cheaper to run and maintain. In this talk, we'll go through the modernization journey, explore the decision points and deep dive into the final architecture and code.",
