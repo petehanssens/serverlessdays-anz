@@ -1,0 +1,22 @@
+{
+    "navBarItems": [
+        {
+            "key":"attend",
+            "path":"https://www.tickettailor.com/events/slsdaysanz/384906",
+            "name":"Attend",
+            "target": "_blank"
+        },
+        {
+            "key":"agenda",
+            "path":"/agenda",
+            "name":"Agenda",
+            "target": "_self"
+        },
+        {
+            "key":"coc",
+            "path":"/coc",
+            "name":"Code of Conduct",
+            "target": "_self"
+        }
+    ]
+}
