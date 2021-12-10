@@ -1,51 +1,21 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays ANZ 2020 - Home",
-        "description": "Bringing the Australia and New Zealand Serverless Community together online!",
+        "title": "ServerlessDays ANZ 2022.1 - Home",
+        "description": "Bringing the Australia and New Zealand Serverless Community together!",
         "url": "https://anz.serverlessdays.io",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "eventDetails": {
-        "name": "ANZ 2020",
-        "description":"Bringing the Australia and New Zealand Serverless Community together online!",
-        "eventDate": "04 September 2020",
+        "name": "ANZ 2022.1",
+        "description":"Bringing the Australia and New Zealand Serverless Community together!",
+        "eventDate": "March 2022",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
         "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_150/v1560783574/Mascots/unicorn_mascot.png",
-        "tagline": "The ANZ Serverless Community Together Online!"
+        "tagline": "The ANZ Serverless Community Together!"
     },
     "sponsors": {
       "gold": [
-          {
-              "img": "https://res.cloudinary.com/du73ags2q/image/upload/h_100,f_auto,q_auto/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
-              "alt": "Amazon Web Services (AWS)",
-              "link": "https://aws.amazon.com/"
-          },
-          {
-              "img": "https://res.cloudinary.com/du73ags2q/image/upload/h_200,f_auto,q_auto/v1598277929/ms-azure_d4212w.png",
-              "alt": "Microsoft Azure",
-              "link": "https://aka.ms/DevNewsletterJoin"
-          },
-          {
-              "img": "img/IBM_logoRR_blue60_RGB.gif",
-              "alt": "IBM",
-              "link": "https://www.ibm.com/"
-          },
-          {
-            "img": "img/mgdb.png",
-            "alt": "mongoDB",
-            "link": "https://www.mongodb.com/"
-          },
-          {
-            "img": "img/apptio-logo-cmyk-hz-white-text.png",
-            "alt": "Apptio",
-            "link": "https://www.apptio.com/products/cloudability/"
-          },
-          {
-            "img": "https://res.cloudinary.com/dtsyxzxfx/image/upload/h_100,f_auto,q_auto/v1597823770/2020/40FOOT_logo_600px.png",
-            "alt": "40 Foot Consulting",
-            "link": "https://www.40foot.co.nz/"
-          }
       ],
       "silver": [
       ],
