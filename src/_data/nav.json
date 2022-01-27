@@ -1,12 +1,6 @@
 {
     "navBarItems": [
         {
-        "key":"talk",
-        "path":"https://sessionize.com/serverlessdays-anz-2022-1",
-        "name":"Speak",
-        "target": "_blank"
-        },
-        {
             "key":"coc",
             "path":"/coc",
             "name":"Code of Conduct",

@@ -1,15 +1,15 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays ANZ 2022.1 - Home",
+        "title": "ServerlessDays ANZ 2022 - Home",
         "description": "Bringing the Australia and New Zealand Serverless Community together!",
         "url": "https://anz.serverlessdays.io",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "eventDetails": {
-        "name": "ANZ 2022.1",
+        "name": "ANZ 2022",
         "description":"Bringing the Australia and New Zealand Serverless Community together!",
-        "eventDate": "March 2022",
+        "eventDate": "September 2022",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
         "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_150/v1560783574/Mascots/unicorn_mascot.png",
         "tagline": "The ANZ Serverless Community Together!"
