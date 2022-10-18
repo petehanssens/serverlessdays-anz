@@ -1,15 +1,15 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays ANZ 2022 - Home",
-        "description": "Bringing the Australia and New Zealand Serverless Community together!",
+        "title": "ServerlessDays ANZ 2023 - Home",
+        "description": "Bringing the ANZ Serverless Community together!",
         "url": "https://anz.serverlessdays.io",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
     },
     "eventDetails": {
-        "name": "ANZ 2022",
-        "description":"Bringing the Australia and New Zealand Serverless Community together!",
-        "eventDate": "September 2022",
+        "name": "ANZ 2023",
+        "description":"Bringing the ANZ Serverless Community together!",
+        "eventDate": "March 2023",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
         "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_150/v1560783574/Mascots/unicorn_mascot.png",
         "tagline": "The ANZ Serverless Community Together!"
@@ -23,7 +23,7 @@
       ]
     },
     "speakers": {
-        "text": "Serverless ANZ 2020 will bring the best of Serverless right to your computer or TV screen as we head online! The event will be free to attend, but you'll need to reserve your spot. Have something interesting you've done in the serverless world? Why not submit a talk?!",
+        "text": "Serverless ANZ 2023 will bring the best of Serverless right to your computer or TV screen as we head online! The event will be free to attend, but you'll need to reserve your spot. Have something interesting you've done in the serverless world? Why not submit a talk?!",
         "lineup": [
             {
                 "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/ANZ/2019/teriradichel.jpg",
