@@ -1,6 +1,18 @@
 {
     "navBarItems": [
         {
+            "key":"speak",
+            "path":"/link-to-sessionize",
+            "name":"Speak",
+            "target": "_self"
+        },
+        {
+            "key":"spon",
+            "path":"/sponsors",
+            "name":"Sponsor",
+            "target": "_self"
+        },
+        {
             "key":"coc",
             "path":"/coc",
             "name":"Code of Conduct",
