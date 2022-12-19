@@ -2,7 +2,7 @@
     "navBarItems": [
         {
             "key":"speak",
-            "path":"/link-to-sessionize",
+            "path":"https://sessionize.com/serverlessdays-anz-2023/",
             "name":"Speak",
             "target": "_self"
         },
