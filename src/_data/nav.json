@@ -17,6 +17,12 @@
             "path":"/coc",
             "name":"Code of Conduct",
             "target": "_self"
+        },
+        {
+            "key":"tic",
+            "path":"https://www.tickettailor.com/events/slsdaysanz/809976",
+            "name":"Tickets",
+            "target": "_self"
         }
     ]
 }

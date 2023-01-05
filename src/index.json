@@ -11,8 +11,12 @@
         "description":"Bringing the ANZ Serverless Community together!",
         "eventDate": "March 2023",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
-        "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_150/v1560783574/Mascots/unicorn_mascot.png",
-        "tagline": "The ANZ Serverless Community Together!"
+        "hero": "img/fedsquare.jpg",
+        "tagline": "The ANZ Serverless Community Together!",
+        "cta": {
+            "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
+            "name": "Get your tickets"
+        }
     },
     "sponsors": {
       "gold": [
