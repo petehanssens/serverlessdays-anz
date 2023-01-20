@@ -1,10 +1,11 @@
 {
     "navBarItems": [
         {
-            "key":"speak",
-            "path":"https://sessionize.com/serverlessdays-anz-2023/",
-            "name":"Speak",
-            "target": "_self"
+            "key":"agenda",
+            "path":"#",
+            "name":"Agenda",
+            "target": "_self",
+            "title": "Coming soon"
         },
         {
             "key":"spon",
