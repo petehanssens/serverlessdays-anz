@@ -5,32 +5,18 @@ layout: base.njk
     <div class="mw6-m mw7-l avenir center">
         <div class="dt w-100">
             {% for item in agenda %}
-                {% if item.type === 'date' %}
-                <div class="dt-row">
-                    <div class="dtc w-4 pa1 pa2-ns pt2 pt3-ns">
-                        
-                    </div>
-                    <div class="dtc pa1 pa2-ns v-mid">
-                        <div class="ph3 ph4-l pv2 pv3-ns tc">
-                            <div class="f4 f3-ns f4-l v-mid">{{ item.date }}</div>
-                            <p>All sessions avaiable to watch on our <a href="https://www.youtube.com/playlist?list=PLK8O7pdiMg10ZexxQSSpnoJvVoeENSsBc" target="_blank" class="primaryColor">YouTube Channel</a>.</p>
-                        </div>
-                    </div>
-                </div>
-                {% else %}
                 <div class="dt-row">
                     <div class="dtc w4 pa1 pa2-ns">
-                        <div class="ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
+                        <div class="h4 ph3 ph4-l pv2 pv3-ns tc ba b--white br3">
                             <div class="f5 f4-l v-mid">{{ item.time }}</div>
                         </div>
                     </div>
                     <div class="dtc pa1 pa2-ns v-mid">
-                        
-                            {% include 'components/talkCardLinkedIn.njk' %}
-                       
+                        <div class="h4">
+                            {% include 'components/talkCard.njk' %}
+                        </div>
                     </div> 
                 </div>
-                {% endif %}
             {% endfor %}
         </div>
     </div>

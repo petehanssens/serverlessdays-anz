@@ -1,0 +1,61 @@
+{
+    "layout": "organisers.njk",
+    "page": {
+        "title": "ServerlessDays anz - Organisers",
+        "description": "One Day. One Track. One Community",
+        "url": "https://anz.serverlessdays.io/organisers",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
+    },
+    "organisers" :  [
+        {
+            "img": "../img/organisers/peter-hanssens.jpg",
+            "alt": "Peter Hanssens",
+            "link": "/organisers/peter"
+        },
+        {
+            "img": "../img/organisers/alicia-cheah.jpeg",
+            "alt": "Alicia Cheah",
+            "link": "/organisers/alicia"
+        },
+        {
+            "img": "../img/organisers/peter-sbarski.jpg",
+            "alt": "Peter Sbarski",
+            "link": "/organisers/sbarski"
+        },
+        {
+            "img": "../img/organisers/matt_gillard.png",
+            "alt": "Matt Gillard",
+            "link": "/organisers/matt"
+        },
+        {
+            "img": "../img/organisers/nelly-sattari.jpeg",
+            "alt": "Nelly Sattari",
+            "link": "/organisers/nelly"
+        },
+        {
+            "img": "../img/organisers/lars-klint.jpg",
+            "alt": "Lars Klint",
+            "link": "/organisers/lars"
+        },
+        {
+            "img": "../img/organisers/bill_chesnut.jpg",
+            "alt": "Bill Chesnut",
+            "link": "/organisers/bill"
+        },
+        {
+            "img": "../img/organisers/somy_ayazi.jpeg",
+            "alt": "Somy Ayazi",
+            "link": "/organisers/somy"
+        },
+        {
+            "img": "../img/organisers/william.jpg",
+            "alt": "William Liebenberg",
+            "link": "/organisers/william"
+        },
+        {
+            "img": "../img/organisers/nick-triantafillou.jpg",
+            "alt": "Nick Triantafillou",
+            "link": "/organisers/nick"
+        }
+    ]
+}

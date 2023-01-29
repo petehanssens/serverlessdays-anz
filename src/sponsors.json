@@ -1,29 +1,53 @@
 {
     "layout": "sponsors.njk",
     "page": {
-        "title": "ServerlessDays ANZ - Sponsors",
+        "title": "ServerlessDays anz - Sponsors",
         "description": "One Day. One Track. One Community",
         "url": "https://anz.serverlessdays.io/sponsors",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
     },
     "sponsor": {
         "cta": {
-            "path": "/static/ServerlessDaysANZ_SponsorProspectus_20190321.pdf",
+            "path": "/static/ServerlessDaysanz_SponsorProspectus.pdf",
             "name": "Download"
         }
     },
     "sponsors": {
         "platinum": [
-            
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_80/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
+                "alt": "Amazon Web Services",
+                "link": "https://aws.amazon.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_140/v1561959290/MS-Azure_logo_stacked_c-white_rgb_znpxoz.png",
+                "alt": "Microsoft Azure",
+                "link": "https://azure.microsoft.com/"
+            }
         ],
         "gold": [
-            
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1529401537/google-cloud-logo-white.png",
+                "alt": "Google Cloud Platform",
+                "link": "https://cloud.google.com"
+            }
         ],
         "silver": [
-            
-        ],
-        "community": [
-           
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_60/v1562038414/Stripe_logo_-_white_mi4hz0.png",
+                "alt": "Stripe",
+                "link": "https://stripe.com/au"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_50/v1565148188/mongodb_white_png_kkhgak.png",
+                "alt": "MongoDB",
+                "link": "https://www.mongodb.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1562027969/shinelogo574x346_lecwus.png",
+                "alt": "Shine Solutions",
+                "link": "https://shinesolutions.com/"
+            }
         ]
     }
 }

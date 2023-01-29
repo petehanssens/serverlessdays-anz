@@ -1,9 +1,0 @@
-{
-    "layout": "post.njk",
-    "page": {
-        "title": "ServerlessDays Full Speaker Lineup",
-        "description": "Announcing the rest of our speaker lineup, including Jennifer Davis, Chris Munns, Kas Perch, Roberto Diaz, Alexandra Abbas, Dan Bass, & Sheen Brisals",
-        "url": "https://anz.serverlessdays.io/news/full-lineup",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1561968827/ANZ/2019/full_lineup.jpg"
-    }
-}
