@@ -1,28 +1,25 @@
 {
     "navBarItems": [
         {
-            "key":"speak",
-            "path":"https://sessionize.com/serverlessdays-anz-2023/",
-            "name":"Speak",
-            "target": "_self"
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
         },
         {
-            "key":"spon",
-            "path":"/sponsors",
-            "name":"Sponsor",
-            "target": "_self"
+            "key": "organisers",
+            "path": "/organisers",
+            "name": "Organisers"
         },
         {
-            "key":"coc",
-            "path":"/coc",
-            "name":"Code of Conduct",
-            "target": "_self"
+            "key": "coc",
+            "path": "/coc",
+            "name": "Code of Conduct"
         },
         {
-            "key":"tic",
-            "path":"https://www.tickettailor.com/events/slsdaysanz/809976",
-            "name":"Tickets",
-            "target": "_self"
+            "key": "tickets",
+            "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
+            "name": "Tickets",
+            "cta": "true"
         }
     ]
 }

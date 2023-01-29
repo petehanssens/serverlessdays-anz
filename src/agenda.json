@@ -1,451 +1,111 @@
 {
     "layout": "agenda.njk",
     "page": {
-        "title": "ServerlessDays ANZ 2020 - Agenda",
-        "description": "Bringing the Australia and New Zealand Serverless Community together online!",
+        "title": "ServerlessDays anz - Agenda",
+        "description": "One Day. One Track. One Community",
         "url": "https://anz.serverlessdays.io/agenda",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
     },
     "agenda": [
-        {
-            "date": "04 September 2020 - Track 1",
-            "type": "date"
-        },
-        {
-            "time": "10:00",
-            "name": "Acknowledgement of Country and Iwi",
-            "type": "break"
-        },
-        {
-            "time": "10:02",
-            "name": "Welcome to conference and orientation - Serverless ANZ Team",
-            "type": "break"
-        },
-        {
-            "time": "10:05",
-            "name": "Keynote",
-            "title": "Building a Serverless Startup to manage Enterprise Serverless Solutions",
-            "abstract": "For two decades I worked as an enterprise consultant, always dreaming of one day building my own SaaS product. In 2018, I saw a niche and decided that unless I take the leap, I will forever be waiting for that next opportunity. Luckily, serverless stack has grown rapidly. Today there are so many more components that we can integrate and plug into our systems.  Leveraging it all made so much sense when you need to build fast, test fast, and rebuild even faster.  This is a story of a lean serverless startup and why I couldn't have done this without serverless. I hope it inspires you to also take your dream idea and bring it to life.",
-            "speaker": [
-                {
-                    "name": "John Liu",
-                    "link": "https://twitter.com/johnnliu"
-                }
-            ],
-            "type": "keynote"
-        },
-        {
-            "time": "10:50",
-            "name": "Talk",
-            "title": "The Art of Serverless Observability",
-            "abstract": "It can be hard to know exactly what's going on inside our serverless stack. Code within a cloud provider can feel like a 'black box' even when it's running well, and is especially worrying when something is going wrong! I'll show how you can use open source tools and design planning to know what's really happening inside your stack. We'll cover root cause analysis, cost optimization, and performance monitoring.",
-            "speaker": [
-                {
-                    "name": "Nočnica Fee",
-                    "link": "https://twitter.com/serverlessmom"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "11:20",
-            "name": "Talk",
-            "title": "Build an AI-powered Digital Asset Manager",
-            "abstract": "A common struggle: You have searched way too many combinations of words to find the image or video you need and it is still not popping up. This session presents how to use the image classification capability of Azure Cognitive Services for automatically tagging and classifying pictures, and Logic App as the glue between your digital asset store and the Vision API.",
-            "speaker": [
-                {
-                    "name": "Stefano Tempesta",
-                    "link": "https://twitter.com/stefanotempesta"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "11:55",
-            "name": "Talk",
-            "title": "Demystifying API Management for Serverless services",
-            "abstract": "The serverless landscape changed dramatically architecture paradigms and challenges service providers to enforce the Quality of Services (QOS) on Functions; This talk will show how API Management can be used to overcome these QoS challenges.",
-            "speaker": [
-                {
-                    "name": "Vanjikumaran Sivajothy",
-                    "link": "https://twitter.com/vanjikumaran"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "12:30",
-            "name": "Lightning Talk",
-            "title": "Security in Serverless Solutions",
-            "abstract": "This lightning talk will be all about Serverless Security Threats, Challenges and how to improve Security in Serverless Solutions.",
-            "speaker": [
-                {
-                    "name": "Tariq Younas",
-                    "link": "https://twitter.com/tariq_younas"
-                }
-            ],
-            "type": "lightning"
-        },
-        {
-            "time": "12:45",
-            "name": "Lightning Talk",
-            "title": "Using Azure DevOps to deploy Azure Functions to Kubernetes",
-            "abstract": "In this session we’ll show how you can run Azure Functions on any Kubernetes cluster and benefit from Kubernetes-native autoscale by using the Kubernetes Event Driven Architecture (KEDA) CNCF project originally from Red Hat and Microsoft.",
-            "speaker": [
-                {
-                    "name": "Menaka Baskerpillai",
-                    "link": "https://twitter.com/MenakaBasker"
-                }
-            ],
-            "type": "lightning"
-        },
-        {
-            "time": "13:00",
-            "name": "Talk",
-            "title": "Code Reuse in Serverless APIs with AWS Lambda Layers",
-            "abstract": "Learn about using Lambda layers to enhance code reuse in serverless API's. We will explore an example using Python and AWS SAM to build out a unified API built on multiple lambdas in the AWS ecosystem. We will also cover the full development life cycle including testing, releases and promotion pipeline considerations.",
-            "speaker": [
-                {
-                    "name": "Liam Dixon",
-                    "link": "https://www.linkedin.com/in/liamdixon/"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "13:35",
-            "name": "Talk",
-            "title": "AI Builder in Power Apps",
-            "abstract": "A brief tour of Azure Cognitive Services and a look at new Power Platform capability 'AI Builder' that is directly integrated into Power Apps and Power Automate. AI Builder enables us to create more intelligent no-code applications and to improve business performance.",
-            "speaker": [
-                {
-                    "name": "Somy Ayazi",
-                    "link": "https://twitter.com/somyayazi"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "14:00",
-            "name": "Break",
-            "type": "break"
-        },
-        {
-            "time": "14:10",
-            "name": "Talk",
-            "title": "Write Once, Debug Everywhere from Development to Production",
-            "abstract": "In the God's world, debugging may not be necessary as they write perfect code which never fails. But we mortals are error prone and can make mistakes while developing one way or another. The microservice and serverless evolution means debugging practices need to be updated! In this talk, we will walk through - challenges of debugging serverless applications - new approaches (including live and offline debugging) to debug serverless applications - real life cases (bug hunting stories) where debugging is a crucial task.",
-            "speaker": [
-                {
-                    "name": "Serkan Özal",
-                    "link": "https://twitter.com/serkan_ozal"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "14:45",
-            "name": "Talk",
-            "title": "Flexible Integration Model With Serverless",
-            "abstract": "In this session, Nelly will walk you through the integration of various services in Azure using Azure Functions at the core of solution. She will demonstrate how you can easily transition from your local development environment to production and how Azure Function's programming model simplifies your development process. A fun interactive demo will also be available for those attending!",
-            "speaker": [
-                {
-                    "name": "Nelly Sattari",
-                    "link": "https://twitter.com/nelly_sattari"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "15:20",
-            "name": "Talk",
-            "title": "Time for an opinion: Serverless Framework Components",
-            "abstract": "When the Serverless Framework shipped in 2015, it quickly became, and remains, the most popular developer framework for Serverless Application development. Things have slowly been changing in the developer ecosystem however, and the non-opinionated way of composing an application of cloud based managed services has shown its short comings, primarily through confusion of developers as to how to build an application using Serverless technologies. Enter components; a collection of opinionated Serverless outcomes that take the minimum of input to deploy into the cloud and allows developers to improve not just the capability to launch their Serverless applications fast, but improves developer experience in many ways!",
-            "speaker": [
-                {
-                    "name": "Gareth McCumskey",
-                    "link": "https://twitter.com/garethmcc"
-                }
-            ],
-            "type": "talk"
-        },
-        {
-            "time": "15:55",
-            "name": "Talk",
-            "title": "Serverless - how to speed up tests over 300 times and achieve continuous feedback?",
-            "abstract": "Modern software development approaches help increase delivery speed while still caring about software quality. However, if we think about manual regression tests, they are not only time consuming and repeatable, but also feedback time is quite high. These are the reasons why regression tests are often automated. But what if we have more and more tests and even automated execution of them takes too much time - 10 minutes... 30 minutes... maybe even hours? During this session, you will see how the serverless cloud services like AWS Lambda may be used to run tests in the highly parallelized environment that can speed up test execution even hundreds of times.",
-            "speaker": [
-                {
-                    "name": "Tomasz Konieczny",
-                    "link": "https://twitter.com/tkoniecznyPL"
-                }
-            ],
-            "type": "talk"
-        },
     {
-        "time": "16:30",
-        "name": "Closing Keynote",
-        "title": "How to Grow a Serverless Team in an Organisation",
-        "abstract": "Many of us agree that adopting serverless in an enterprise has challenges. These challenges increase when the enterprise has no serverless expertise within itself. We know that serverless requires a new mindset and a different way of approaching application development. When business pressure mounts to deliver solutions faster, organisations often fall into the trap of quickly building a team by pulling engineers from different sources in order to satisfy the business goals. In this talk, taking inspiration from the nature, I will take you through few important phases of growing a serverless team, and discuss how it can bring near term as well as long term benefits to an organisation. Let's all grow and not build a serverless team!",
-        "speaker": [
-            {
-                "name": "Sheen Brisals",
-                "link": "https://linkedin.com/in/sheen-brisals/"
-            }
-        ],
-        "type": "keynote"
-    },
-    {
-        "time": "16:40",
-        "name": "Closing remarks and calls to action with the Serverless ANZ Team",
+        "time": "08:30",
+        "name": "Doors Open",
         "type": "break"
     },
     {
-        "date": "04 September 2020 - Track 2",
-        "type": "date"
-    },
-    {
-        "time": "10:50",
-        "name": "Talk",
-        "title": "Amplify your web and mobile application development",
-        "abstract": "Cloud computing has certainly changed the way we build, deploy and run our application workloads. No longer do we want to be in the business of waiting for infrastructure to be provisioned, configuring web and application servers, bouncing back and forth with networking teams about firewall rules and SSL certificates...and we haven't even written a line of code yet that delivers actual value to the business. If this describes the way you still develop applications, then come along to this session and learn how AWS Amplify is being used to modernise traditional web and mobile application development.",
-        "speaker": [
-            {
-                "name": "Scott Scovell",
-                "link": "https://www.linkedin.com/in/scovell/"
-            }
-        ],
+        "time": "09:15",
+        "name": "Welcome Remarks",
         "type": "talk"
     },
     {
-        "time": "11:20",
-        "name": "Talk",
-        "title": "Building Event-driven applications using Azure Cosmos DB and Azure Functions",
-        "abstract": "Developing event-driven applications using Azure Functions is relatively straight forward. We can also use Cosmos DB as our data-store for our Functions thanks to Cosmos DB supported Triggers and Bindings, as well as use different types of Cosmos DB API's thanks to Dependency Injection support in Azure Functions. In this session, I will show you how you can integrate Cosmos DB into your Azure Functions using Triggers, Bindings and dependency injection. I'll talk about which situations you would opt for dependency injection and vice-versa. I'll also cover the do's and don'ts when developing Azure Functions that use Cosmos DB.",
-        "speaker": [
-            {
-                "name": "Will Velida",
-                "link": "https://twitter.com/willvelida"
-            }
-        ],
-        "type": "talk"
+        "time": "09:25",
+        "name": "Keynote",
+        "type": "keynote"
     },
     {
-        "time": "11:55",
-        "name": "Talk",
-        "title": "Green screening the serverless way",
-        "abstract": "The rise in remote learning has seen the emergence of society to connect via various remote learning platforms and tools in new and creative ways. None more so than via video which has seen the adoption of virtual backgrounds, green screening (Chroma Key) and video filters in some really creative ways. This however often comes with heavy CPU costs on a local computer resources, In this talk we are going to show you how you can run your own serverless video processing stack utilising some open source libraries and IBM's Cloud Functions to move creative video processing into the cloud.",
-        "speaker": [
-            {
-                "name": "Cong Nguyen",
-                "link": "https://www.linkedin.com/in/cong-ng/"
-            },
-            {
-                "name": "DeveloperSteve Coochin",
-                "link": "https://twitter.com/developersteve"
-            }
-        ],
-        "type": "talk"
+        "time": "10:15",
+        "name": "Keynote",
+        "type": "keynote"
     },
     {
-        "time": "12:30",
-        "name": "Interview",
-        "title": "Fireside chat with A Cloud Guru's Sam Kroonenberg",
-        "abstract": "Join Lars Klint as he sits down with Sam Kroonenberg to hear about the foundations of this great Aussie serverless startup success.",
-        "speaker": [
-        ],
-        "type": "workshop"
-    },
-    {
-        "time": "12:45",
-        "name": "Lightning Talk",
-        "title": "Build intelligent bots using Azure Logic Apps with No Code",
-        "abstract": "In this session we will explore how to built bots with the help of Azure Logic apps and go live within minutes. It's a great sample for the the business people to automate the process.",
-        "speaker": [
-            {
-                "name": "Jayakumar Balasubramaniam",
-                "link": "https://twitter.com/jayakumrB"
-            }
-        ],
-        "type": "lightning"
-    },
-    {
-        "time": "13:00",
-        "name": "Talk",
-        "title": "Azure Durable Functions: Yes, PowerShell can fan out and in too",
-        "abstract": "Durable Functions, an extension of Azure Functions, allow you to write serverless stateful functions. All the languages you would expect to see are supported, but one that might surprise is PowerShell. As a PowerShell scripter, why would you want to use durable functions? How do you get started? In this session, we'll cover one of the first issues you might encounter when moving your PowerShell workloads to serverless functions and how you can solve it using a Durable Function.",
-        "speaker": [
-            {
-                "name": "Josh King",
-                "link": "https://twitter.com/WindosNZ"
-            }
-        ],
-        "type": "talk"
-    },
-    {
-        "time": "13:35",
-        "name": "Talk",
-        "title": "Building an event driven Serverless Digital Platform",
-        "abstract": "In this session, I will talk about the process of establishing a resilient and powerful serverless Digital Platform as well as highlighting technical challenges I encountered. Covering a wide range of new technologies and serverless principles, like deploying directly to production, establishing domain based services as units of deployment, managing code failure in production, operations, and how I developed patterns to meet these challenges. I will use real life examples about how we leveraged AWS serverless technologies to architect this event driven Platform and some key leanings on why event driven architecture can be challenging, yet rewarding.",
-        "speaker": [
-            {
-                "name": "Robert O' Grady",
-                "link": "https://www.linkedin.com/in/robert-o-grady/"
-            }
-        ],
-        "type": "talk"
-    },
-    {
-        "time": "14:00",
+        "time": "11:00",
         "name": "Break",
         "type": "break"
     },
     {
-        "time": "14:10",
+        "time": "11:30",
         "name": "Talk",
-        "title": "Let Power Automate sweat the small stuff...",
-        "abstract": "... so you can focus on the big stuff! Why code something if someone has already done it for you? In this session we will explore how you can use Power Automate to be a more effective (or more lazy!) developer. Use Power Automate for the simple tasks so you can spend your time, energy and expertise on the things that really matter.",
-        "speaker": [
-            {
-                "name": "Amey Holden",
-                "link": "https://twitter.com/ameyholden"
-            }
-        ],
         "type": "talk"
     },
     {
-        "time": "14:45",
+        "time": "12:00",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "12:15",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "12:25",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "12:35",
+        "name": "Lunch",
+        "type": "break"
+    },
+    {
+        "time": "14:00",
         "name": "Talk",
-        "title": "Serverless with MongoDB Realm",
-        "abstract": "Whether you've been creating serverless applications for years or are new to the party, this session is designed to show some novel and compelling ways to use serverless Functions. You will learn how MongoDB Realm’s application development services let you focus on building the front-end features your users care about, without worrying about servers. You'll walk away from this session with some ideas to build serverless workflows on top of MongoDB, building new features, and shipping great apps.",
-        "speaker": [
-            {
-                "name": "Vigyan Jain",
-                "link": "https://twitter.com/vigyanj"
-            }
-        ],
         "type": "talk"
     },
     {
-        "time": "15:20",
+        "time": "14:35",
         "name": "Talk",
-        "title": "How to Build a Quokkabot",
-        "abstract": "Quokkas are the happiest animal in Australia that surprisingly isn't trying to kill you. But can you really be sure that what you're looking at is a Quokka and not something more dangerous? Let's look at how we can build a quokka identifying chatbot, combining a number of services including Twilio, Azure Functions and Custom Vision for ML image detection. Join me as we look at how to train an ML model to do image detection, then link the Cognitive Services API up with various Twilio communication channels to allow multiple platforms for engagement and accessing the chatbot.",
-        "speaker": [
-            {
-                "name": "Amy Kapernick",
-                "link": "https://twitter.com/amys_kapers"
-            }
-        ],
         "type": "talk"
+    },
+    {
+        "time": "15:05",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "15:15",
+        "name": "Lightning Talk",
+        "type": "lightning"
+    },
+    {
+        "time": "15:25",
+        "name": "Break",
+        "type": "break"
     },
     {
         "time": "15:55",
         "name": "Talk",
-        "title": "An app modernization story with Cloud Run",
-        "abstract": "Back in 2016, I deployed an ASP.NET monolith app to IIS on Windows. It worked but it was clunky in every sense of the word. Over the years, the app was freed from Windows (thanks to .NET Core), containerized to run consistently in different environments (thanks to Docker) and decomposed into a set of loosely-coupled, event-driven, microservices (thanks to Cloud Run). The end result is a simpler and portable serverless architecture that's much cheaper to run and maintain. In this talk, we'll go through the modernization journey, explore the decision points and deep dive into the final architecture and code.",
-        "speaker": [
-            {
-                "name": "Mete Atamel",
-                "link": "https://twitter.com/meteatamel"
-            }
-        ],
         "type": "talk"
     },
     {
-        "date": "On-demand talks on YouTube",
-        "type": "date"
-    },
-    {
-        "time": "-",
+        "time": "16:30",
         "name": "Talk",
-        "title": "Building Serverless SPAs with Azure Static Web Apps",
-        "abstract": "Are you developer building a modern web app with your favourite SPA framework and want to have a serverless APIs? What about deploying your app and reach millions of people? Do you want to just one service to make all this possible instead of going through multiple services to manage your frontend and backend? Join me to learn how to accelerate development of modern web apps with a static frontend and dynamic backend (powered by serverless APIs) using a single managed service in the form of Azure Static Web Apps on App Service..",
-        "speaker": [
-            {
-                "name": "Haitham Shaddad",
-                "link": "https://twitter.com/haitham_shaddad"
-            }
-        ],
         "type": "talk"
     },
     {
-        "time": "-",
-        "name": "Talk",
-        "title": "Homemade Serverless: Baking Serverless Solutions from Scratch (featuring Knative)",
-        "abstract": "When Amazon introduced its Lambda product in November 2014 many saw it as a revolution in computing, and they weren't wrong. But for all the benefits that Lambda and other similar products have brought to software development it also distorted the concept of 'serverless computing' and buried the chain of computing innovations that led to that point. Nowadays, for most of us, the term 'serverless' is just a progressive but nebulous buzzword meaning 'programming...but more futuristic'. In this talk we look at the conditions that gave rise to so-called 'serverless computing' and apply those first principles to modernise a small microservice-based website running on Kubernetes. Along the way we'll dispel some myths on what serverless isn't, reveal the surprisingly simple heart of what serverless actually is, and explain why you might want to think about making your own serverless solution using existing and proven open source software.",
-        "speaker": [
-            {
-                "name": "Marc Hildenbrand",
-                "link": "https://twitter.com/unremarqued"
-            }
-        ],
-        "type": "talk"
+        "time": "17:05",
+        "name": "Closing Keynote",
+        "type": "keynote"
     },
     {
-        "time": "-",
-        "name": "Talk",
-        "title": "Level-up your DevOps with GitHub Actions and Azure Functions",
-        "abstract": "Are you looking to rapidly deploy your content? Is serverless in your future? Come for this demo-only presentation where we start from scratch, build up a DevOps pipeline in GitHub Actions, and deploy to Azure Functions. Once setup, commit, and watch the magic flow into place. You too can automate your deployments.",
+        "time": "17:30",
+        "name": "Closing Remarks",
         "speaker": [
             {
-                "name": "Rob Richardson",
-                "link": "https://twitter.com/rob_rich"
-            }
-        ],
-        "type": "talk"
-    },
-    {
-        "time": "-",
-        "name": "Talk",
-        "title": "Serverless Event Sourcing in Action",
-        "abstract": "Event Sourcing is an architectural pattern that stores all changes to application state as a sequence of events. Events can be queried and the event log can be used to reconstruct past states at arbitrary points in time. Coupled with Command Query Responsibility Segregation (CQRS) we can model events and map these to multiple views of our state. Serverless provides the perfect platform for Event Sourced architectures. As everything in a serverless architecture is already evented and eventually consistent, we always need to Think in Events (tm). Event Sourcing is a powerful tool in the architectural arsenal for anyone grappling with how to manage events in a complex system. In this session we'll explore Event Sourcing and CQRS as an architectural pattern and deep dive into an example implementation inside AWS using Lambda and DynamoDB, with multiple views of state across disparate data stores.",
-        "speaker": [
-            {
-                "name": "Toby Hede",
-                "link": "https://twitter.com/tobyhede"
-            }
-        ],
-        "type": "talk"
-    },    
-    {
-        "time": "-",
-        "name": "Talk",
-        "title": "Serverless Deep Neural Network with Azure Functions and ML.Net",
-        "abstract": "Have you ever wondered how does a machine is able to classify among different species of animals just by looking an image? Deep Neural Network simplifies and help classify the things. In this session, I will cover an introduction and concepts of Deep Neural Networks and show how to build a serverless image classification application using Microsoft Azure Functions and ML.Net framework. The implementation will be in C# language.",
-        "speaker": [
-            {
-                "name": "Praveen Raghuvanshi",
-                "link": "https://twitter.com/praveenraghuvan"
-            }
-        ],
-        "type": "talk"
-    },
-    {
-        "time": "-",
-        "name": "Talk",
-        "title": "Autonomous Multi-Cloud serverless deployment and optimized management",
-        "abstract": "This presentation describes how to implement Multi-Cloud native strategies using advanced an open source framework that allows for Cloud-agnostic Multi-Cloud deployment and optimized management of the serverless applications based on flexible monitoring, context aware maximization of the application owner’s utility of the deployed serverless components, and autonomic reconfiguration based on the application’s current execution context.",
-        "speaker": [
-            {
-                "name": "Paweł Skrzypek",
-                "link": "https://twitter.com/melodic_CLOUD"
-            }
-        ],
-        "type": "talk"
-    },
-    {
-        "time": "-",
-        "name": "Talk",
-        "title": "Using Azure Function for Dynamic Admission Control in Kubernetes",
-        "abstract": "Do you want to have complete control over what gets deployed on your Kubernetes cluster? Do you have existing deployment certification processes that you want to extend to Kubernetes as well? Or do you want Kubernetes to keep you in the loop when deployments happen? Kubernetes version 1.9 introduced two code packages that allow you to write custom admission plugins: ValidatingAdmissionWebhook and MutatingAdmissionWebhook. These plugins give you a great deal of flexibility to integrate directly into the resource admission process. In this session, we will write a validating admission webhook with Azure Functions and apply governance policies on the deployments in Kubernetes. We will also use the native Azure Function Twilio binding to send SMS updates to SRE teams. After completing this session, you will understand how easy it is to write custom validating webhooks for Kubernetes. You will also be equipped to automate your existing organizational deployment policies and certify deployments at scale in Kubernetes.",
-        "speaker": [
-            {
-                "name": "Rahul Rai",
-                "link": "https://twitter.com/rahulrai_in"
+                "name": "ServerlessDays Team"
             }
         ],
         "type": "talk"
     }
-  ]
+]
 }

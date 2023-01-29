@@ -1,10 +1,10 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays ANZ - Home",
+        "title": "ServerlessDays anz - Home",
         "description": "One Day. One Track. One Community",
         "url": "https://anz.serverlessdays.io/coc",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
     },
     "navBarItems": [
         {
@@ -36,6 +36,6 @@
     ],
     "contact": {
         "email": "anz@serverlessdays.io",
-        "twitter": "https://twitter.com/@serverlessLDN"
+        "twitter": "https://twitter.com/@SydDays"
     }
 }

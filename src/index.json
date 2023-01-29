@@ -1,81 +1,339 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays ANZ 2023 - Home",
-        "description": "Bringing the ANZ Serverless Community together!",
+        "title": "ServerlessDays ANZ - Home",
+        "description": "One Day. One Track. One Community",
         "url": "https://anz.serverlessdays.io",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/ANZ/2019/serverlessdays_card.jpg"
+        "image": "img/fedsquare.jpg"
     },
     "eventDetails": {
-        "name": "ANZ 2023",
-        "description":"Bringing the ANZ Serverless Community together!",
-        "eventDate": "March 2023",
+        "name": "ANZ",
+        "description":"Let's get Serverless",
+        "startDate": "10 March 2023",
+        "endDate": "10 March 2023",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
         "hero": "img/fedsquare.jpg",
-        "tagline": "The ANZ Serverless Community Together!",
+        "tagline": "One Day. One Track. One Community",
         "cta": {
             "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
-            "name": "Get your tickets"
+            "name": "Get Tickets"
         }
     },
     "sponsors": {
-      "gold": [
-      ],
-      "silver": [
-      ],
-      "community": [
-      ]
+        "platinum": [
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_80/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
+                "alt": "Amazon Web Services",
+                "link": "https://aws.amazon.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_140/v1561959290/MS-Azure_logo_stacked_c-white_rgb_znpxoz.png",
+                "alt": "Microsoft Azure",
+                "link": "https://azure.microsoft.com/"
+            }
+        ],
+        "gold": [
+
+        ],
+        "silver": [
+
+        ]
     },
     "speakers": {
-        "text": "Serverless ANZ 2023 will bring the best of Serverless right to your computer or TV screen as we head online! The event will be free to attend, but you'll need to reserve your spot. Have something interesting you've done in the serverless world? Why not submit a talk?!",
+        "text": "The 2023 edition of ServerlessDays ANZ brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering enterprises sharing what they're doing today in production. We hope ServerlessDays ANZ will have something for everyone.",
         "lineup": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/ANZ/2019/teriradichel.jpg",
-                "alt": "Teri Radichel",
-                "link": "/speakers/teri"
+                "img": "img/speakers/susan-brander.jpeg",
+                "alt": "Susan Brander",
+                "link": "/speakers/susan"
+            },
+            {
+                "img": "img/speakers/eric-johnson.png",
+                "alt": "Eric Johnson", 
+                "link": "/speakers/eric"
+            },
+            {
+                "img": "img/speakers/renaldi-gondosubroto.png",
+                "alt": "Renaldi Gondosubroto",
+                "link": "/speakers/renaldi"
+            },
+            {
+                "img": "img/speakers/akanksha-malik.jpeg",
+                "alt": "Akanksha Malik",
+                "link": "/speakers/akanksha"
+            },
+            {
+                "img": "img/speakers/matthew-wilson.jpg",
+                "alt": "Matthew Wilson",
+                "link": "/speakers/matthew"
+            },
+            {
+                "img": "img/speakers/aaron-powell.png",
+                "alt": "Aaron Powell",
+                "link": "/speakers/aaron"
+            },
+            {
+                "img": "img/speakers/sarah-young.jpg",
+                "alt": "Sarah Young",
+                "link": "/speakers/sarah"
+            },
+            {
+                "img": "img/speakers/developersteve-coochin.jpg",
+                "alt": "Steve Coochin",
+                "link": "/speakers/steve"
+            },
+            {
+                "img": "img/speakers/chris-simon.png",
+                "alt": "Chris Simon",
+                "link": "/speakers/chris"
+            },
+            {
+                "img": "img/speakers/kris-howard.jpg",
+                "alt": "Kris Howard",
+                "link": "/speakers/kris"
             }
         ]
     },
     "agenda": [
-      {
-        "time": "08:30",
-        "name": "Doors Open",
-        "type": "break"
-      },
-      {
-        "time": "09:15",
-        "name": "Welcome Remarks",
-        "speaker": [
-          {
-            "name": "ServerlessDays Team"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "09:25",
-        "name": "Keynote",
-        "title": "Bringing WebAssembly outside the Web with WASI",
-        "abstract": "Earlier this year WASI - the WebAssembly system interface, was announced. With this system interface, WebAssembly can be used outside the browser in a portable and safe way. As Solomon Hykes, co-founder of Docker, said, 'If WASM+WASI existed in 2008, you wouldn't have needed us to create Docker. That's how important it is. Webassembly on the server is the future of computing.' But WASI will be useful for so many other use cases, too. In this talk, Lin and Till will share with you how WASI works and explore how different use cases can benefit from it.",
-        "speaker": [
-          {
-            "name": "Lin Clark",
-            "link": "/speakers/lin"
-          },
-          {
-            "name": "Till Schneidereit",
-            "link": "/speakers/till"
-          }
-        ],
-        "type": "keynote"
-      }
+        {
+            "time": "08:30",
+            "name": "Doors Open"
+        },
+        {
+            "time": "09:00",
+            "name": "Welcome Remarks"
+        },
+        {
+            "time": "09:10",
+            "name": "Keynote",
+            "speaker": [
+                {
+                    "name": "Jeremy Daly",
+                    "link": "/speakers/jeremy",
+                    "company": "Ampt"
+                }
+            ]
+        },
+        {
+            "time": "09:50",
+            "name": "Talk 1",
+            "speaker": [
+                {
+                    "name": "Susan Brandern",
+                    "link": "/speakers/susan",
+                    "company": "Tech Diversity Lab"
+                }
+            ]
+        },
+        {
+            "time": "10:20",
+            "name": "Talk 2",
+            "speaker": [
+                {
+                    "name": "Eric Johnson",
+                    "link": "/speakers/eric",
+                    "company": "Amazon Web Services"
+                }
+            ]
+        },
+        {
+            "time": "10:50",
+            "name": "Morning Tea"
+            
+        },
+        {
+            "time": "11:20",
+            "name": "Talk 3",
+            "speaker": [
+                {
+                    "name": "Renaldi Gondosubroto",
+                    "link": "/speakers/renaldi",
+                    "company": "GReS Studio"
+                }
+            ]
+        },
+        {
+            "time": "11:50",
+            "name": "Talk 4",
+            "speaker": [
+                {
+                    "name": "Akanksha Malik",
+                    "link": "/speakers/akanksha",
+                    "company": "Women Who Code Melbourne"
+                }
+            ]
+        },
+        {
+            "time": "12:05",
+            "name": "Talk 5",
+            "speaker": [
+                {
+                    "name": "Matthew Wilson",
+                    "link": "/speakers/matthew",
+                    "company": "Instil"
+                }
+            ]
+        },
+        {
+            "time": "12:35",
+            "name": "Lunch"
+        },
+        {
+            "time": "13:35",
+            "name": "Panel One",
+            "speaker": [
+                {
+                    "name": "Speakers",
+                    "link": "/speakers/panel-one",
+                    "company": "Mixed"
+                }
+            ]
+        },
+        {
+            "time": "14:05",
+            "name": "Talk 6",
+            "speaker": [
+                {
+                    "name": "Aaron Powell",
+                    "link": "/speakers/aaron",
+                    "company": "Microsoft"
+                }
+            ]
+        },
+        {
+            "time": "14:35",
+            "name": "Talk 7",
+            "speaker": [
+                {
+                    "name": "Sarah Young",
+                    "link": "/speakers/sarah",
+                    "company": "Microsoft"
+                }
+            ]
+        },
+        {
+            "time": "15:05",
+            "name": "Talk 8",
+            "speaker": [
+                {
+                    "name": "Steve Coochin",
+                    "link": "/speakers/steve",
+                    "company": "Lumigo"
+                }
+            ]
+        },
+        {
+            "time": "15:35",
+            "name": "Break"
+        },
+        {
+            "time": "16:05",
+            "name": "Panel Two",
+            "speaker": [
+                {
+                    "name": "Speakers",
+                    "link": "/speakers/panel-two",
+                    "company": "Mixed"
+                }
+            ]
+        },
+        {
+            "time": "16:35",
+            "name": "Talk 9",
+            "speaker": [
+                {
+                    "name": "Chris Simon",
+                    "link": "/speakers/chris",
+                    "company": "Dev Cycles"
+                }
+            ]
+        },
+        {
+            "time": "17:05",
+            "name": "Talk 10",
+            "speaker": [
+                {
+                    "name": "Kris Howard",
+                    "link": "/speakers/kris",
+                    "company": "Amazon Web Services"
+                }
+            ]
+        },
+        {
+            "time": "17:35",
+            "name": "Closing Remarks",
+            "speaker": [
+                {
+                    "name": "ServerlessDays Team"
+                }
+            ]
+        },
+        {
+            "time": "17:45",
+            "name": "After Party"
+        }
     ],
     "venue": {
-        "text": "After two great years in East ANZ, at St John's Hoxton, ServerlessDays moves to **Imperial College** in South Kensington. Neighbouring the Science Museum on one side and the Royal Albert Hall on the other, with the Natural History Museum and Victoria & Albert Museum a stone's throw away. Imperial College gives us the space to grow, whilst still offering an accessible event. \r\n \r\n**Location:** Sherfield Building, Imperial College, South Kensington, SW7 5NH",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/ANZ/2019/imperial_med.jpg",
+        "text": "In 2023 we will be hosting ServerlessDays ANZ in Melbourne in the sleek, ultra-modern space of The Edge at Fed Square.         ",
+        "image": "img/fedsquare.jpg",
         "cta": {
-            "path": "https://www.google.com/maps/dir/South+Kensington+Station,+ANZ/51.4985229,-0.1779713/@51.4961326,-0.1808188,16z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x48760542a2c42db5:0xf56b36019c8646fc!2m2!1d-0.1747855!2d51.4944371!1m0!3e2",
+            "path": "https://www.google.com/maps/dir/Flinders+Street+Railway+Station,+Flinders+Street,+Melbourne+VIC,+Australia/The+Edge,+Fed+Square,+Swanston+St+%26,+Flinders+St,+Melbourne+VIC+3000,+Australia/@-37.8176366,144.9661729,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6ad642b6af832249:0xe39e415e49a7c44e!2m2!1d144.9670618!2d-37.8182711!1m5!1m1!1s0x6ad642b71e5a183b:0xb0055a25e2ad1bde!2m2!1d144.9696594!2d-37.81798!3e2",
             "name": "Directions"
         }
+    },
+    "organisers": {
+        "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",
+        "people": [
+            {
+                "img": "img/organisers/peter-hanssens.jpg",
+                "alt": "Peter Hanssens",
+                "link": "/organisers/peter"
+            },
+            {
+                "img": "img/organisers/alicia-cheah.jpeg",
+                "alt": "Alicia Cheah",
+                "link": "/organisers/alicia"
+            },
+            {
+                "img": "img/organisers/peter-sbarski.jpg",
+                "alt": "Peter Sbarski",
+                "link": "/organisers/sbarski"
+            },
+            {
+                "img": "img/organisers/matt_gillard.png",
+                "alt": "Matt Gillard",
+                "link": "/organisers/matt"
+            },
+            {
+                "img": "img/organisers/nelly-sattari.jpeg",
+                "alt": "Nelly Sattari",
+                "link": "/organisers/nelly"
+            },
+            {
+                "img": "img/organisers/lars-klint.jpg",
+                "alt": "Lars Klint",
+                "link": "/organisers/lars"
+            },
+            {
+                "img": "img/organisers/bill_chesnut.jpg",
+                "alt": "Bill Chesnut",
+                "link": "/organisers/bill"
+            },
+            {
+                "img": "img/organisers/somy_ayazi.jpeg",
+                "alt": "Somy Ayazi",
+                "link": "/organisers/somy"
+            },
+            {
+                "img": "img/organisers/william.jpg",
+                "alt": "William Liebenberg",
+                "link": "/organisers/william"
+            },
+            {
+                "img": "img/organisers/nick-triantafillou.jpg",
+                "alt": "Nick Triantafillou",
+                "link": "/organisers/nick"
+            }
+        ]
     }
 }
