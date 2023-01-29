@@ -2,15 +2,15 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays anz - Peter Hanssens",
-        "description": "A Data Engineer and Solutions Architect specialising in the serverless space, Peter is an active member of the anz tech community; running the Serverless and Data Engineering meetups. ",
+        "description": "Peter is an AWS Serverless Hero and the organizer of Sydney Serverless meetup as well as 5 data engineering meetups across Australia. He is passionate about the intersection of serverless and data engineering and his day job includes running two cloud consultancies, Cloud Shuttle, a community focussed data engineering consultancy, and cloudseeder which implements best practice AWS implementations for its clients. In his spare time he coaches his son’s soccer team.        ",
         "url": "https://serverlessdays.io/organisers/peter",
-        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565264237/peter_square_wn6msm.png"
+        "image": "../img/organisers/peter-hanssens.jpg"
     },
     "organiser": {
         "name": "Peter Hanssens",
-        "title": "Data Engineer and Solutions Architect (Serverless)",
-        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565264237/peter_square_wn6msm.png",
-        "bio": "A Data Engineer and Solutions Architect specialising in the serverless space, Peter is an active member of the anz tech community; running the Serverless and Data Engineering meetups. ",
+        "title": "Founder, Cloud Shuttle and cloudseeder",
+        "img": "../img/organisers/peter-hanssens.jpg",
+        "bio": "Peter is an AWS Serverless Hero and the organizer of Sydney Serverless meetup as well as 5 data engineering meetups across Australia. He is passionate about the intersection of serverless and data engineering and his day job includes running two cloud consultancies, Cloud Shuttle, a community focussed data engineering consultancy, and cloudseeder which implements best practice AWS implementations for its clients. In his spare time he coaches his son’s soccer team.        ",
         "social": [
             {
                 "name": "Twitter",
