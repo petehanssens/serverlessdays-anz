@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Renaldi Gondosubroto",
+        "description": "Having unexpected levels of traffic and spiky load patterns is not an uncommon thing when dealing with production-level workloads. As part of setting up new endpoints for their customers, or migrating to modern endpoints such as the cloud, often times many developers have trouble determining the appropriate expected peak load for their serverless loads. /n/n/n In this talk, I will discuss how to design load test architectures based on AWS; setting them up for performing round-trip testing from an API endpoint, and perform load testing with open source tools such as k6 deployed on EC2 on AWS. I will walk you through setting up and configuring metrics and understanding the needs of different environments and how you can leverage historical data to help with this as well. As part of this, I will show a demo of how I perform such testing on a sample production workload and show the suite of tests that would be performed on it, as well as learnings gained from it and how to build upon the results further. /n/n/n Audience members will walk away being ready to set up their own load testing architectures for use within their own environments. They will gain a deep understanding on the need for chaos engineering within cloud workloads and better serve their stakeholders who are accessing their endpoints, and understand how they can work with KPIs that are formed as part of that testing to do so.",
+        "url": "https://serverlessdays.io/speakers/renaldi",
+        "image": "https://sessionize.com/image/85c9-400o400o2-15-7c04-4ea6-9e62-e7394fe78949.254f6916-94c0-4ade-b543-712239dc2854.png"
+    },
+    "speaker": {
+        "name": "Renaldi Gondosubroto",
+        "title": "Founder and Project Lead of GReS Studio",
+        "img": "https://sessionize.com/image/85c9-400o400o2-15-7c04-4ea6-9e62-e7394fe78949.254f6916-94c0-4ade-b543-712239dc2854.png",
+        "bio": "Renaldi Gondosubroto is a Software Developer from Seek Limited, where he works on the backend of the home page which is accessed by all jobseekers who search for jobs on the site as well as the infrastructure which powers it. Previously he has worked as a .NET software developer for automobile companies and has been active within the research community; putting a lot of his research focus within IoT and virtual reality. Through his passion of developing software and contributing to the opensource community, Renaldi wants to encourage the innovation of new solutions to usher forward and promote a new era of innovations that can be used by everyone. Having spoken at 20+ events and conferences, he has also been active on the open source community for the past five years, building solutions on the cloud and sharing his experiences and projects.",
+        "talk": {
+            "title": "Load Testing Event-Driven Serverless Backends",
+            "abstract" : "Having unexpected levels of traffic and spiky load patterns is not an uncommon thing when dealing with production-level workloads. As part of setting up new endpoints for their customers, or migrating to modern endpoints such as the cloud, often times many developers have trouble determining the appropriate expected peak load for their serverless loads. /n/n/n In this talk, I will discuss how to design load test architectures based on AWS; setting them up for performing round-trip testing from an API endpoint, and perform load testing with open source tools such as k6 deployed on EC2 on AWS. I will walk you through setting up and configuring metrics and understanding the needs of different environments and how you can leverage historical data to help with this as well. As part of this, I will show a demo of how I perform such testing on a sample production workload and show the suite of tests that would be performed on it, as well as learnings gained from it and how to build upon the results further. /n/n/n Audience members will walk away being ready to set up their own load testing architectures for use within their own environments. They will gain a deep understanding on the need for chaos engineering within cloud workloads and better serve their stakeholders who are accessing their endpoints, and understand how they can work with KPIs that are formed as part of that testing to do so."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

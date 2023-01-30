@@ -1,0 +1,33 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Bill Chesnut",
+        "description": "My name is Bill Chesnut; I am a Cloud Platform & API Evangelist and Microsoft MVP at SixPivot, located in Melbourne, Australia. My work has expanded from my traditional background of on-premises integration and development into some of the latest technologies in Microsoft Azure, including Azure DevOps and the Azure Integration technologies (Azure API Management, Azure Functions, Azure Logic Apps, Azure Event Grid, Azure Service Bus), along with Azure Front Door. As a Mentor, Architect, Designer, or Developer, I support or lead application integration projects to connect various Microsoft Business Solutions applications with on-premises and other SaaS providers. I started my career in IT back in 1983 with the US Defence as an IBM Systems Programmer. I switched to the Microsoft Windows platform in 1994 and have been involved with Windows development ever since. I have worked on numerous enterprise projects using Microsoft .Net, Microsoft C/C++, Visual Basic, and SQL Server. I am also a Microsoft Certified Training an have been creating and delivering Azure and BizTalk training since 2004. I am very involved in the Microsoft User Group Community as co-founder of the Integration Down Under monthly webcast (https://www.integrationdownunder.com). I contribute to numerous meetup groups in Australia and New Zealand. I am also the primary organiser of the Global Integration Bootcamp in Melbourne and a member of Serverless Days Melbourne's organising committee. I regularly present at Microsoft's lead events, such as Ignite.",
+        "url": "https://serverlessdays.io/organisers/bill",
+        "image": "../../img/organisers/bill_chesnut.jpg"
+    },
+    "organiser": {
+        "name": "Bill Chesnut",
+        "title": "Cloud Platfrom & API Evangelist, SixPivot",
+        "img": "../../img/organisers/bill_chesnut.jpg",
+        "bio": "My name is Bill Chesnut; I am a Cloud Platform & API Evangelist and Microsoft MVP at SixPivot, located in Melbourne, Australia. My work has expanded from my traditional background of on-premises integration and development into some of the latest technologies in Microsoft Azure, including Azure DevOps and the Azure Integration technologies (Azure API Management, Azure Functions, Azure Logic Apps, Azure Event Grid, Azure Service Bus), along with Azure Front Door. As a Mentor, Architect, Designer, or Developer, I support or lead application integration projects to connect various Microsoft Business Solutions applications with on-premises and other SaaS providers. I started my career in IT back in 1983 with the US Defence as an IBM Systems Programmer. I switched to the Microsoft Windows platform in 1994 and have been involved with Windows development ever since. I have worked on numerous enterprise projects using Microsoft .Net, Microsoft C/C++, Visual Basic, and SQL Server. I am also a Microsoft Certified Training an have been creating and delivering Azure and BizTalk training since 2004. I am very involved in the Microsoft User Group Community as co-founder of the Integration Down Under monthly webcast (https://www.integrationdownunder.com). I contribute to numerous meetup groups in Australia and New Zealand. I am also the primary organiser of the Global Integration Bootcamp in Melbourne and a member of Serverless Days Melbourne's organising committee. I regularly present at Microsoft's lead events, such as Ignite.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

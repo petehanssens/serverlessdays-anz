@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - DeveloperSteve Coochin",
+        "description": "The best internet of things adventures start with a blinky light and end with a serverless invocation, and this talk is no exception. For those new to the world of IOT, fear not! For upon entering this most epic of adventures I am not only going to show you how to build, connect and architect your very own serverless powered IOT enabled devices but also demonstrate a fully working buzzwire game, as seen at AWS reInvent Vegas 2022.",
+        "url": "https://serverlessdays.io/speakers/steve",
+        "image": "https://sessionize.com/image/b9f8-400o400o2-39-f7ca-473c-ba08-3c7d70d4c78b.28a6219a-8c90-43ed-b8bd-049287979f19.jpg"
+    },
+    "speaker": {
+        "name": "DeveloperSteve Coochin",
+        "title": "Lumigo Senior Developer Advocate",
+        "img": "https://sessionize.com/image/b9f8-400o400o2-39-f7ca-473c-ba08-3c7d70d4c78b.28a6219a-8c90-43ed-b8bd-049287979f19.jpg",
+        "bio": "Senior Dev Advocate Lumigo, Dev/Maker/Geek/Speaker/streamer/ruralite 🐴🐶🏞️ Prev @snyksec @IBMDeveloper @telstradev @XeroAPI @PayPalDev",
+        "talk": {
+            "title": "Building your way to a serverless powered IOT Buzzwire game",
+            "abstract" : "The best internet of things adventures start with a blinky light and end with a serverless invocation, and this talk is no exception. For those new to the world of IOT, fear not! For upon entering this most epic of adventures I am not only going to show you how to build, connect and architect your very own serverless powered IOT enabled devices but also demonstrate a fully working buzzwire game, as seen at AWS reInvent Vegas 2022."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

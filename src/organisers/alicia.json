@@ -1,0 +1,33 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Alicia Cheah",
+        "description": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. /n/n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. /n/n Alicia is a fan of horror movies, needle crafts, and video games.",
+        "url": "https://serverlessdays.io/organisers/alicia",
+        "image": "../../img/organisers/alicia-cheah.jpeg"
+    },
+    "organiser": {
+        "name": "Alicia Cheah",
+        "title": "Content and Community Marketing Leader",
+        "img": "../../img/organisers/alicia-cheah.jpeg",
+        "bio": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. /n/n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. /n/n Alicia is a fan of horror movies, needle crafts, and video games.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

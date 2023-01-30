@@ -1,0 +1,33 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - William Liebenberg",
+        "description": "William is a Solution Architect at SSW with a strong focus on building enterprise solutions on Azure and enjoys developing great software engineering practices for teams. /n/n/n William is an active member of the Melbourne developer community where you can find him attending or presenting at user groups, hack days and conferences every time he has a chance! Also, William is president of Melbourne .NET user group as well as co-organiser of the Melb.NET user group (yes, there are 2 .NET meetups in town – naming is hard!). /n/n/n Recently in his spare time William combined his passion for Serverless IoT and BBQing to build his own smoker that can track the temperature and doneness of his tasty treats.",
+        "url": "https://serverlessdays.io/organisers/william",
+        "image": "../../img/organisers/william.jpg"
+    },
+    "organiser": {
+        "name": "William Liebenberg",
+        "title": "Solutions Architect, SSW",
+        "img": "../../img/organisers/william.jpg",
+        "bio": "William is a Solution Architect at SSW with a strong focus on building enterprise solutions on Azure and enjoys developing great software engineering practices for teams. /n/n/n William is an active member of the Melbourne developer community where you can find him attending or presenting at user groups, hack days and conferences every time he has a chance! Also, William is president of Melbourne .NET user group as well as co-organiser of the Melb.NET user group (yes, there are 2 .NET meetups in town – naming is hard!). /n/n/n Recently in his spare time William combined his passion for Serverless IoT and BBQing to build his own smoker that can track the temperature and doneness of his tasty treats.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
