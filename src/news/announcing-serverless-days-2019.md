@@ -1,4 +1,4 @@
-# Announcing ServerlessDays anz 2019
+# Announcing ServerlessDays ANZ 2019
 
 
 - Conference: August 27th 2019
@@ -19,7 +19,7 @@ Conference format will be single track sessions (aiming at a mix of experience l
 
 ### CFP
 
-Share your Serverless experiences at ServerlessDays anz. The CFP is now open until 20 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdays-anz)
+Share your Serverless experiences at ServerlessDays ANZ. The CFP is now open until 20 May 2019. Submit to the CFP [here](https://www.papercall.io/serverlessdays-anz)
 
 ### Diversity and Inclusion
 

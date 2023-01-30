@@ -47,7 +47,7 @@ Ticket holders will have access to a free workshop on the day before the confere
 
 ### Diversity
 
-ServerlessDays anz is running a scholarship program for under represented minorities in tech to attend for free, through **diversitytickets.org** which you can [apply for here](https://diversitytickets.org/en/events/420). Please share this with people who are eligible. 
+ServerlessDays ANZ is running a scholarship program for under represented minorities in tech to attend for free, through **diversitytickets.org** which you can [apply for here](https://diversitytickets.org/en/events/420). Please share this with people who are eligible. 
 
 ### Sponsorships
 

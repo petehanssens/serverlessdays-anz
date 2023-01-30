@@ -1,7 +1,7 @@
 {
     "layout": "agenda.njk",
     "page": {
-        "title": "ServerlessDays anz - Agenda",
+        "title": "ServerlessDays ANZ - Agenda",
         "description": "One Day. One Track. One Community",
         "url": "https://anz.serverlessdays.io/agenda",
         "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"

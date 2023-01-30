@@ -1,22 +1,22 @@
 {
     "layout": "news.njk",
     "page": {
-        "title": "ServerlessDays anz - News",
+        "title": "ServerlessDays ANZ - News",
         "description": "One Day. One Track. One Community",
         "url": "https://anz.serverlessdays.io/news",
         "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
     },
     "lead": {
-        "headline": "Announcing ServerlessDays anz 2019",
-        "description": "ServerlessDays anz 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
+        "headline": "Announcing ServerlessDays ANZ 2019",
+        "description": "ServerlessDays ANZ 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
         "date": "26 March 2019",
         "link": "./announcing-serverless-days-2019",
         "image": ""
     },
     "posts": [
         {
-            "headline": "Announcing ServerlessDays anz 2019",
-            "description": "ServerlessDays anz 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "headline": "Announcing ServerlessDays ANZ 2019",
+            "description": "ServerlessDays ANZ 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
             "date": "26 March 2019",
             "link": "./announcing-serverless-days-2019",
             "image": ""
