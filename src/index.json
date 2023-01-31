@@ -110,7 +110,8 @@
                 "alt": "Kris Howard",
                 "link": "/"
             }
-        ]
+        ],
+        "speakercaption": "Click each speaker's profile to find out more about their talk and read their session abstract."
     },
     "agenda": [
         {
@@ -137,7 +138,7 @@
             "name": "Talk 1",
             "speaker": [
                 {
-                    "name": "Susan Brandern",
+                    "name": "Susan Brander",
                     "link": "/speakers/susan",
                     "company": "Tech Diversity Lab"
                 }
@@ -183,21 +184,6 @@
         },
         {
             "time": "12:05",
-            "name": "Talk 5",
-            "speaker": [
-                {
-                    "name": "TBC",
-                    "link": "/",
-                    "company": "tbc"
-                }
-            ]
-        },
-        {
-            "time": "12:35",
-            "name": "Lunch"
-        },
-        {
-            "time": "13:35",
             "name": "Panel One",
             "speaker": [
                 {
@@ -208,8 +194,13 @@
             ]
         },
         {
-            "time": "14:05",
-            "name": "Talk 6",
+            "time": "12:45",
+            "name": "Lunch"
+        },
+        
+        {
+            "time": "13:45",
+            "name": "Talk 5",
             "speaker": [
                 {
                     "name": "Aaron Powell",
@@ -219,8 +210,8 @@
             ]
         },
         {
-            "time": "14:35",
-            "name": "Talk 7",
+            "time": "14:15",
+            "name": "Talk 6",
             "speaker": [
                 {
                     "name": "Sarah Young",
@@ -230,8 +221,8 @@
             ]
         },
         {
-            "time": "15:05",
-            "name": "Talk 8",
+            "time": "14:45",
+            "name": "Talk 7",
             "speaker": [
                 {
                     "name": "Steve Coochin",
@@ -241,11 +232,11 @@
             ]
         },
         {
-            "time": "15:35",
+            "time": "15:15",
             "name": "Break"
         },
         {
-            "time": "16:05",
+            "time": "15:45",
             "name": "Panel Two",
             "speaker": [
                 {
@@ -256,8 +247,8 @@
             ]
         },
         {
-            "time": "16:35",
-            "name": "Talk 9",
+            "time": "16:25",
+            "name": "Talk 8",
             "speaker": [
                 {
                     "name": "Chris Simon",
@@ -267,8 +258,8 @@
             ]
         },
         {
-            "time": "17:05",
-            "name": "Talk 10",
+            "time": "16:55",
+            "name": "Talk 9",
             "speaker": [
                 {
                     "name": "Kris Howard",
@@ -278,7 +269,7 @@
             ]
         },
         {
-            "time": "17:35",
+            "time": "17:25",
             "name": "Closing Remarks",
             "speaker": [
                 {
@@ -288,7 +279,7 @@
         },
         {
             "time": "17:45",
-            "name": "After Party"
+            "name": "After Party 🎈🥳"
         }
     ],
     "venue": {
