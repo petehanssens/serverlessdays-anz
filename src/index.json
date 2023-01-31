@@ -33,10 +33,33 @@
             }
         ],
         "gold": [
-
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_100/v1675125888/slsdaysanz/cloudshuttle-white-transparent.png",
+                "alt": "Cloud Shuttle",
+                "link": "https://www.cloudshuttle.com.au/"
+            }
         ],
         "silver": [
-
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_40/v1675124787/slsdaysanz/rokt_black_beetroot.png",
+                "alt": "Rokt",
+                "link": "https://www.rokt.com/careers/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_60/v1675124786/slsdaysanz/jdp-dots-transparent.png",
+                "alt": "Just Digital People",
+                "link": "https://www.justdigitalpeople.com.au/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675124787/slsdaysanz/momento-white.png",
+                "alt": "Momento",
+                "link": "https://www.gomomento.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675124786/slsdaysanz/horizontal-logo-onecolor-white-atlassian.png",
+                "alt": "Atlassian",
+                "link": "https://www.atlassian.com/company/careers"
+            }
         ]
     },
     "speakers": {
@@ -85,7 +108,7 @@
             {
                 "img": "https://sessionize.com/image/0577-400o400o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
                 "alt": "Kris Howard",
-                "link": "/speakers/kris"
+                "link": "/"
             }
         ]
     },
