@@ -56,6 +56,11 @@
             "img": "../img/organisers/nick-triantafillou.jpg",
             "alt": "Nick Triantafillou",
             "link": "/organisers/nick"
+        },
+        {
+            "img": "../img/organisers/darshit-pandya.jpeg",
+            "alt": "Darshit Pandya",
+            "link": "/organisers/darshit-pandya"
         }
     ]
 }
