@@ -59,12 +59,22 @@
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675124786/slsdaysanz/horizontal-logo-onecolor-white-atlassian.png",
                 "alt": "Atlassian",
                 "link": "https://www.atlassian.com/company/careers"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675768838/slsdaysanz/Pluralsight-Logo-Horizontal-White-Fill-sm_original.png",
+                "alt": "Pluralsight",
+                "link": "https://www.pluralsight.com/"
             }
         ]
     },
     "speakers": {
         "text": "The 2023 edition of ServerlessDays ANZ brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering enterprises sharing what they're doing today in production. We hope ServerlessDays ANZ will have something for everyone.",
         "lineup": [
+            {
+                "img": "https://sessionize.com/image/bd2c-400o400o2-fd-880f-443e-8165-36d90a310365.2d119cd1-e581-4cfc-b40f-3bb884362040.jpg",
+                "alt": "Jeremy Daly",
+                "link": "/speakers/jeremy"
+            },
             {
                 "img": "https://sessionize.com/image/cc49-400o400o2-XhmDCy3P4qbAvEsNpiNXGB.jpeg",
                 "alt": "Susan Brander",

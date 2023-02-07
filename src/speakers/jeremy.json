@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Jeremy Daly",
+        "description": "There’s been an explosion of “serverless” offerings over the last 8 years. From FaaS and managed services, to “serverless containers”, to the serverless database space race, and most recently, the ridiculous “serverless” branding of services like Amazon Neptune and OpenSearch.\r\n\r\nThe debate over what is, or what is not, serverless is sure to rage on, but arguing the nuances of purity will continue to be lost on many, and ignored by most. And maybe that’s okay. The truth is that it doesn’t matter what we call these services because, in the real world, people just want to get things done using the incredible power of the public cloud. The better question is: how well do these services fit into workflows that maximize developer productivity to rapidly create value for end users?\r\n\r\nIn this talk, we’ll discuss why developer experience is so important, and how it’s a much better indicator of “serverlessness” than simple litmus tests or marketing spin.",
+        "url": "https://serverlessdays.io/speakers/jeremy",
+        "image": "https://sessionize.com/image/bd2c-400o400o2-fd-880f-443e-8165-36d90a310365.2d119cd1-e581-4cfc-b40f-3bb884362040.jpg"
+    },
+    "speaker": {
+        "name": "Jeremy Daly",
+        "title": "AWS Serverless Hero, host of the Serverless Chats Podcast, and publisher of the Off-by-none newsletter",
+        "img": "https://sessionize.com/image/bd2c-400o400o2-fd-880f-443e-8165-36d90a310365.2d119cd1-e581-4cfc-b40f-3bb884362040.jpg",
+        "bio": "Jeremy is a passionate serverless advocate, an AWS Serverless Hero, and a senior technology leader with more than 25 years of experience building web and mobile applications. He is an active member of the serverless community, creating and contributing to open source serverless projects, and frequently consulting with companies looking to adopt serverless. Jeremy also writes extensively about serverless on his blog jeremydaly.com, publishes Off-by-none, a weekly email newsletter that focuses on all things serverless, and hosts the Serverless Chats Podcast. He is currently the CEO of Ampt.",
+        "talk": {
+            "title": "Serverless = Developer Experience",
+            "abstract" : "There’s been an explosion of “serverless” offerings over the last 8 years. From FaaS and managed services, to “serverless containers”, to the serverless database space race, and most recently, the ridiculous “serverless” branding of services like Amazon Neptune and OpenSearch.\r\n\r\nThe debate over what is, or what is not, serverless is sure to rage on, but arguing the nuances of purity will continue to be lost on many, and ignored by most. And maybe that’s okay. The truth is that it doesn’t matter what we call these services because, in the real world, people just want to get things done using the incredible power of the public cloud. The better question is: how well do these services fit into workflows that maximize developer productivity to rapidly create value for end users?\r\n\r\nIn this talk, we’ll discuss why developer experience is so important, and how it’s a much better indicator of “serverlessness” than simple litmus tests or marketing spin."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

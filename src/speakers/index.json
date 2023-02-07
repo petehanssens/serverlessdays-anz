@@ -8,6 +8,11 @@
     },
     "speakers" :  [
         {
+            "img": "https://sessionize.com/image/bd2c-400o400o2-fd-880f-443e-8165-36d90a310365.2d119cd1-e581-4cfc-b40f-3bb884362040.jpg",
+            "alt": "Jeremy Daly",
+            "link": "/speakers/jeremy"
+        },
+        {
             "img": "https://sessionize.com/image/cc49-400o400o2-XhmDCy3P4qbAvEsNpiNXGB.jpeg",
             "alt": "Susan Brander",
             "link": "/speakers/susan"
