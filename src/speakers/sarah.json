@@ -18,13 +18,8 @@
         "social": [
             {
                 "name": "Twitter",
-                "link": "https://twitter.com/slsdaysanz",
+                "link": "https://twitter.com/_sarahyo",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
-            },
-            {
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
-                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
             }
         ],
         "links": [

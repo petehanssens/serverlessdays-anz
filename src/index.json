@@ -118,7 +118,7 @@
             {
                 "img": "https://sessionize.com/image/0577-400o400o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
                 "alt": "Kris Howard",
-                "link": "/"
+                "link": "/speakers/kris"
             }
         ],
         "speakercaption": "Click each speaker's profile to find out more about their talk and read their session abstract."
@@ -273,7 +273,7 @@
             "speaker": [
                 {
                     "name": "Kris Howard",
-                    "link": "/",
+                    "link": "/speakers/kris",
                     "company": "Amazon Web Services"
                 }
             ]

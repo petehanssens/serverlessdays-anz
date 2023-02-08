@@ -8,7 +8,7 @@
     },
     "speaker": {
         "name": "Chris Simon",
-        "title": "Domain Driven Design and Serverless: A Winning Combination",
+        "title": "Startup CTO Coach",
         "img": "https://sessionize.com/image/6c6b-400o400o2-NzeWrMsLVfdAwv4fBM36TJ.png",
         "bio": "Chris is the technical co-founder of https://www.inloop.com.au, home of Australian Fintech success stories https://www.flexischools.com.au and https://www.lanternpay.com (Recently acquired by NAB). /n/n/n Since 2021 he has been coaching startup CTOs through Dev Cycles Technology Advisory (https://devcycles.io/page/consulting/) as well as supporting executives & boards with strategic technology advice, and engineering teams with training & mentoring and consulting. /n/n/n To support teams practicing Domain Driven Design, he recently launched an open-source IDE extension called Contextive (https://contextive.tech) to help with common communication challenges between developers and the broader organisation.",
         "talk": {
@@ -18,19 +18,19 @@
         "social": [
             {
                 "name": "Twitter",
-                "link": "https://twitter.com/slsdaysanz",
+                "link": "https://twitter.com/ChrisSimonAu",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
             },
             {
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "link": "https://www.linkedin.com/in/christopher-simon-au/",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
             }
         ],
         "links": [
             {
-                "text": "",
-                "link": ""
+                "text": "devcycles.io",
+                "link": "https://devcycles.io/"
             }
         ]
     }

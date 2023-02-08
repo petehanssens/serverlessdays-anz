@@ -16,11 +16,21 @@
             "abstract" : "Got an Idea? Can code? You too can be a startup founder! \r\n\r\nIn this talk Susan shares how Kaleida got its MVP to market quickly using SST.  \r\n\r\nWith limited time, and even less budget, startup founders need to validate their ideas with real customers, without sinking months into prototyping. \r\n\r\nWe'll cover the choices, trade offs and lessons learned along the way to help us get to market with something that could be built upon, not thrown away. \r\n\r\nTake away from this session the belief that you can get an idea in front of customers without lengthy expensive builds and high running costs, as well as actionable first steps to get you started. \r\n\r\nKeep it simple, be pragmatic, and change the world. \r\n"
         },
         "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/SusanBrander",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/susan-brander/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
         ],
         "links": [
             {
-                "text": "",
-                "link": ""
+                "text": "Tech Diversity Lab",
+                "link": "https://www.techdiversitylab.com/"
             }
         ]
     }
