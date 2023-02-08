@@ -107,7 +107,7 @@
             },
             {
                 "img": "https://sessionize.com/image/b9f8-400o400o2-39-f7ca-473c-ba08-3c7d70d4c78b.28a6219a-8c90-43ed-b8bd-049287979f19.jpg",
-                "alt": "Steve Coochin",
+                "alt": "DeveloperSteve Coochin",
                 "link": "/speakers/steve"
             },
             {
@@ -118,7 +118,7 @@
             {
                 "img": "https://sessionize.com/image/0577-400o400o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
                 "alt": "Kris Howard",
-                "link": "/"
+                "link": "/speakers/kris"
             }
         ],
         "speakercaption": "Click each speaker's profile to find out more about their talk and read their session abstract."
@@ -177,7 +177,7 @@
                 {
                     "name": "Renaldi Gondosubroto",
                     "link": "/speakers/renaldi",
-                    "company": "GReS Studio"
+                    "company": "Seek Limited"
                 }
             ]
         },
@@ -235,7 +235,7 @@
             "name": "Talk 7",
             "speaker": [
                 {
-                    "name": "Steve Coochin",
+                    "name": "DeveloperSteve Coochin",
                     "link": "/speakers/steve",
                     "company": "Lumigo"
                 }
@@ -273,7 +273,7 @@
             "speaker": [
                 {
                     "name": "Kris Howard",
-                    "link": "/",
+                    "link": "/speakers/kris",
                     "company": "Amazon Web Services"
                 }
             ]
