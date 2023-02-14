@@ -1,5 +1,5 @@
 {
-    "layout": "contest.njk",
+    "layout": "coc.njk",
     "page": {
         "title": "ServerlessDays ANZ - Contest",
         "description": "ServerlessDays ANZ March 2023 Contest terms and conditions",
