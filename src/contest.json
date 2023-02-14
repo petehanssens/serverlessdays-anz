@@ -1,0 +1,9 @@
+{
+    "layout": "contest.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Contest",
+        "description": "ServerlessDays ANZ March 2023 Contest terms and conditions",
+        "url": "https://anz.serverlessdays.io/contest",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
+    }
+}
