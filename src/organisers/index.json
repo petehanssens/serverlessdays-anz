@@ -8,57 +8,57 @@
     },
     "organisers" :  [
         {
-            "img": "../img/organisers/peter-hanssens.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_300/v1676505263/slsdaysanz/peter-hanssens.jpg",
             "alt": "Peter Hanssens",
             "link": "/organisers/peter"
         },
         {
-            "img": "../img/organisers/alicia-cheah.jpeg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_300/v1676505262/slsdaysanz/alicia-cheah.jpg",
             "alt": "Alicia Cheah",
             "link": "/organisers/alicia"
         },
         {
-            "img": "../img/organisers/peter-sbarski.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_300/v1676505263/slsdaysanz/peter-sbarski.jpg",
             "alt": "Peter Sbarski",
             "link": "/organisers/sbarski"
         },
         {
-            "img": "../img/organisers/matt_gillard.png",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_300/v1676505265/slsdaysanz/matt_gillard.png",
             "alt": "Matt Gillard",
             "link": "/organisers/matt"
         },
         {
-            "img": "../img/organisers/nelly-sattari.jpeg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_300/v1676505263/slsdaysanz/nelly-sattari.jpg",
             "alt": "Nelly Sattari",
             "link": "/organisers/nelly"
         },
         {
-            "img": "../img/organisers/lars-klint.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_300/v1676505262/slsdaysanz/lars-klint.jpg",
             "alt": "Lars Klint",
             "link": "/organisers/lars"
         },
         {
-            "img": "../img/organisers/bill_chesnut.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_300/v1676505263/slsdaysanz/bill_chesnut.jpg",
             "alt": "Bill Chesnut",
             "link": "/organisers/bill"
         },
         {
-            "img": "../img/organisers/somy_ayazi.jpeg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_300/v1676505263/slsdaysanz/somy_ayazi.jpg",
             "alt": "Somy Ayazi",
             "link": "/organisers/somy"
         },
         {
-            "img": "../img/organisers/william.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_300/v1676505263/slsdaysanz/william.jpg",
             "alt": "William Liebenberg",
             "link": "/organisers/william"
         },
         {
-            "img": "../img/organisers/nick-triantafillou.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_300/v1676505265/slsdaysanz/nick-triantafillou.jpg",
             "alt": "Nick Triantafillou",
             "link": "/organisers/nick"
         },
         {
-            "img": "../img/organisers/darshit-pandya.jpeg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_300/v1676505262/slsdaysanz/darshit-pandya.jpg",
             "alt": "Darshit Pandya",
             "link": "/organisers/darshit-pandya"
         }
