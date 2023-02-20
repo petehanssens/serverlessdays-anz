@@ -12,8 +12,8 @@
         "img": "https://sessionize.com/image/ea34-200o200o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
         "bio": "Kris Howard has been building and playing on the Internet for over twenty years. She heads up AWS Developer Relations for Asia-Pacific, and she speaks regularly at tech events around the world.",
         "talk": {
-            "title": "Modern serverless applications: Do they lock you in?",
-            "abstract" : "Building on the cloud is amazing — you have instant access to fully managed services, elastic on-demand scaling, and fine-grained access control. If you build your applications on a serverless ecosystem, the cloud even takes care of deploying and managing all of the underlying infrastructure. But can serverless applications lock you in? What if one day you have to take your application somewhere else? This session discusses trade-offs for modern cloud applications, explains why “lock-in” isn’t just the result of the services you use, and shows why the best abstraction layers are the ones in your head."
+            "title": "TBA",
+            "abstract" : "TBA"
         },
         "social": [
             {
