@@ -134,18 +134,18 @@
         },
         {
             "time": "09:10",
-            "name": "Keynote",
+            "name": "Keynote - Serverless = Developer Experience",
             "speaker": [
                 {
                     "name": "Jeremy Daly",
-                    "link": "/",
+                    "link": "/speakers/jeremy",
                     "company": "Ampt"
                 }
             ]
         },
         {
             "time": "09:50",
-            "name": "Talk 1",
+            "name": "Idea to MVP to Product: A StartUp Journey",
             "speaker": [
                 {
                     "name": "Susan Brander",
@@ -156,7 +156,7 @@
         },
         {
             "time": "10:20",
-            "name": "Talk 2",
+            "name": "Maintaining idempotency in distributed serverless applications",
             "speaker": [
                 {
                     "name": "Eric Johnson",
@@ -172,7 +172,7 @@
         },
         {
             "time": "11:20",
-            "name": "Talk 3",
+            "name": "Load Testing Event-Driven Serverless Backends",
             "speaker": [
                 {
                     "name": "Renaldi Gondosubroto",
@@ -183,7 +183,7 @@
         },
         {
             "time": "11:50",
-            "name": "Talk 4",
+            "name": "Speech to Text: Making Podcasts and AI Accessible",
             "speaker": [
                 {
                     "name": "Akanksha Malik",
@@ -194,7 +194,7 @@
         },
         {
             "time": "12:05",
-            "name": "Panel One",
+            "name": "AWS Community Panel - Serverless: Not just for startups?",
             "speaker": [
                 {
                     "name": "Speakers",
@@ -210,7 +210,7 @@
         
         {
             "time": "13:45",
-            "name": "Talk 5",
+            "name": "Rebuilding the Azure Functions programming model",
             "speaker": [
                 {
                     "name": "Aaron Powell",
@@ -221,7 +221,7 @@
         },
         {
             "time": "14:15",
-            "name": "Talk 6",
+            "name": "Serverless security essentials",
             "speaker": [
                 {
                     "name": "Sarah Young",
@@ -232,7 +232,7 @@
         },
         {
             "time": "14:45",
-            "name": "Talk 7",
+            "name": "Building your way to a serverless powered IOT Buzzwire game",
             "speaker": [
                 {
                     "name": "DeveloperSteve Coochin",
@@ -258,7 +258,7 @@
         },
         {
             "time": "16:25",
-            "name": "Talk 8",
+            "name": "Domain Driven Design and Serverless: A Winning Combination",
             "speaker": [
                 {
                     "name": "Chris Simon",
@@ -269,7 +269,7 @@
         },
         {
             "time": "16:55",
-            "name": "Talk 9",
+            "name": "TBA",
             "speaker": [
                 {
                     "name": "Kris Howard",
