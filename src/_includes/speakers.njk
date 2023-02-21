@@ -10,8 +10,26 @@ layout: base.njk
                     <img class="ba br-100 b--transparent w5" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />
                     <p class="f3 pt2 primaryColor tc">{{ speaker.alt }}</p>
                 </a>
+                <div class="pa2">{{speaker.role}}</div>
+                <div>{{speaker.title}}</div>
             </span>
             {% endfor %}
+            {% if session.talk %}
+                        <div class="dt w-50">
+                            <div class="dt-row">
+                                <div class="dtc i pv2 w3 pr3 f5">Title</div>
+                                <div class="dtc pv2 b mw5 mw6-ns f5">
+                                    {{ session.talk.title }}
+                                </div>
+                            </div>
+                            <div class="dt-row mw6 mw7-ns">
+                                <div class="dtc i w3 pr3 f5">Abstract</div>
+                                <div class="dtc f5 lh-copy markdown-body mw5 mw6-ns">
+                                    {% markdown session.talk.abstract %}
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %}
     </div>
     <div class="cf">
     </div>
