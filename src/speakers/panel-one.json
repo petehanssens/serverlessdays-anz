@@ -12,6 +12,7 @@
         "role":  "Moderator",
         "title": "Technical Principal, Contino",
         "img": "https://sessionize.com/image/a7de-200o200o2-sWFPYDtjPD17kqhNZCVBxN.png",
+        "link": "/organisers/matt",
         "bio": "",
         "social": [
             {
@@ -38,6 +39,7 @@
             "title": "Head of Application Integration GTM, AWS",
             "img": "https://sessionize.com/image/6f62-0o0o0-4S7FQwLiSca9JxXdQiZQJT.JPG?download=emily-shea.JPG",
             "bio": "Emily Shea leads Go-To-Market for Application Integration at AWS. She is passionate about helping customers innovate faster with serverless applications and event-driven architectures.",
+            "link": "/speakers/emily",
             "social": [
                 {
                     "name": "Twitter",
@@ -63,6 +65,7 @@
                 "title": "Solutions Architect, Cloud Shuttle",
                 "img": "https://sessionize.com/image/c77d-200o200o2-WxQ22VRBXHZ7cywiVSsnrh.jpg",
                 "bio": "A big fan of all things Serverless and Data Engineering.",
+                "link": "/organisers/peter",
                 "social": [
                     {
                         "name": "Twitter",
@@ -88,6 +91,7 @@
                     "title": "Serverless Architect, Accenture",
                     "img": "https://sessionize.com/image/68eb-200o200o2-Ly6ZdgnZKm7rM7B7H4M5i6.png",
                     "bio": "Michael has been delivering Serverless Solutions to production for five years and works with the myWizard AiOps team at Accenture, building and accelerating Serverless teams. He is an AWS Community builder in Melbourne, co-hosting the AWS Programming and Tools Meetup.",
+                    "link": "/speakers/michael",
                     "social": [
                         {
                             "name": "Twitter",
