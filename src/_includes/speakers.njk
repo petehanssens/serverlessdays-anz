@@ -7,11 +7,11 @@ layout: base.njk
             {% for speaker in speakers %}
             <span class="w5 pa2 pa3-m pa4-l v-top center tc dib">
                 <a class="no-underline center" href="{{ speaker.link }}">
-                    <img class="ba br-100 b--transparent w5" src="{{ speaker.img }}" alt="{{ speaker.alt }}" />
-                    <p class="f3 pt2 primaryColor tc">{{ speaker.alt }}</p>
+                    <img class="ba br-100 b--transparent w5" src="{{ speaker.img }}" alt="{{ speaker.name }}" />
+                    <p class="f3 pt2 primaryColor tc">{{ speaker.name }}</p>
                 </a>
-                <div class="pa2">{{speaker.role}}</div>
-                <div>{{speaker.title}}</div>
+                <div class="pa2 f4">{{speaker.role}}</div>
+                <div class="pa2 f5">{{speaker.title}}</div>
             </span>
             {% endfor %}
             {% if session.talk %}
