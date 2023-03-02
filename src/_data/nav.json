@@ -11,9 +11,9 @@
             "name": "Organisers"
         },
         {
-            "key": "contest",
-            "path": "/contest",
-            "name": "Contest"
+            "key": "prizedraw",
+            "path": "/prizedraw",
+            "name": "Prize Draw"
         },
         {
             "key": "coc",
