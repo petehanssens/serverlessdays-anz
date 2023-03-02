@@ -12,8 +12,8 @@
         "img": "https://sessionize.com/image/ea34-200o200o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
         "bio": "Kris Howard has been building and playing on the Internet for over twenty years. She heads up AWS Developer Relations for Asia-Pacific, and she speaks regularly at tech events around the world.",
         "talk": {
-            "title": "TBA",
-            "abstract" : "TBA"
+            "title": "Thinking in Integration Patterns",
+            "abstract" : "Modern cloud applications, based on serverless or microservices architectures, are fine-grained, distributed, and interconnected by nature. We all know that building distributed systems can help you move quickly, improve your agility, and provide seamless user experiences. But despite having connected systems for decades, many developers still struggle with some of the fundamental concepts of partial failure, eventual consistency, and idempotency. How loosely coupled should you aim for? What ultimately holds your app together?\n\nThis session tackles the nuances of integrated systems, such as messages vs. events, thinking in integration patterns, whether loose coupling is always better, and how cloud automation changes the way you think about integration."
         },
         "social": [
             {
