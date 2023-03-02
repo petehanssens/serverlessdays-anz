@@ -2,7 +2,7 @@
     "layout": "speaker.njk",
     "page": {
         "title": "ServerlessDays ANZ - Akanksha Malik",
-        "description": "Cloud solutions - especially those involving machine learning - can often be viewed as enterprise only solutions. However, there are countless use cases where it should be utilised in everyday life to make things more accessible. Azure ML has been making large headway in making this a possibility with low code solutions. /n/n/n Join me in a session as I go through how I leverage Azure Cognitive Services in my life to transcribe a podcast in efforts to make it as inclusive and accessible as possible. See how you could have a speech to text service up and running in minutes.",
+        "description": "Cloud solutions - especially those involving machine learning - can often be viewed as enterprise only solutions. However, there are countless use cases where it should be utilised in everyday life to make things more accessible. Azure ML has been making large headway in making this a possibility with low code solutions.\n\nJoin me in a session as I go through how I leverage Azure Cognitive Services in my life to transcribe a podcast in efforts to make it as inclusive and accessible as possible. See how you could have a speech to text service up and running in minutes.",
         "url": "https://serverlessdays.io/speakers/akanksha",
         "image": "https://sessionize.com/image/edbb-400o400o2-Duf3eZdeAWf7g3L3ast6W2.jpeg"
     },
@@ -10,10 +10,10 @@
         "name": "Akanksha Malik",
         "title": "Microsoft AI MVP",
         "img": "https://sessionize.com/image/edbb-400o400o2-Duf3eZdeAWf7g3L3ast6W2.jpeg",
-        "bio": "Akanksha is a Data Consultant, a Microsoft AI MVP and an international speaker. After studying Financial Maths and Actuarial Science at UCC, Ireland, she realised she wanted to work with people as well as numbers. As a consultant, she works with clients to help them solve problems by making more informed decisions with data. /n/n/n She is a firm believer of diversity and inclusivity. She loves machine learning, and that it is becoming more accessible to everyone. She is an avid advocate for women in STEM and is currently the network director of Women Who Code Melbourne and advisory board member for Tech Diversity Lab.",
+        "bio": "Akanksha is a Data Consultant, a Microsoft AI MVP and an international speaker. After studying Financial Maths and Actuarial Science at UCC, Ireland, she realised she wanted to work with people as well as numbers. As a consultant, she works with clients to help them solve problems by making more informed decisions with data.\n\nShe is a firm believer of diversity and inclusivity. She loves machine learning, and that it is becoming more accessible to everyone. She is an avid advocate for women in STEM and is currently the network director of Women Who Code Melbourne and advisory board member for Tech Diversity Lab.",
         "talk": {
             "title": "Speech to Text: Making Podcasts and AI Accessible",
-            "abstract" : "Cloud solutions - especially those involving machine learning - can often be viewed as enterprise only solutions. However, there are countless use cases where it should be utilised in everyday life to make things more accessible. Azure ML has been making large headway in making this a possibility with low code solutions. /n/n/n Join me in a session as I go through how I leverage Azure Cognitive Services in my life to transcribe a podcast in efforts to make it as inclusive and accessible as possible. See how you could have a speech to text service up and running in minutes."
+            "abstract" : "Cloud solutions - especially those involving machine learning - can often be viewed as enterprise only solutions. However, there are countless use cases where it should be utilised in everyday life to make things more accessible. Azure ML has been making large headway in making this a possibility with low code solutions.\n\nJoin me in a session as I go through how I leverage Azure Cognitive Services in my life to transcribe a podcast in efforts to make it as inclusive and accessible as possible. See how you could have a speech to text service up and running in minutes."
         },
         "social": [
             {
