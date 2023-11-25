@@ -14,7 +14,7 @@
         <div class="f5 lh-copy pr3-m">{% markdown speakers.speakercaption %}</div>
         <div class="f5 lh-copy pr3-m">
             {% for link in speakers.rfp %}
-                <div class="mt4"><a class="pv2 ph2 ph4-l f4 no-underline ba br2 b--transparent primaryBkg primaryColor" href="{{ link.path }}" target="_blank">{{ link.name }}</a></div>
+                <a class="pv2 ph2 ph4-l f4 no-underline ba br2 b--transparent primaryBkg primaryColor" href="{{ link.path }}" target="_blank">{{ link.name }}</a>
             {% endfor %}
         </div>
     </div>

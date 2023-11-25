@@ -6,7 +6,9 @@
     </div>
     <div class="tc pv1 pv3-ns">
         {% for item in nav.navBarItems %}
-            <a class="no-underline primaryColor pa2 f6" href="{{ item.path }}">{{ item.name }}</a>
+            {% if not item.hidden %}
+                <a class="no-underline primaryColor pa2 f6" href="{{ item.path }}">{{ item.name }}</a>
+            {% endif %}
         {% endfor %}
         <a class="no-underline primaryColor pa2 f6" href="/privacy">Privacy Policy</a>
     </div>
