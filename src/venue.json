@@ -2,8 +2,8 @@
     "layout": "venue.njk",
     "page": {
         "title": "ServerlessDays ANZ - Venue",
-        "description": "One Day. One Track. One Community",
+        "description": "One Day. One Track. One Community.",
         "url": "https://anz.serverlessdays.io/venue",
-        "image": "img/fedsquare.jpg"
+        "image": "img/2023-paneltalk.jpg"
     }
 }

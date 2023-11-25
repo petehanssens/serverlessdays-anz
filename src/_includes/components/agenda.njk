@@ -2,8 +2,9 @@
     <div class="w-100 w-05-l dn db-l"> 
     </div>
     <div class="w-100 w-90-l ph3 ph0-ns">
-        <h2 class="f2 mv3">Agenda</h2>
+        <h2 class="f2 mv3">📆 Agenda</h2>
         <div class="pt2 pt3-ns">
+            {% if session|length %}
             {% for session in agenda %}
                 <span class="h4 tl f5 ba bw1 b--transparent dib w-100 w-auto-ns">
                     <div class="dt w-100 h-100 contrastBkg contrastColor">
@@ -32,6 +33,9 @@
                     </div>
                 </span>
             {% endfor %}
+            {% else %}
+                <p>We are busy developing the agenda for ServerlessDays ANZ. Check back soon!</p>
+            {% endif %}
         </div>
     </div>
     <div class="w-100 w-05-l dn db-l">

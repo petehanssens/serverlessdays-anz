@@ -4,6 +4,8 @@ layout: coc.njk
 
 # Prize Draw
 &nbsp;
+> Information on this page is related to ServerlessDays ANZ 2023. We are currently reviewing whether this will return in 2024.
+&nbsp;
 ## Terms & Conditions
 
 Before entering the ServerlessDays ANZ promotion, please read the Terms and Conditions carefully. Acceptance of the terms and conditions is a requirement for participation.
