@@ -12,6 +12,11 @@
             "name": "Organisers"
         },
         {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
+        {
             "key": "prizedraw",
             "path": "/prizedraw",
             "name": "Prize Draw",
