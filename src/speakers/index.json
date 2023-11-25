@@ -2,60 +2,11 @@
     "layout": "speakers.njk",
     "page": {
         "title": "ServerlessDays ANZ - Speakers",
-        "description": "One Day. One Track. One Community",
+        "description": "One Day. One Track. One Community.",
         "url": "https://anz.serverlessdays.io/speakers",
         "image": "../img/fedsquare.jpg"
     },
     "speakers" :  [
-        {
-            "img": "https://sessionize.com/image/bd2c-400o400o2-fd-880f-443e-8165-36d90a310365.2d119cd1-e581-4cfc-b40f-3bb884362040.jpg",
-            "alt": "Jeremy Daly",
-            "link": "/speakers/jeremy"
-        },
-        {
-            "img": "https://sessionize.com/image/cc49-400o400o2-XhmDCy3P4qbAvEsNpiNXGB.jpeg",
-            "alt": "Susan Brander",
-            "link": "/speakers/susan"
-        },
-        {
-            "img": "https://sessionize.com/image/cfb8-400o400o2-4YHj3JTFXpjLdF12TkrA2d.png",
-            "alt": "Eric Johnson", 
-            "link": "/speakers/eric"
-        },
-        {
-            "img": "https://sessionize.com/image/85c9-400o400o2-15-7c04-4ea6-9e62-e7394fe78949.254f6916-94c0-4ade-b543-712239dc2854.png",
-            "alt": "Renaldi Gondosubroto",
-            "link": "/speakers/renaldi"
-        },
-        {
-            "img": "https://sessionize.com/image/edbb-400o400o2-Duf3eZdeAWf7g3L3ast6W2.jpeg",
-            "alt": "Akanksha Malik",
-            "link": "/speakers/akanksha"
-        },
-        {
-            "img": "https://sessionize.com/image/3528-400o400o2-7yZEraxd3eC1BkUuiJDvF6.png",
-            "alt": "Aaron Powell",
-            "link": "/speakers/aaron"
-        },
-        {
-            "img": "https://sessionize.com/image/4039-400o400o2-7c-bfd5-43e6-bf77-37ce897413bc.87af3485-5681-4d31-a1fc-5b7071778a87.JPG",
-            "alt": "Sarah Young",
-            "link": "/speakers/sarah"
-        },
-        {
-            "img": "https://sessionize.com/image/b9f8-400o400o2-39-f7ca-473c-ba08-3c7d70d4c78b.28a6219a-8c90-43ed-b8bd-049287979f19.jpg",
-            "alt": "Steve Coochin",
-            "link": "/speakers/steve"
-        },
-        {
-            "img": "https://sessionize.com/image/6c6b-400o400o2-NzeWrMsLVfdAwv4fBM36TJ.png",
-            "alt": "Chris Simon",
-            "link": "/speakers/chris"
-        },
-        {
-            "img": "https://sessionize.com/image/0577-400o400o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
-            "alt": "Kris Howard",
-            "link": "/speakers/kris"
-        }
+        
     ]
 }
