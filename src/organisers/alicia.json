@@ -2,7 +2,7 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Alicia Cheah",
-        "description": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. /n/n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. /n/n Alicia is a fan of horror movies, needle crafts, and video games.",
+        "description": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. \n\n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. \n\n Alicia is a fan of horror movies, needle crafts, and video games.",
         "url": "https://serverlessdays.io/organisers/alicia",
         "image": "../../img/organisers/alicia-cheah.jpeg"
     },
@@ -10,7 +10,7 @@
         "name": "Alicia Cheah",
         "title": "Content and Community Marketing Leader",
         "img": "../../img/organisers/alicia-cheah.jpeg",
-        "bio": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. /n/n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. /n/n Alicia is a fan of horror movies, needle crafts, and video games.",
+        "bio": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. \n\n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. \n\n Alicia is a fan of horror movies, needle crafts, and video games.",
         "social": [
             {
                 "name": "Twitter",

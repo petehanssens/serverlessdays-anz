@@ -2,9 +2,9 @@
     "layout": "coc.njk",
     "page": {
         "title": "ServerlessDays ANZ - Home",
-        "description": "One Day. One Track. One Community",
+        "description": "One Day. One Track. One Community.",
         "url": "https://anz.serverlessdays.io/coc",
-        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/anzHarbourOperaHouse_jvfdhr.jpg"
+        "image": "img/2023-paneltalk.jpg"
     },
     "navBarItems": [
         {

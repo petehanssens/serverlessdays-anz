@@ -8,7 +8,11 @@ layout: base.njk
         <img class="v-top-ns cover shiftRight90-l ph2 w-80 w-70-m w-100-l" src={{ eventDetails.logo }}>
         <h1 class="avenir mr2 mr5-m pr4 pr5-m pr0-l mt0 tr f3 f2-ns i mv0 mv1-ns shiftRight60-l">{{ eventDetails.name }}</h1>
         <div class="avenir fw4 f4 pt0 pl3 pl0-ns tc tr-ns shiftRight60-l">
-            <p class="tc tr-l f4 f3-l mv2">{{eventDetails.endDate}}</p>
+            <p class="tc tr-l f4 f4-l mv2">
+                {% for location in eventDetails.dates %}
+                    {{location.city}} ({{location.date}}) &nbsp;
+                {% endfor %}
+            </p>
         </div>
     </div>
     <div class="w-auto w-10-l dn db-l">
@@ -22,8 +26,9 @@ layout: base.njk
         <div class="w-100 w-05-l dn db-l">
         </div>
         <div class="w-100 w-40-l tc tr-m tl-l shiftUp90-m">
-           <a class="pv2 ph2 ph4-l f4 no-underline ba br2 b--transparent contrastBkg contrastColor" href="{{ eventDetails.cta.path }}" target="_blank">{{ eventDetails.cta.name }}</a>
-           <!-- <a class="ml2 pv2 ph2 ph4-l f4 no-underline ba br2 b--white mr5-m primaryColor" href="{{ eventDetails.altCTA.path }}" target="_blank">{{ eventDetails.altCTA.name }}</a> -->
+            {% if eventDetails.cta %}
+                <a class="pv2 ph2 ph4-l f4 no-underline ba br2 b--transparent contrastBkg contrastColor" href="{{ eventDetails.cta.path }}" target="_blank">{{ eventDetails.cta.name }}</a>
+            {% endif %}
         </div>
     </div>
 </div>

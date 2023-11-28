@@ -2,298 +2,66 @@
     "layout": "home.njk",
     "page": {
         "title": "ServerlessDays ANZ - Home",
-        "description": "One Day. One Track. One Community",
+        "description": "One Day. One Track. One Community.",
         "url": "https://anz.serverlessdays.io",
-        "image": "img/fedsquare.jpg"
+        "image": "img/2023-paneltalk.jpg"
     },
     "eventDetails": {
         "name": "ANZ",
         "description":"Let's get Serverless",
-        "startDate": "10 March 2023",
-        "endDate": "10 March 2023",
+        "startDate": "21 May 2024",
+        "endDate": "24 May 2024",
+        "dates": [
+            {
+                "city": "Sydney, AU",
+                "date": "21 May 2024"
+            },
+            {
+                "city": "Auckland, NZ",
+                "date": "24 May 2024"
+            }
+        ],
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
-        "hero": "img/fedsquare.jpg",
-        "tagline": "One Day. One Track. One Community",
-        "cta": {
-            "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
-            "name": "Get Tickets"
-        }
+        "hero": "img/2023-paneltalk.jpg",
+        "tagline": "One Day. One Track. One Community."
     },
     "sponsors": {
-        "platinum": [
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_80/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
-                "alt": "Amazon Web Services",
-                "link": "https://aws.amazon.com"
-            },
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_140/v1561959290/MS-Azure_logo_stacked_c-white_rgb_znpxoz.png",
-                "alt": "Microsoft Azure",
-                "link": "https://azure.microsoft.com/"
-            }
+        "available": true,
+        "list": {
+            "platinum": [
+                
+            ],
+            "gold": [
+                
+            ],
+            "silver": [
+                
+            ]
+        }
+    },
+    "speakers": {
+        "text": "ServerlessDays ANZ 2024 will be coming to both Australia, and New Zealand for the first time! \n\r Our landscape is changing faster than ever, with ever-more mainstream appeal and proven ability to deliver business value at every scale, from start-up to enterprise. \n\r We're looking forward to bringing a platform to both Sydney and Auckland for local builders to share their experiences with the broader community! \n\r Our **Call for Papers** is now open for 2024, closing March 31st! Submit your talks using our Sessionize links below:",
+        "lineup": [
+            
         ],
-        "gold": [
+        "speakercaption": "",
+        "rfp": [
             {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_100/v1675125888/slsdaysanz/cloudshuttle-white-transparent.png",
-                "alt": "Cloud Shuttle",
-                "link": "https://www.cloudshuttle.com.au/"
-            }
-        ],
-        "silver": [
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_60/v1675124786/slsdaysanz/jdp-dots-transparent.png",
-                "alt": "Just Digital People",
-                "link": "https://www.justdigitalpeople.com.au/"
+                "name": "Sydney CFP (May 21)",
+                "path": "https://sessionize.com/serverlessdays-anz-2024-sydney/"
             },
             {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675124787/slsdaysanz/momento-white.png",
-                "alt": "Momento",
-                "link": "https://www.gomomento.com/"
-            },
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675124786/slsdaysanz/horizontal-logo-onecolor-white-atlassian.png",
-                "alt": "Atlassian",
-                "link": "https://www.atlassian.com/company/careers"
-            },
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_30/v1675768838/slsdaysanz/Pluralsight-Logo-Horizontal-White-Fill-sm_original.png",
-                "alt": "Pluralsight",
-                "link": "https://www.pluralsight.com/"
+                "name": "Auckland CFP (May 24)",
+                "path": "https://sessionize.com/serverlessdays-anz-2024-auckland/"   
             }
         ]
     },
-    "speakers": {
-        "text": "The 2023 edition of ServerlessDays ANZ brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering enterprises sharing what they're doing today in production. We hope ServerlessDays ANZ will have something for everyone.",
-        "lineup": [
-            {
-                "img": "https://sessionize.com/image/bd2c-400o400o2-fd-880f-443e-8165-36d90a310365.2d119cd1-e581-4cfc-b40f-3bb884362040.jpg",
-                "alt": "Jeremy Daly",
-                "link": "/speakers/jeremy"
-            },
-            {
-                "img": "https://sessionize.com/image/cc49-400o400o2-XhmDCy3P4qbAvEsNpiNXGB.jpeg",
-                "alt": "Susan Brander",
-                "link": "/speakers/susan"
-            },
-            {
-                "img": "https://sessionize.com/image/cfb8-400o400o2-4YHj3JTFXpjLdF12TkrA2d.png",
-                "alt": "Eric Johnson", 
-                "link": "/speakers/eric"
-            },
-            {
-                "img": "https://sessionize.com/image/85c9-400o400o2-15-7c04-4ea6-9e62-e7394fe78949.254f6916-94c0-4ade-b543-712239dc2854.png",
-                "alt": "Renaldi Gondosubroto",
-                "link": "/speakers/renaldi"
-            },
-            {
-                "img": "https://sessionize.com/image/edbb-400o400o2-Duf3eZdeAWf7g3L3ast6W2.jpeg",
-                "alt": "Akanksha Malik",
-                "link": "/speakers/akanksha"
-            },
-            {
-                "img": "https://sessionize.com/image/3528-400o400o2-7yZEraxd3eC1BkUuiJDvF6.png",
-                "alt": "Aaron Powell",
-                "link": "/speakers/aaron"
-            },
-            {
-                "img": "https://sessionize.com/image/4039-400o400o2-7c-bfd5-43e6-bf77-37ce897413bc.87af3485-5681-4d31-a1fc-5b7071778a87.JPG",
-                "alt": "Sarah Young",
-                "link": "/speakers/sarah"
-            },
-            {
-                "img": "https://sessionize.com/image/b9f8-400o400o2-39-f7ca-473c-ba08-3c7d70d4c78b.28a6219a-8c90-43ed-b8bd-049287979f19.jpg",
-                "alt": "DeveloperSteve Coochin",
-                "link": "/speakers/steve"
-            },
-            {
-                "img": "https://sessionize.com/image/6c6b-400o400o2-NzeWrMsLVfdAwv4fBM36TJ.png",
-                "alt": "Chris Simon",
-                "link": "/speakers/chris"
-            },
-            {
-                "img": "https://sessionize.com/image/0577-400o400o2-55-a9dc-4435-be51-3c5fd9cbf9ec.89e08958-25d3-4b06-be62-070145aea4e6.jpg",
-                "alt": "Kris Howard",
-                "link": "/speakers/kris"
-            }
-        ],
-        "speakercaption": "Click each speaker's profile to find out more about their talk and read their session abstract."
-    },
     "agenda": [
-        {
-            "time": "08:30",
-            "name": "Doors Open"
-        },
-        {
-            "time": "09:00",
-            "name": "Welcome Remarks"
-        },
-        {
-            "time": "09:10",
-            "name": "Keynote - Serverless = Developer Experience",
-            "speaker": [
-                {
-                    "name": "Jeremy Daly",
-                    "link": "/speakers/jeremy",
-                    "company": "Ampt"
-                }
-            ]
-        },
-        {
-            "time": "09:50",
-            "name": "Idea to MVP to Product: A StartUp Journey",
-            "speaker": [
-                {
-                    "name": "Susan Brander",
-                    "link": "/speakers/susan",
-                    "company": "Tech Diversity Lab"
-                }
-            ]
-        },
-        {
-            "time": "10:20",
-            "name": "Maintaining idempotency in distributed serverless applications",
-            "speaker": [
-                {
-                    "name": "Eric Johnson",
-                    "link": "/speakers/eric",
-                    "company": "Amazon Web Services"
-                }
-            ]
-        },
-        {
-            "time": "10:50",
-            "name": "Morning Tea"
-            
-        },
-        {
-            "time": "11:20",
-            "name": "Load Testing Event-Driven Serverless Backends",
-            "speaker": [
-                {
-                    "name": "Renaldi Gondosubroto",
-                    "link": "/speakers/renaldi",
-                    "company": "Seek Limited"
-                }
-            ]
-        },
-        {
-            "time": "11:50",
-            "name": "Speech to Text: Making Podcasts and AI Accessible",
-            "speaker": [
-                {
-                    "name": "Akanksha Malik",
-                    "link": "/speakers/akanksha",
-                    "company": "Women Who Code Melbourne"
-                }
-            ]
-        },
-        {
-            "time": "12:05",
-            "name": "AWS Community Panel - Serverless: Not just for startups?",
-            "speaker": [
-                {
-                    "name": "Speakers",
-                    "link": "/speakers/panel-one",
-                    "company": "Mixed"
-                }
-            ]
-        },
-        {
-            "time": "12:45",
-            "name": "Lunch"
-        },
         
-        {
-            "time": "13:45",
-            "name": "Rebuilding the Azure Functions programming model",
-            "speaker": [
-                {
-                    "name": "Aaron Powell",
-                    "link": "/speakers/aaron",
-                    "company": "Microsoft"
-                }
-            ]
-        },
-        {
-            "time": "14:15",
-            "name": "Serverless security essentials",
-            "speaker": [
-                {
-                    "name": "Sarah Young",
-                    "link": "/speakers/sarah",
-                    "company": "Microsoft"
-                }
-            ]
-        },
-        {
-            "time": "14:45",
-            "name": "Building your way to a serverless powered IOT Buzzwire game",
-            "speaker": [
-                {
-                    "name": "DeveloperSteve Coochin",
-                    "link": "/speakers/steve",
-                    "company": "Lumigo"
-                }
-            ]
-        },
-        {
-            "time": "15:15",
-            "name": "Break"
-        },
-        {
-            "time": "15:45",
-            "name": "Panel: Serverless, AI and Security - What next?",
-            "speaker": [
-                {
-                    "name": "Speakers",
-                    "link": "/speakers/panel-two",
-                    "company": "Mixed"
-                }
-            ]
-        },
-        {
-            "time": "16:25",
-            "name": "Domain Driven Design and Serverless: A Winning Combination",
-            "speaker": [
-                {
-                    "name": "Chris Simon",
-                    "link": "/speakers/chris",
-                    "company": "Dev Cycles"
-                }
-            ]
-        },
-        {
-            "time": "16:55",
-            "name": "Thinking in Integration Patterns",
-            "speaker": [
-                {
-                    "name": "Kris Howard",
-                    "link": "/speakers/kris",
-                    "company": "Amazon Web Services"
-                }
-            ]
-        },
-        {
-            "time": "17:25",
-            "name": "Closing Remarks",
-            "speaker": [
-                {
-                    "name": "ServerlessDays Team"
-                }
-            ]
-        },
-        {
-            "time": "17:45",
-            "name": "After Party 🎈🥳"
-        }
     ],
     "venue": {
-        "text": "In 2023 we will be hosting ServerlessDays ANZ in Melbourne in the sleek, ultra-modern space of The Edge at Fed Square.         ",
-        "image": "img/fedsquare.jpg",
-        "cta": {
-            "path": "https://www.google.com/maps/dir/Flinders+Street+Railway+Station,+Flinders+Street,+Melbourne+VIC,+Australia/The+Edge,+Fed+Square,+Swanston+St+%26,+Flinders+St,+Melbourne+VIC+3000,+Australia/@-37.8176366,144.9661729,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6ad642b6af832249:0xe39e415e49a7c44e!2m2!1d144.9670618!2d-37.8182711!1m5!1m1!1s0x6ad642b71e5a183b:0xb0055a25e2ad1bde!2m2!1d144.9696594!2d-37.81798!3e2",
-            "name": "Directions"
-        }
+        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia, and Auckland, New Zealand.\n\nVenue location details will be announced soon.",
+        "image": "img/2024-globalmap.jpg"
     },
     "organisers": {
         "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",

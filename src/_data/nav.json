@@ -3,7 +3,8 @@
         {
             "key": "speakers",
             "path": "/speakers",
-            "name": "Speakers"
+            "name": "Speakers",
+            "hidden": true
         },
         {
             "key": "organisers",
@@ -11,9 +12,15 @@
             "name": "Organisers"
         },
         {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
+        {
             "key": "prizedraw",
             "path": "/prizedraw",
-            "name": "Prize Draw"
+            "name": "Prize Draw",
+            "hidden": true
         },
         {
             "key": "coc",
@@ -24,7 +31,20 @@
             "key": "tickets",
             "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
             "name": "Tickets",
-            "cta": "true"
+            "cta": "true",
+            "hidden": true
+        },
+        {
+            "key": "sydney-cfp",
+            "path": "https://sessionize.com/serverlessdays-anz-2024-sydney/",
+            "name": "🇦🇺 Sydney CFP",
+            "cta": true
+        },
+        {
+            "key": "auckland-cfp",
+            "path": "https://sessionize.com/serverlessdays-anz-2024-auckland/",
+            "name": "🇳🇿 Auckland CFP",
+            "cta": true
         }
     ]
 }

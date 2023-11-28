@@ -1,9 +1,12 @@
-Steve O'Grady writes in [The New  Kingmakers](https://thenewkingmakers.com/)  that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. 
+![Sponsor Exhibits at the ServerlessDays ANZ 2023 Event](../img/2023-sponsortables.jpg)
 
-The Serverless  paradigm enables organisations to ship features faster without compromising on security or availability. Small teams of developers have never  been more productive and never had a bigger impact on their organisations.  
+ServerlessDays ANZ is an event by the community, for the community, and we greatly apreciate the support of our sponsors bringing this vision to life year after year!
 
-ServerlessDays events are attended by these developers pushing the boundaries of new technology to the advantage of the organisations they work for. The best  way to sum up the ServerlessDays community is to quote Steve Ballmer. “Developers! Developers! Developers!”. If you want to get in front of an audience of forward thinking developers, whether you’re looking to promote your products & services or looking to hire, then ServerlessDays is the event for you.
+We're bringing together hundreds of serverless-focused technology professionals to learn and network together, organized by some of the leading names in the industry from around Australia and New Zealand. If your company is involved in serverless technologies, this is unique opportunity to spread your message to local experts.
 
-ServerlessDays ANZ has a new venue, and increased capacity. We're expecting **150 forward thinking developers and engineers** to join us on **27 August** at **Darlinghurst Theatre Company** in Darlinghurst, anz.
+* Multiple tiers of sponsorship with special benefits
+* Available by city, or for both at a discounted rate
+* Complimentary tickets for sponsoring companies
+* Additional tactical opportunities available
 
-Download [the prospectus](/static/ServerlessDaysanz_SponsorProspectus.pdf) now or email [anz@serverlessdays.io](mailto:anz@serverlessdays.io) for more information.
+If you would like to discuss sponsoring ServerlessDays ANZ, please reach out to [anz@serverlessdays.io](mailto:anz@serverlessdays.io?subject=Sponsorship)

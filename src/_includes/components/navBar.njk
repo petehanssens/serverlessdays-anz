@@ -6,18 +6,20 @@
     href="/"
   >Home</a>
   {% for item in nav.navBarItems %}
-    {% if item.cta %}
-    <a
-      id="{{ item.key }}"
-      class="dib ph3 pv2 mv0 fw6 contrastBkg contrastColor pointer ba b--transparent br2 no-underline underline-grow v-mid"
-      href="{{ item.path }}" 
-    >{{ item.name }}</a>
-    {% else %}
-    <a
-      id="{{ item.key }}"
-      class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
-      href="{{ item.path }}"
-    >{{ item.name }}</a>    
+    {% if not item.hidden %}
+      {% if item.cta %}
+      <a
+        id="{{ item.key }}"
+        class="dib ph3 pv2 mv0 fw6 contrastBkg contrastColor pointer ba b--transparent br2 no-underline underline-grow v-mid"
+        href="{{ item.path }}" 
+      >{{ item.name }}</a>
+      {% else %}
+      <a
+        id="{{ item.key }}"
+        class="dib ph3 pv2 primaryColor pointer no-underline underline-grow"
+        href="{{ item.path }}"
+      >{{ item.name }}</a>    
+      {% endif %}
     {% endif %}
   {% endfor %}
   </span>
