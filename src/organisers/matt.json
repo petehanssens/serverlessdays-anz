@@ -2,15 +2,15 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Matthew Gillard",
-        "description": "Matthew is Technical Principal working for Contino based in Melbourne, Australia. In recent years  through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.        ",
+        "description": "Matthew is Managing Consultant working for Cevo based in Melbourne, Australia. In recent years through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.",
         "url": "https://serverlessdays.io/organisers/matt",
         "image": "../../img/organisers/matt_gillard.jpg"
     },
     "organiser": {
         "name": "Matthew Gillard",
-        "title": "Technical Principal, Contino",
-        "img": "../../img/organisers/matt_gillard.jpg",
-        "bio": "Matthew is Technical Principal working for Contino based in Melbourne, Australia. In recent years  through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.        ",
+        "title": "Managing Consultant, Cevo",
+        "img": "../../img/organisers/matt_gillard.png",
+        "bio": "Matthew is Managing Consultant working for Cevo based in Melbourne, Australia. In recent years through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.",
         "social": [
             {
                 "name": "Twitter",

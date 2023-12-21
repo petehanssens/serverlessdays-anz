@@ -2,15 +2,15 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Nick Triantafillou",
-        "description": "Nick is an AWS Community Builder and co-founder of cloudseeder.",
-        "url": "https://serverlessdays.io/organisers/peter",
+        "description": "Nick is an AWS Hero & Lead AWS Architect @ Vitavo.",
+        "url": "https://serverlessdays.io/organisers/nick",
         "image": "../../img/organisers/nick-triantafillou.jpg"
     },
     "organiser": {
         "name": "Nick Triantafillou",
-        "title": "Founder, cloudseeder",
+        "title": "AWS Community Hero",
         "img": "../../img/organisers/nick-triantafillou.jpg",
-        "bio": "Nick is an AWS Community Builder and co-founder of cloudseeder.",
+        "bio": "Nick is an AWS Hero & Lead AWS Architect @ Vitavo.",
         "social": [
             {
                 "name": "Twitter",

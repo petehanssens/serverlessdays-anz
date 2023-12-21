@@ -1,0 +1,33 @@
+{
+    "layout": "organiser.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Stephen Sennett",
+        "description": "Stephen Sennett is a cloud technology leader, content creator, educator, and speaker. He worked in the industry for over a decade across in a variety of roles. He holds high-level certifications across multiple technologies, has been recognized as an AWS Community Builder, spoken at numerous events, and authors technical content with A Cloud Guru (a Pluralsight company).",
+        "url": "https://serverlessdays.io/organisers/stephen",
+        "image": "../../img/organisers/stephen_sennett.jpg"
+    },
+    "organiser": {
+        "name": "Stephen Sennett",
+        "title": "Independent Consultant, and AWS Community Builder",
+        "img": "../../img/organisers/stephen_sennett.jpg",
+        "bio": "Stephen Sennett is a cloud technology leader, content creator, educator, and speaker. He worked in the industry for over a decade across in a variety of roles. He holds high-level certifications across multiple technologies, has been recognized as an AWS Community Builder, spoken at numerous events, and authors technical content with A Cloud Guru (a Pluralsight company).",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/ssennettau/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ssennettau/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}
