@@ -61,6 +61,11 @@
             "img": "../img/organisers/darshit-pandya.jpeg",
             "alt": "Darshit Pandya",
             "link": "/organisers/darshit-pandya"
+        },
+        {
+            "img": "../img/organisers/stephen_sennett.jpg",
+            "alt": "Stephen Sennett",
+            "link": "/organisers/stephen"
         }
     ]
 }

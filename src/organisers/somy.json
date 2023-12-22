@@ -2,7 +2,7 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Somy Ayazi",
-        "description": "Somy is an Engineering Manager at Atlassian. She has a technical background and many years of experience delivering modern business technology solutions across different organisations and industries. \n\n She is Microsoft AI MVP and provides support to the IT community by co-organising Global AI Podcast and AI APAC Meetups. She is passionate about AI and keen to utilise AI-powered technology to supercharge product capabilities. ",
+        "description": "Somy is an Engineering Manager at Atlassian. She has a technical background and many years of experience delivering modern business technology solutions across different organisations and industries. \n\n\n She is Microsoft AI MVP and provides support to the IT community by co-organising Global AI Podcast and AI APAC Meetups. She is passionate about AI and keen to utilise AI-powered technology to supercharge product capabilities. ",
         "url": "https://serverlessdays.io/organisers/somy",
         "image": "../../img/organisers/somy_ayazi.jpeg"
     },
@@ -10,7 +10,7 @@
         "name": "Somy Ayazi",
         "title": "Engineering Manager, Atlassian",
         "img": "../../img/organisers/somy_ayazi.jpeg",
-        "bio": "Somy is an Engineering Manager at Atlassian. She has a technical background and many years of experience delivering modern business technology solutions across different organisations and industries. \n\n She is Microsoft AI MVP and provides support to the IT community by co-organising Global AI Podcast and AI APAC Meetups. She is passionate about AI and keen to utilise AI-powered technology to supercharge product capabilities. ",
+        "bio": "Somy is an Engineering Manager at Atlassian. She has a technical background and many years of experience delivering modern business technology solutions across different organisations and industries. \n\n\n She is Microsoft AI MVP and provides support to the IT community by co-organising Global AI Podcast and AI APAC Meetups. She is passionate about AI and keen to utilise AI-powered technology to supercharge product capabilities. ",
         "social": [
             {
                 "name": "Twitter",
