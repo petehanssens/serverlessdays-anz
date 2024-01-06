@@ -1,0 +1,9 @@
+{
+    "layout": "cfp.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Call For Papers",
+        "description": "ServerlessDays ANZ Call for Papers",
+        "url": "https://anz.serverlessdays.io/cfp",
+        "image": "img/2023-paneltalk.jpg"
+    }
+}

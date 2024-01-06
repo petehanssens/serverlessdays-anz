@@ -28,23 +28,17 @@
             "name": "Code of Conduct"
         },
         {
+            "key": "cfp",
+            "path": "/cfp",
+            "name": "📢 Call for Papers",
+            "cta": true
+        },
+        {
             "key": "tickets",
             "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
             "name": "Tickets",
             "cta": "true",
             "hidden": true
-        },
-        {
-            "key": "sydney-cfp",
-            "path": "https://sessionize.com/serverlessdays-anz-2024-sydney/",
-            "name": "🇦🇺 Sydney CFP",
-            "cta": true
-        },
-        {
-            "key": "auckland-cfp",
-            "path": "https://sessionize.com/serverlessdays-anz-2024-auckland/",
-            "name": "🇳🇿 Auckland CFP",
-            "cta": true
         }
     ]
 }

@@ -40,19 +40,15 @@
         }
     },
     "speakers": {
-        "text": "ServerlessDays ANZ 2024 will be coming to both Australia, and New Zealand for the first time! \n\r Our landscape is changing faster than ever, with ever-more mainstream appeal and proven ability to deliver business value at every scale, from start-up to enterprise. \n\r We're looking forward to bringing a platform to both Sydney and Auckland for local builders to share their experiences with the broader community! \n\r Our **Call for Papers** is now open for 2024, closing March 31st! Submit your talks using our Sessionize links below:",
+        "text": "ServerlessDays ANZ 2024 will be coming to both Australia, and New Zealand for the first time! \n\r Our landscape is changing faster than ever, with ever-more mainstream appeal and proven ability to deliver business value at every scale, from start-up to enterprise. \n\r We're looking forward to bringing a platform to both Sydney and Auckland for local builders to share their experiences with the broader community! \n\r Our **Call for Papers** is now open for 2024, closing March 31st!",
         "lineup": [
             
         ],
         "speakercaption": "",
         "rfp": [
             {
-                "name": "Sydney CFP (May 21)",
-                "path": "https://sessionize.com/serverlessdays-anz-2024-sydney/"
-            },
-            {
-                "name": "Auckland CFP (May 24)",
-                "path": "https://sessionize.com/serverlessdays-anz-2024-auckland/"   
+                "name": "Call for Papers",
+                "path": "/cfp"
             }
         ]
     },
