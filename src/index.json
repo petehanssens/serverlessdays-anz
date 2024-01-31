@@ -29,13 +29,30 @@
         "available": true,
         "list": {
             "platinum": [
-                
+                {
+                    "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_pad,h_100,w_200/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
+                    "alt": "Amazon Web Services",
+                    "link": "https://aws.amazon.com"
+                },
+                {
+                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_100,w_200/v1706679689/slsdays2024/logo-mantelgp.png",
+                    "alt": "Mantel Group",
+                    "link": "https://mantelgroup.com.au/"
+                }
             ],
             "gold": [
-                
+                {
+                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-fastly.png",
+                    "alt": "Fastly",
+                    "link": "https://www.fastly.com/"
+                }
             ],
             "silver": [
-                
+                {
+                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_100,w_200/v1706679689/slsdays2024/logo-comingsoon.png",
+                    "alt": "Sponsorship Opportunities",
+                    "link": "/sponsors"
+                }
             ]
         }
     },
@@ -56,8 +73,18 @@
         
     ],
     "venue": {
-        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia, and Auckland, New Zealand.\n\nVenue location details will be announced soon.",
-        "image": "img/2024-globalmap.jpg"
+        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia at Wesley Conference Centre, and Auckland, New Zealand at the Pullman Auckland.\n\nEarly bird tickets are available now!",
+        "image": "img/2024-globalmap.jpg",
+        "cta": [
+            {
+                "name": "🇦🇺 Sydney (May 21st)",
+                "path": "https://www.tickettailor.com/events/slsdaysanz/1131610"
+            },
+            {
+                "name": "🇳🇿 Auckland (May 24th)",
+                "path": "https://www.tickettailor.com/events/slsdaysanz/1131611"
+            }
+        ]
     },
     "organisers": {
         "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",
@@ -78,7 +105,7 @@
                 "link": "/organisers/sbarski"
             },
             {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677752585/SLD/matt_uwla2g.jpg",
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_fill/v1706682162/slsdays2024/org-matt.jpg",
                 "alt": "Matt Gillard",
                 "link": "/organisers/matt"
             },
@@ -113,14 +140,19 @@
                 "link": "/organisers/nick"
             },
             {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_1000,h_1000,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
+                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
                 "alt": "Darshit Pandya",
                 "link": "/organisers/darshit-pandya"
             },
             {
-                "img": "https://ssennett.net/assets/images/main.jpg",
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_pad,b_auto/v1706682162/slsdays2024/org-stephen.jpg",
                 "alt": "Stephen Sennett",
                 "link": "/organisers/stephen"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1706682162/slsdays2024/org-simon.jpg",
+                "alt": "Simon Waight",
+                "link": "/organisers/simon"
             }
         ]
     }
