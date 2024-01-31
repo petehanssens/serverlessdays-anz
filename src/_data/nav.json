@@ -30,15 +30,20 @@
         {
             "key": "cfp",
             "path": "/cfp",
-            "name": "📢 Call for Papers",
+            "name": "Call for Papers",
+            "cta": false
+        },
+        {
+            "key": "tickets-sydney",
+            "path": "https://www.tickettailor.com/events/slsdaysanz/1131610",
+            "name": "🇦🇺 Tickets (Sydney)",
             "cta": true
         },
         {
-            "key": "tickets",
-            "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
-            "name": "Tickets",
-            "cta": "true",
-            "hidden": true
+            "key": "tickets-auckland",
+            "path": "https://www.tickettailor.com/events/slsdaysanz/1131611",
+            "name": "🇳🇿 Tickets (Auckland)",
+            "cta": true
         }
     ]
 }
