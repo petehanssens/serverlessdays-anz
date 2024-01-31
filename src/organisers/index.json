@@ -66,6 +66,11 @@
             "img": "../img/organisers/stephen_sennett.jpg",
             "alt": "Stephen Sennett",
             "link": "/organisers/stephen"
+        },
+        {
+            "img": "../img/organisers/simon-waight.jpg",
+            "alt": "Simon Waight",
+            "link": "/organisers/simon"
         }
     ]
 }

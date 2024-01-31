@@ -45,11 +45,6 @@
                     "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-fastly.png",
                     "alt": "Fastly",
                     "link": "https://www.fastly.com/"
-                },
-                {
-                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-cevo.png",
-                    "alt": "Cevo",
-                    "link": "https://cevo.com.au/"
                 }
             ],
             "silver": [
@@ -110,7 +105,7 @@
                 "link": "/organisers/sbarski"
             },
             {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677752585/SLD/matt_uwla2g.jpg",
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_fill/v1706682162/slsdays2024/org-matt.jpg",
                 "alt": "Matt Gillard",
                 "link": "/organisers/matt"
             },
@@ -145,14 +140,19 @@
                 "link": "/organisers/nick"
             },
             {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_1000,h_1000,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
+                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
                 "alt": "Darshit Pandya",
                 "link": "/organisers/darshit-pandya"
             },
             {
-                "img": "https://ssennett.net/assets/images/main.jpg",
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_pad,b_auto/v1706682162/slsdays2024/org-stephen.jpg",
                 "alt": "Stephen Sennett",
                 "link": "/organisers/stephen"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1706682162/slsdays2024/org-simon.jpg",
+                "alt": "Simon Waight",
+                "link": "/organisers/simon"
             }
         ]
     }

@@ -2,7 +2,7 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Nelly Sattari",
-        "description": "Nelly Sattari is a Engineering Manager at Atlassian focusing on Technical leadership of teams to build  modern softwares, and she is indebted to her full stack development background and the knowledge she gained there. Nelly is a Microsoft Azure MVP, community leader, public speaker and a mentor. \n\n\n She has been assisting tech community events to be a more Inclusive place to collaborate and learn for last 10 years including co-organised the Serverless events, speaking at numerous technical events, organises developer events and leadership workshops for tech senior engineers who wanted to step up to the next leve, being part of agenda committee for conferences. ",
+        "description": "Nelly Sattari is a Engineering Manager at Atlassian focusing on Technical leadership of teams to build  modern softwares, and she is indebted to her full stack development background and the knowledge she gained there. Nelly is a Microsoft Azure MVP, community leader, public speaker and a mentor. \n\n\n She has been assisting tech community events to be a more Inclusive place to collaborate and learn for last 10 years including co-organised the Serverless events, speaking at numerous technical events, organises developer events and leadership workshops for tech senior engineers who wanted to step up to the next level, being part of agenda committee for conferences. ",
         "url": "https://serverlessdays.io/organisers/nelly",
         "image": "../../img/organisers/nelly-sattari.jpeg"
     },
@@ -10,7 +10,7 @@
         "name": "Nelly Sattari",
         "title": "Senior Engineering Manager, Atlassian",
         "img": "../../img/organisers/nelly-sattari.jpeg",
-        "bio": "Nelly Sattari is an Engineering Manager at Atlassian focusing on Technical leadership of teams to build  modern softwares, and she is indebted to her full stack development background and the knowledge she gained there. Nelly is a Microsoft Azure MVP, community leader, public speaker and a mentor. \n\n\n She has been assisting tech community events to be a more Inclusive place to collaborate and learn for last 10 years including co-organised the Serverless events, speaking at numerous technical events, organises developer events and leadership workshops for tech senior engineers who wanted to step up to the next leve, being part of agenda committee for conferences. ",
+        "bio": "Nelly Sattari is an Engineering Manager at Atlassian focusing on Technical leadership of teams to build  modern softwares, and she is indebted to her full stack development background and the knowledge she gained there. Nelly is a Microsoft Azure MVP, community leader, public speaker and a mentor. \n\n\n She has been assisting tech community events to be a more Inclusive place to collaborate and learn for last 10 years including co-organised the Serverless events, speaking at numerous technical events, organises developer events and leadership workshops for tech senior engineers who wanted to step up to the next level, being part of agenda committee for conferences. ",
         "social": [
             {
                 "name": "Twitter",
