@@ -2,15 +2,15 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Nick Triantafillou",
-        "description": "Nick is an AWS Hero & Lead AWS Architect @ Vitavo.",
+        "description": "Nick is a Cloud Engineer, Educator, User Group founder, and Christmas Light enthusiast. He was one of the original course instructors at the cloud education startup A Cloud Guru, having taught over 1 million students the fundamentals of AWS, and also produced the world's first AWS Certified DevOps Engineer course.\n\nHe's the founder of his local Wollongong AWS User Group, co-founder of the Sydney Serverless Meetup and has assisted in the planning and operation of both the ServerlessConf and ServerlessDays ANZ conferences.",
         "url": "https://serverlessdays.io/organisers/nick",
         "image": "../../img/organisers/nick-triantafillou.jpg"
     },
     "organiser": {
         "name": "Nick Triantafillou",
-        "title": "AWS Community Hero",
+        "title": "AWS Community Hero & Lead AWS Architect at Vitavo",
         "img": "../../img/organisers/nick-triantafillou.jpg",
-        "bio": "Nick is an AWS Hero & Lead AWS Architect @ Vitavo.",
+        "bio": "Nick is a Cloud Engineer, Educator, User Group founder, and Christmas Light enthusiast. He was one of the original course instructors at the cloud education startup A Cloud Guru, having taught over 1 million students the fundamentals of AWS, and also produced the world's first AWS Certified DevOps Engineer course.\n\nHe's the founder of his local Wollongong AWS User Group, co-founder of the Sydney Serverless Meetup and has assisted in the planning and operation of both the ServerlessConf and ServerlessDays ANZ conferences.",
         "social": [
             {
                 "name": "Twitter",

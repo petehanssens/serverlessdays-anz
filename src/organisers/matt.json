@@ -2,7 +2,7 @@
     "layout": "organiser.njk",
     "page": {
         "title": "ServerlessDays ANZ - Matthew Gillard",
-        "description": "Matthew is Managing Consultant working for Cevo based in Melbourne, Australia. In recent years through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.",
+        "description": "Matthew is a Managing Consultant co-leading the Cloud Native capability for the AWS consultancy Cevo based in Melbourne, Australia. In recent years  through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. With this experience, he loves helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity. He also co-hosts the Cloud Dialogues podcast.",
         "url": "https://serverlessdays.io/organisers/matt",
         "image": "../../img/organisers/matt_gillard.jpg"
     },
@@ -10,7 +10,7 @@
         "name": "Matthew Gillard",
         "title": "Managing Consultant, Cevo",
         "img": "../../img/organisers/matt_gillard.png",
-        "bio": "Matthew is Managing Consultant working for Cevo based in Melbourne, Australia. In recent years through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.",
+        "bio": "Matthew is a Managing Consultant co-leading the Cloud Native capability for the AWS consultancy Cevo based in Melbourne, Australia. In recent years  through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. With this experience, he loves helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity. He also co-hosts the Cloud Dialogues podcast.",
         "social": [
             {
                 "name": "Twitter",
