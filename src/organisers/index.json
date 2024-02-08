@@ -8,67 +8,67 @@
     },
     "organisers" :  [
         {
-            "img": "../img/organisers/peter-hanssens.jpg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_260,h_260,c_fill/v1677736456/SLD/peter-hanssens_dcwal3.jpg",
             "alt": "Peter Hanssens",
             "link": "/organisers/peter"
         },
         {
-            "img": "../img/organisers/alicia-cheah.jpeg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736454/SLD/alicia-cheah_uvwq8x.jpg",
             "alt": "Alicia Cheah",
             "link": "/organisers/alicia"
         },
         {
-            "img": "../img/organisers/peter-sbarski.jpg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736455/SLD/peter-sbarski_sxbo77.jpg",
             "alt": "Peter Sbarski",
             "link": "/organisers/sbarski"
         },
         {
-            "img": "../img/organisers/matt_gillard.png",
+            "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_250,h_250,c_fill/v1706682162/slsdays2024/org-matt.jpg",
             "alt": "Matt Gillard",
             "link": "/organisers/matt"
         },
         {
-            "img": "../img/organisers/nelly-sattari.jpeg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736455/SLD/nelly-sattari_dzoarn.jpg",
             "alt": "Nelly Sattari",
             "link": "/organisers/nelly"
         },
         {
-            "img": "../img/organisers/lars-klint.jpg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736455/SLD/lars-klint_hwiznf.jpg",
             "alt": "Lars Klint",
             "link": "/organisers/lars"
         },
         {
-            "img": "../img/organisers/bill_chesnut.jpg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736462/SLD/bill_chesnut_g2dkmq.jpg",
             "alt": "Bill Chesnut",
             "link": "/organisers/bill"
         },
         {
-            "img": "../img/organisers/somy_ayazi.jpeg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736455/SLD/somy_ayazi_b3lfh8.jpg",
             "alt": "Somy Ayazi",
             "link": "/organisers/somy"
         },
         {
-            "img": "../img/organisers/william.jpg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736457/SLD/william_izzzdt.jpg",
             "alt": "William Liebenberg",
             "link": "/organisers/william"
         },
         {
-            "img": "../img/organisers/nick-triantafillou.jpg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_fill/v1677736464/SLD/nick-triantafillou_tvigts.jpg",
             "alt": "Nick Triantafillou",
             "link": "/organisers/nick"
         },
         {
-            "img": "../img/organisers/darshit-pandya.jpeg",
+            "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_250,h_250,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
             "alt": "Darshit Pandya",
             "link": "/organisers/darshit-pandya"
         },
         {
-            "img": "../img/organisers/stephen_sennett.jpg",
+            "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_250,h_250,c_pad,b_auto/v1706682162/slsdays2024/org-stephen.jpg",
             "alt": "Stephen Sennett",
             "link": "/organisers/stephen"
         },
         {
-            "img": "../img/organisers/simon-waight.jpg",
+            "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1706682162/slsdays2024/org-simon.jpg",
             "alt": "Simon Waight",
             "link": "/organisers/simon"
         }
