@@ -16,11 +16,11 @@ By speaking at ServerlessDays ANZ, you'll have the opportunity to:
 * Contribute to the growth and knowledge-sharing within the serverless community
 * Gain exposure and recognition in the tech industry
 
-## CFP Workshop (January 2024)
+## CFP Workshop (March 2024)
 
-We are very excited to announce an exclusive workshop, helping potential presenters prepare their Call For Papers submission. This session will be conducted by experienced presenter, conference organizer, and industry leader [Michele Playfair](https://www.linkedin.com/in/ACoAAAEA4IMB0HaT3OnIhDnVBL97N2Lo8nLM2EM) on Wednesday 31st January 2023.
+Following our successful January workshop, we're proud to announce a second exclusive workshop, helping potential presenters prepare their Call For Papers submission. This session will be conducted by experienced presenter, conference organizer, and industry leader [Michele Playfair](https://www.linkedin.com/in/ACoAAAEA4IMB0HaT3OnIhDnVBL97N2Lo8nLM2EM) on Wednesday 6th March 2023.
 
-![CFP Workshop Details](../img/2024-cfpworkshop.jpg)
+![CFP Workshop Details](../img/2024-cfpworkshop.png)
 
 Express your interest by emailing us at [anz@serverlessdays.io](mailto:anz@serverlessdays.io), and we look forward to seeing you then!
 
