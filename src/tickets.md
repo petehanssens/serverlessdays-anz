@@ -1,11 +1,11 @@
 # Tickets
 
-Tickets for ServerlessDays ANZ 2024 will be going on sale soon, with early bird prices available!
+Tickets for ServerlessDays ANZ 2024 are available now, with early bird prices available for a limited time at 30% off!
 
-## Diversity Tickets
+### Convincing Your Boss?
 
-We aim to keep ServerlessDays events accessible. A big part of that is making them financially accessible. The majority of ServerlessDays costs are covered by sponsors, which enables us to offer afforable tickets. 
+Trying to convince your manager to allow you to attend ServerlessDays ANZ? No problem, we've crafted a template letter with the necessary details for both <a href="/static/JustificationLetter-Sydney2024.pdf">Sydney</a> and <a href="/assets/JustificationLetter-Auckland2024.pdf">Auckland</a>.
 
-In addition to afforable tickets we run a scholarship program for under represented minorities in tech, through **diversitytickets.org** which you can [apply for here](https://diversitytickets.org/en/events/487).
+## Purchase Tickets
 
-If you are a member of the press or a tech analyst you can apply for tickets via emailing us at [anz@serverlessdays.io](mailto:anz@serverlessdays.io)
+Tickets are available in a limited number, so make sure to get yours now!

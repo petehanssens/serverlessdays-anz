@@ -8,20 +8,20 @@
     },
     "tickets": [
         {
-            "title": "Early Bird Ticket",
-            "description": "General Admission with early bird pricing",
-            "price": "$50",
+            "title": "Sydney - Tuesday 21st May",
+            "description": "Early Bird available for a limited time!",
+            "price": "AUD $175",
             "cta": {            
-                "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
+                "path": "https://www.tickettailor.com/events/slsdaysanz/1131610",
                 "name": "Buy"
             }
         },
         {
-            "title": "General Admission",
-            "description": "General Admission",
-            "price": "$70",
+            "title": "Auckland - Friday 24th May",
+            "description": "Early Bird available for a limited time!",
+            "price": "NZD $140",
             "cta": {            
-                "path": "https://www.tickettailor.com/events/slsdaysanz/809976",
+                "path": "https://www.tickettailor.com/events/slsdaysanz/1131611",
                 "name": "Buy"
             }
         }
