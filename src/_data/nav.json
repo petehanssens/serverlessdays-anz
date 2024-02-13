@@ -34,15 +34,9 @@
             "cta": false
         },
         {
-            "key": "tickets-sydney",
-            "path": "https://www.tickettailor.com/events/slsdaysanz/1131610",
-            "name": "🇦🇺 Tickets (Sydney)",
-            "cta": true
-        },
-        {
-            "key": "tickets-auckland",
-            "path": "https://www.tickettailor.com/events/slsdaysanz/1131611",
-            "name": "🇳🇿 Tickets (Auckland)",
+            "key": "tickets",
+            "path": "/tickets",
+            "name": "🎟️ Tickets",
             "cta": true
         }
     ]
