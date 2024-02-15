@@ -12,37 +12,5 @@
             "name": "Download Sponsorship Prospectus"
         }
     },
-    "sponsors": {
-        "platinum": [
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_80/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
-                "alt": "Amazon Web Services",
-                "link": "https://aws.amazon.com"
-            },
-            {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_140/v1561959290/MS-Azure_logo_stacked_c-white_rgb_znpxoz.png",
-                "alt": "Microsoft Azure",
-                "link": "https://azure.microsoft.com/"
-            }
-        ],
-        "gold": [
-        ],
-        "silver": [
-            {
-                "img": "../../img/sponsors/jdp-dots-transparent.png",
-                "alt": "Just Digital People",
-                "link": "https://www.justdigitalpeople.com.au/"
-            },
-            {
-                "img": "../../img/sponsors/momento-white.png",
-                "alt": "Momento",
-                "link": "https://www.gomomento.com/"
-            },
-            {
-                "img": "../../img/sponsors/horizontal-logo-onecolor-white-atlassian.png",
-                "alt": "Atlassian",
-                "link": "https://www.atlassian.com/company/careers"
-            }
-        ]
-    }
+    "sponsorList": "_data/sponsorsData.json"
 }

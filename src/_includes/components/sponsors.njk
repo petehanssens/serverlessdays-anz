@@ -1,6 +1,6 @@
-{% if sponsors.list.platinum|length %}
+{% if sponsorsData.list.platinum|length %}
 <div class="w-100 pt3 pb4 tc">
-    {% for sponsor in sponsors.list.platinum %}
+    {% for sponsor in sponsorsData.list.platinum %}
         <span class="center dib pa3 v-mid">
             <a class="no-underline" href="{{ sponsor.link }}">
                 <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
@@ -9,9 +9,9 @@
     {% endfor %}
 </div>
 {% endif %}
-{% if sponsors.list.gold|length %}
+{% if sponsorsData.list.gold|length %}
 <div class="w-100 pv3 tc">
-    {% for sponsor in sponsors.list.gold %}
+    {% for sponsor in sponsorsData.list.gold %}
         <span class="center dib pa3 v-mid">
             <a class="no-underline" href="{{ sponsor.link }}">
                 <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
@@ -20,9 +20,9 @@
     {% endfor %}
 </div>
 {% endif %}
-{% if sponsors.list.silver|length %}
+{% if sponsorsData.list.silver|length %}
 <div class="w-100 pv3 tc">
-    {% for sponsor in sponsors.list.silver %}
+    {% for sponsor in sponsorsData.list.silver %}
         <span class="center dib pa3 v-mid">
             <a class="no-underline" href="{{ sponsor.link }}">
                 <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
@@ -31,7 +31,7 @@
     {% endfor %}
 </div>
 {% endif %}
-{% if sponsors.available %}
+{% if sponsorsData.available %}
     <div class="w-100 pt3 pb4 tc">
         <p>Sponsorship opportunities are available!</p>
         <div class="mt4"><span><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 secondaryColor secondaryBkg" href="/sponsors">Learn more</a></span></div>

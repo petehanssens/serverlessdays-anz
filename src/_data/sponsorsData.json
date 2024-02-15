@@ -1,0 +1,37 @@
+{
+    "available": true,
+    "list": {
+        "platinum": [
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_pad,h_100,w_200/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
+                "alt": "Amazon Web Services",
+                "link": "https://aws.amazon.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_100,w_200/v1706679689/slsdays2024/logo-mantelgp.png",
+                "alt": "Mantel Group",
+                "link": "https://mantelgroup.com.au/"
+            }
+        ],
+        "gold": [
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-fastly.png",
+                "alt": "Fastly",
+                "link": "https://www.fastly.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_pad,h_65,w_130/v1675125888/slsdaysanz/cloudshuttle-white-transparent.png",
+                "alt": "CloudShuttle",
+                "link": "https://www.cloudshuttle.com.au/"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-kaleida.png",
+                "alt": "Kaleida",
+                "link": "https://www.kaleida.team/"
+            }
+        ],
+        "silver": [
+
+        ]
+    }
+}
