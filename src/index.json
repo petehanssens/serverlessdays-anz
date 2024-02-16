@@ -26,35 +26,7 @@
         "tagline": "One Day. One Track. One Community."
     },
     "sponsors": {
-        "available": true,
-        "list": {
-            "platinum": [
-                {
-                    "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_pad,h_100,w_200/v1560864759/012.AWS_logo_RGB_REV_oryfhx.png",
-                    "alt": "Amazon Web Services",
-                    "link": "https://aws.amazon.com"
-                },
-                {
-                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_100,w_200/v1706679689/slsdays2024/logo-mantelgp.png",
-                    "alt": "Mantel Group",
-                    "link": "https://mantelgroup.com.au/"
-                }
-            ],
-            "gold": [
-                {
-                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-fastly.png",
-                    "alt": "Fastly",
-                    "link": "https://www.fastly.com/"
-                }
-            ],
-            "silver": [
-                {
-                    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_100,w_200/v1706679689/slsdays2024/logo-comingsoon.png",
-                    "alt": "Sponsorship Opportunities",
-                    "link": "/sponsors"
-                }
-            ]
-        }
+        "sponsorList": "_data/sponsorsData.json"
     },
     "speakers": {
         "text": "ServerlessDays ANZ 2024 will be coming to both Australia, and New Zealand for the first time! \n\r Our landscape is changing faster than ever, with ever-more mainstream appeal and proven ability to deliver business value at every scale, from start-up to enterprise. \n\r We're looking forward to bringing a platform to both Sydney and Auckland for local builders to share their experiences with the broader community! \n\r Our **Call for Papers** is now open for 2024, closing March 31st!",
@@ -88,72 +60,6 @@
     },
     "organisers": {
         "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",
-        "people": [
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736456/SLD/peter-hanssens_dcwal3.jpg",
-                "alt": "Peter Hanssens",
-                "link": "/organisers/peter"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736454/SLD/alicia-cheah_uvwq8x.jpg",
-                "alt": "Alicia Cheah",
-                "link": "/organisers/alicia"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/peter-sbarski_sxbo77.jpg",
-                "alt": "Peter Sbarski",
-                "link": "/organisers/sbarski"
-            },
-            {
-                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_fill/v1706682162/slsdays2024/org-matt.jpg",
-                "alt": "Matt Gillard",
-                "link": "/organisers/matt"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/nelly-sattari_dzoarn.jpg",
-                "alt": "Nelly Sattari",
-                "link": "/organisers/nelly"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/lars-klint_hwiznf.jpg",
-                "alt": "Lars Klint",
-                "link": "/organisers/lars"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736462/SLD/bill_chesnut_g2dkmq.jpg",
-                "alt": "Bill Chesnut",
-                "link": "/organisers/bill"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/somy_ayazi_b3lfh8.jpg",
-                "alt": "Somy Ayazi",
-                "link": "/organisers/somy"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736457/SLD/william_izzzdt.jpg",
-                "alt": "William Liebenberg",
-                "link": "/organisers/william"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736464/SLD/nick-triantafillou_tvigts.jpg",
-                "alt": "Nick Triantafillou",
-                "link": "/organisers/nick"
-            },
-            {
-                "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
-                "alt": "Darshit Pandya",
-                "link": "/organisers/darshit-pandya"
-            },
-            {
-                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_pad,b_auto/v1706682162/slsdays2024/org-stephen.jpg",
-                "alt": "Stephen Sennett",
-                "link": "/organisers/stephen"
-            },
-            {
-                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1706682162/slsdays2024/org-simon.jpg",
-                "alt": "Simon Waight",
-                "link": "/organisers/simon"
-            }
-        ]
+        "people": "_data/organisersData.json"
     }
 }
