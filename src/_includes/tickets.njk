@@ -15,7 +15,13 @@ layout: base.njk
                 <div class="pv2">{{ ticket.description }}</div>
             </div>
             
-            <div class="dtc b pt2 pb4 ph2 v-mid f4">{{ ticket.price }}</div>
+            <div class="dtc b pt2 pb4 ph2 v-mid f4">
+                {{ ticket.price }}
+                {% if ticket.strikedPrice %}
+                    <br />
+                    <span class="f5 normal strike">{{ ticket.strikedPrice }}</span>
+                {% endif %}
+            </div>
             <div class="dtc pt2 pb4 ph2 tc v-mid"><a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m contrastBkg contrastColor" href="{{ ticket.cta.path }}" target="_blank">{{ ticket.cta.name }}</a></div>
         </div>
         {% endfor %}
