@@ -3,5 +3,73 @@
     "email": "anz@serverlessdays.io",
     "eventDate": "21 - 24 May 2024",
     "location": "Sydney, AU & Auckland, NZ",
-    "favicon": "/img/favicon.ico"
+    "favicon": "/img/favicon.ico",
+    "events": {
+        "sydney": {
+            "city": "Sydney, AU",
+            "date": "Tuesday 21st May 2024",
+            "location": {
+                "name": "Wesley Conference Centre",
+                "address": "Wesley Conference Centre, 220 Pitt St, Sydney NSW 2000",
+                "googleMapsLink": "https://g.co/kgs/WsNYkgV"
+            },
+            "agenda": {
+                "09:00": [
+                    {
+                        "title": "Keynote",
+                        "speaker": "boop"
+                    }
+                ],
+                "10:00": [
+                    {
+                        "title": "Introduction to Fluffy Llamas",
+                        "speaker": "Lars Klint",
+                        "path": "/organisers/lars"
+                    },
+                    {
+                        "title": "Pundamentals",
+                        "speaker": "Alica Cheah",
+                        "path": "/organisers/alicia"
+                    }
+                ],
+                "11:00": [
+                    {
+                        "title": "Stuff-o-nomics",
+                        "speaker": "Idunno Summone"
+                    },
+                    {
+                        "title": "Longer Title of Warped Flexbox",
+                        "speaker": "Actualdee Signer"
+                    }
+                ],
+                "12:00": [
+                    {
+                        "title": "Stuff-o-nomics",
+                        "speaker": "Idunno Summone"
+                    },
+                    {
+                        "title": "Longer Title of Warped Flexbox",
+                        "speaker": "Actualdee Signer"
+                    },
+                    {
+                        "title": "Longer Title of Warped Flexbox",
+                        "speaker": "Actualdee Signer"
+                    }
+                ]
+            },
+            "workshops": [
+                {
+                    "title": "Productive and Performant Serverless Apps with Rust",
+                    "speaker": "Tim McNamara",
+                    "path": "/organisers/peter",
+                    "dateTime": "Monday 20th May 2024, 9AM",
+                    "location": {
+                        "name": "Cliftons Sydney",
+                        "address": "Cliftons Sydney Margaret Street, L13, 60 Margaret St, Sydney NSW 2000",
+                        "googleMapsLink": "https://g.co/kgs/gpjjvGS"
+                    }
+                }
+            ]
+        }
+    }
 }
