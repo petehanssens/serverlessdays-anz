@@ -3,17 +3,17 @@
     </div>
     <div class="w-100 w-50-l ph3 ph0-ns tc tl-ns pb4-l">
         <h2 class="f2 mv3">📣 Speakers</h2>
-        <div class="f5 lh-copy pr3-m">{% markdown speakers.text %}</div>
-        <div class="pt2 pt3-ns">
-            {% for speaker in speakers.lineup %}
-                <a class="no-underline" href="{{ speaker.link }}" alt="{{ speaker.alt }}" >
-                    <img class="w4 h4" src="{{speaker.img}}" alt="{{ speaker.alt }}">
+        <div class="f5 lh-copy pr3-m">{% markdown speakersPanel.text %}</div>
+        <div class="pb4 pt3-ns">
+            {% for key,speaker in speakers %}
+                <a href="/speakers/{{ key }}" style="background-image: url({{ speaker.img }})" alt="{{ speaker.name }}" class="w4 h4 link dt hide-child br2 cover bg-center" >
+                    <span class="white dtc f5 pb2 br2 tc v-btm w-100 h-100 child bg-black-60">{{ speaker.name }}</span>
                 </a>
             {% endfor %}
         </div>
-        <div class="f5 lh-copy pr3-m">{% markdown speakers.speakercaption %}</div>
+        <div class="f5 lh-copy pr3-m">{% markdown speakersPanel.speakercaption %}</div>
         <div class="f5 lh-copy pr3-m">
-            {% for link in speakers.rfp %}
+            {% for link in speakersPanel.rfp %}
                 <a class="pv2 ph2 ph4-l f4 no-underline ba br2 b--transparent primaryBkg primaryColor" href="{{ link.path }}" target="_blank">{{ link.name }}</a>
             {% endfor %}
         </div>
