@@ -50,8 +50,7 @@
             }
         ]
     },
-    "organisers": {
-        "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",
-        "people": "_data/organisersData.json"
+    "organisersPanel": {
+        "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible."
     }
 }

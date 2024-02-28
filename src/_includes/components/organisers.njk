@@ -3,11 +3,11 @@
     </div>
     <div class="w-100 w-50-l ph3 ph0-ns tc tl-ns pb4-l">
         <h2 class="f2 mv3">🎉 Organisers</h2>
-        <div class="f5 lh-copy pr3-m">{% markdown organisers.text %}</div>
-        <div class="pt2 pt3-ns">
-            {% for organiser in organisersData.people %}
-                <a class="no-underline" href="{{ organiser.link }}" alt="{{ organiser.alt }}" >
-                    <img class="w4 h4 br2" src="{{organiser.img}}" alt="{{ organiser.alt }}">
+        <div class="f5 lh-copy pr3-m">{% markdown organisersPanel.text %}</div>
+        <div class="flex flex-row flex-wrap pb4 pt3-ns">
+            {% for key,organiser in organisers %}
+                <a href="/organisers/{{ key }}" style="background-image: url({{ organiser.img }})" alt="{{ organiser.name }}" class="w4 h4 ma1 link dt hide-child br2 cover bg-center" >
+                    <span class="white dtc f5 pb2 br2 tc v-btm w-100 h-100 child bg-black-60">{{ organiser.name }}</span>
                 </a>
             {% endfor %}
         </div>
