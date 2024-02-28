@@ -25,10 +25,8 @@ layout: base.njk
     </div>
 </div>
 
-<div class="contrastBkg contrastColor pa3 db w-100">
-    <div class="flex-l mb2">
-        <div class="w-100 w-05-l dn db-l">
-        </div>
+<div class="ph3 ph2-ns pt2-ns pv2 w-100 contrastBkg contrastColor">
+    <div class="mw6-m mw7-l center">
         <div class="w-100 w-auto-ns"> 
             <p class="fw7 f1 mv2 tc tl-l">{{ currentEvent.city }}</p>
             <p class="fw6 f3 tc tl-l">{{ currentEvent.date }}</p>
@@ -36,20 +34,20 @@ layout: base.njk
     </div>
 </div>
 
-<div class="ph3 ph0-ns pt2-ns w-100 avenir contrastBkg contrastColor">
-    <div class="pv4 tl f4 secondaryColor secondaryBkg">
+<div class="ph0 pt2-ns w-100 avenir contrastBkg contrastColor">
+    <div class="pv4 ph4 tl f4 secondaryColor secondaryBkg">
         <div class="mw6-m mw7-l center">
             <h2 class="f2 f2-l mv3">🗺️ Venue</h2>
-            <p><strong>Address:</strong> {{ currentEvent.location.address }}</p>
+            <p class="f5"><strong>Address:</strong> {{ currentEvent.location.address }}</p>
             <p class="pt2">
-                <a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m primaryBkg primaryColor" href="{{ currentEvent.location.googleMapsLink }}" target="_blank">🗺️ Google Maps</a>
+                <a class="pv2 ph4 f5 no-underline ba br2 b--transparent mr5-m primaryBkg primaryColor" href="{{ currentEvent.location.googleMapsLink }}" target="_blank">🗺️ Google Maps</a>
             </p>
         </div>
     </div>
     
-    <div class="pv4 pa3-ns tl primaryColor primaryBkg">
+    <div class="pv4 ph2 pa3-ns tl primaryColor primaryBkg">
         <div class="mw6-m mw7-l center">
-            <h2 class="f2 mv3">📆 Agenda</h2>
+            <h2 class="f2 ph2 mv3">📆 Agenda</h2>
             {% if currentEvent.agenda|length %}
             <table class="w-100">
                 {% for timeslot, sessions in currentEvent.agenda %}
