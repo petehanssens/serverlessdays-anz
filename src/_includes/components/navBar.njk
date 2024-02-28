@@ -6,7 +6,7 @@
     href="/"
   >Home</a>
   {% for item in nav.navBarItems %}
-    {% if not item.hidden %}
+    {% if not item.hiddenNavbar %}
       {% if item.cta %}
       <a
         id="{{ item.key }}"

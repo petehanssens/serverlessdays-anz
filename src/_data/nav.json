@@ -1,15 +1,20 @@
 {
     "navBarItems": [
         {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers",
-            "hidden": true
-        },
-        {
             "key": "organisers",
             "path": "/organisers",
-            "name": "Organisers"
+            "name": "Organisers",
+            "hiddenNavbar": true
+        },
+        {
+            "key": "sydney2024",
+            "path": "/sydney",
+            "name": "Sydney 2024"
+        },
+        {
+            "key": "auckland2024",
+            "path": "/auckland",
+            "name": "Auckland 2024"
         },
         {
             "key": "sponsors",
@@ -17,27 +22,28 @@
             "name": "Sponsors"
         },
         {
-            "key": "prizedraw",
-            "path": "/prizedraw",
-            "name": "Prize Draw",
-            "hidden": true
-        },
-        {
             "key": "coc",
             "path": "/coc",
-            "name": "Code of Conduct"
+            "name": "Code of Conduct",
+            "hiddenNavbar": true
         },
         {
             "key": "cfp",
             "path": "/cfp",
-            "name": "Call for Papers",
-            "cta": false
+            "name": "Call for Papers"
         },
         {
             "key": "tickets",
             "path": "/tickets",
             "name": "🎟️ Tickets",
-            "cta": true
+            "cta": true,
+            "hiddenFooter": "true"
+        },
+        {
+            "key": "privacy",
+            "path": "/privacy",
+            "name": "Privacy Policy",
+            "hiddenNavbar": true
         }
     ]
 }
