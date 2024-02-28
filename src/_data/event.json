@@ -74,6 +74,17 @@
                     }
                 }
             ]
+        },
+        "auckland": {
+            "title": "🇳🇿 Auckland (May 24th)",
+            "city": "Auckland, NZ",
+            "date": "Friday 24th May 2024",
+            "hero": "/img/2023-paneltalk.jpg",
+            "location": {
+                "name": "Pullman Auckland",
+                "address": "Pullman Auckland, Cnr Waterloo Quadrant & Princes Street, Auckland, 1010",
+                "googleMapsLink": "https://g.co/kgs/qUnyCyw"
+            }
         }
     }
 }
