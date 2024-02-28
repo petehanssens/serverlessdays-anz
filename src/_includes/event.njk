@@ -4,80 +4,109 @@ layout: base.njk
 
 {% set currentEvent = event.events[eventKey] %}
 
-<div class="ph3 ph0-ns pt4 pt6-ns w-100 avenir contrastBkg contrastColor">
-    <div class="ph1 pt2 pa3-ns mw6-m mw7-l center tl">
-        <h1 class="f1">{{ currentEvent.city }}</h1>
-        <p class="fw6 f4">{{ currentEvent.date}}</p>
+<div class="flex-l pt4 pt6-ns w-100 db">
+    <div class="w-auto w-10-l dn db-l">
     </div>
+    <div class="w-100 w-40-l tc tr-l pb2">
+        <img class="v-top-ns cover shiftRight90-l ph2 w-80 w-70-m w-100-l" src={{ event.logo }}>
+        <h1 class="avenir mr2 mr5-m pr4 pr5-m pr0-l mt0 tr f3 f2-ns i mv0 mv1-ns shiftRight60-l">{{ event.name }}</h1>
+    </div>
+    <div class="w-auto w-10-l dn db-l">
+    </div>
+    <div class="w-100 w-40-l tr-l v-top cover pa0">
+        <img src="{{ currentEvent.hero }}" class="w-100 w-auto-l heroImage-l">
+    </div>
+</div>
 
-    <div class="ph3 pv2 mw6-m mw7-l center">
-        <h2 class="f2 mv3">🗺️ Venue</h2>
-        <p><strong>Address:</strong> {{ currentEvent.location.address }}</p>
-        <p class="pt2">
-            <a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m primaryBkg primaryColor" href="{{ currentEvent.location.googleMapsLink }}" target="_blank">🗺️ Google Maps</a>
-        </p>
+<div class="w-100 pa0-m pa3 tc tl-l f4 db mv4 shiftUp240-l" >
+    <div class="flex-l">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+    </div>
+</div>
+
+<div class="contrastBkg contrastColor pa3 db w-100">
+    <div class="flex-l mb2">
+        <div class="w-100 w-05-l dn db-l">
+        </div>
+        <div class="w-100 w-auto-ns"> 
+            <p class="fw7 f1 mv2 tc tl-l">{{ currentEvent.city }}</p>
+            <p class="fw6 f3 tc tl-l">{{ currentEvent.date }}</p>
+        </div>
+    </div>
+</div>
+
+<div class="ph3 ph0-ns pt2-ns w-100 avenir contrastBkg contrastColor">
+    <div class="pv4 tl f4 secondaryColor secondaryBkg">
+        <div class="mw6-m mw7-l center">
+            <h2 class="f2 f2-l mv3">🗺️ Venue</h2>
+            <p><strong>Address:</strong> {{ currentEvent.location.address }}</p>
+            <p class="pt2">
+                <a class="pv2 ph4 f4 no-underline ba br2 b--transparent mr5-m primaryBkg primaryColor" href="{{ currentEvent.location.googleMapsLink }}" target="_blank">🗺️ Google Maps</a>
+            </p>
+        </div>
     </div>
     
-    <div class="ph1 pv2 pa3-ns mw6-m mw7-l center tl primaryColor primaryBkg">
-        <h2 class="f2 mv3">📆 Agenda</h2>
-        {% if currentEvent.agenda|length %}
-        <table class="w-100">
-            {% for timeslot, sessions in currentEvent.agenda %}
-                <tr class="pv3 bb">
-                    <td class="bg-blue br2 bn ph2 pt2 tc">{{ timeslot }}</td>
-                    <td class="bn bg-dark-blue">
-                        <div class="flex flex-wrap-m justify-center items-center">
-                            {# Here-be-dragons code to set the width of each session, up to 3 sessions per timeslot #}
-                            {% set sWidth = ("w-100" if sessions|length == 1 else ("w-50 w-100-m" if sessions|length == 2 else "w-33 w-100-m")) %}
-                            {% for session in sessions %}
-                                <div class="center tc pv2 pv3-m ph1 {{ sWidth }}">
-                                    {% if session.path %}
-                                    <a href="{{ session.path }}" class="primaryColor no-underline hover-light-blue grow dib">
-                                    {% endif %}
-                                        <span class="f4 fw6">{{ session.title }}</span><br />
-                                        <span class="f5">{{ session.speaker }}</span>
-                                    {% if session.path %}
-                                    </a>
-                                    {% endif %}
-                                </div>
-                            {% endfor %}
-                        </div>
-                    </td>
-                </tr>
-            {% endfor %}
-        </table>
-        {% else %}
-            <p>We are busy developing the agenda for ServerlessDays ANZ. Check back soon!</p>
-        {% endif %}
+    <div class="pv4 pa3-ns tl primaryColor primaryBkg">
+        <div class="mw6-m mw7-l center">
+            <h2 class="f2 mv3">📆 Agenda</h2>
+            {% if currentEvent.agenda|length %}
+            <table class="w-100">
+                {% for timeslot, sessions in currentEvent.agenda %}
+                    <tr class="pv3 bb">
+                        <td class="bg-blue br2 bn ph2 pt2 tc">{{ timeslot }}</td>
+                        <td class="bn bg-dark-blue">
+                            <div class="flex flex-wrap-m justify-center items-center">
+                                {# Here-be-dragons code to set the width of each session, up to 3 sessions per timeslot #}
+                                {% set sWidth = ("w-100" if sessions|length == 1 else ("w-50 w-100-m" if sessions|length == 2 else "w-33 w-100-m")) %}
+                                {% for session in sessions %}
+                                    <div class="center tc pv2 pv3-m ph1 {{ sWidth }}">
+                                        {% if session.path %}
+                                        <a href="{{ session.path }}" class="primaryColor no-underline hover-light-blue grow dib">
+                                        {% endif %}
+                                            <span class="f4 fw6">{{ session.title }}</span><br />
+                                            <span class="f5">{{ session.speaker }}</span>
+                                        {% if session.path %}
+                                        </a>
+                                        {% endif %}
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </table>
+            {% else %}
+                <p>We are busy developing the agenda for ServerlessDays ANZ. Check back soon!</p>
+            {% endif %}
+        </div>
     </div>
 
     {%if currentEvent.workshops|length %}
-    <div class="ph3 pv2 mw6-m mw7-l avenir center">
-        <h2 class="f2 mv3">🛠️ Workshops</h2>
-        <div class="">
-            <p>We're looking forward to bring a number of workshops to you as part of this event! Check out the information below:</p>
-            <div class="flex flex-col ph3 pv1">
-            {% for workshop in currentEvent.workshops %}
-                <div class="primaryBkg primaryColor w-100 br2 ph3 pv1">
-                    {% if workshop.path %}
-                    <a href="{{ workshop.path }}" class="primaryColor no-underline hover-light-blue">
-                    {% endif %}
-                        <h3 class="f2 f3-m fw6 mb0">{{ workshop.title }}</h3>
-                        <p class="fw6">👤 {{ workshop.speaker }}</p>
-                        <p class="f6">📅 {{ workshop.dateTime }}</p>
-                        <p class="f6">🌐 {{ workshop.location.name if workshop.location else "Location TBC" }}</p>
-                    {% if workshop.path %}
-                    </a>
-                    {% endif %}
+    <div class="ph3 pv4 secondaryContrastColor secondaryConstrastBkg">
+        <div class="mw6-m mw7-l center">
+            <h2 class="f2 mv3">🛠️ Workshops</h2>
+            <div class="">
+                <p>We're looking forward to bring a number of workshops to you as part of this event! Check out the information below:</p>
+                <div class="flex flex-col ph3 pv1">
+                {% for workshop in currentEvent.workshops %}
+                    <div class="primaryBkg primaryColor w-100 br2 ph3 pv1">
+                        {% if workshop.path %}
+                        <a href="{{ workshop.path }}" class="primaryColor no-underline hover-light-blue">
+                        {% endif %}
+                            <h3 class="f2 f3-m fw6 mb0">{{ workshop.title }}</h3>
+                            <p class="fw6">👤 {{ workshop.speaker }}</p>
+                            <p class="f6">📅 {{ workshop.dateTime }}</p>
+                            <p class="f6">🌐 {{ workshop.location.name if workshop.location else "Location TBC" }}</p>
+                        {% if workshop.path %}
+                        </a>
+                        {% endif %}
+                    </div>
+                {% endfor %}
                 </div>
-            {% endfor %}
             </div>
         </div>
     </div>
     {% endif %}
-
-    <div class="w-100 w-05-l dn db-l">
-        &nbsp;
-    </div> 
 
 </div>

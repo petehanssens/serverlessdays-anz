@@ -1,13 +1,16 @@
 {
+    "name": "ANZ",
     "twitter": "https://twitter.com/SLSDaysANZ",
     "email": "anz@serverlessdays.io",
     "eventDate": "21 - 24 May 2024",
     "location": "Sydney, AU & Auckland, NZ",
+    "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
     "favicon": "/img/favicon.ico",
     "events": {
         "sydney": {
             "city": "Sydney, AU",
             "date": "Tuesday 21st May 2024",
+            "hero": "/img/2023-paneltalk.jpg",
             "location": {
                 "name": "Wesley Conference Centre",
                 "address": "Wesley Conference Centre, 220 Pitt St, Sydney NSW 2000",
