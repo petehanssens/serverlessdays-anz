@@ -45,16 +45,12 @@
         
     ],
     "venue": {
-        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia at Wesley Conference Centre, and Auckland, New Zealand at the Pullman Auckland.\n\nEarly bird tickets are available now!",
+        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia at Wesley Conference Centre, and Auckland, New Zealand at the Pullman Auckland.\n\nTickets are available now!",
         "image": "img/2024-globalmap.jpg",
         "cta": [
             {
-                "name": "🇦🇺 Sydney (May 21st)",
-                "path": "https://www.tickettailor.com/events/slsdaysanz/1131610"
-            },
-            {
-                "name": "🇳🇿 Auckland (May 24th)",
-                "path": "https://www.tickettailor.com/events/slsdaysanz/1131611"
+                "name": "🎟️ Tickets",
+                "path": "/tickets"
             }
         ]
     },

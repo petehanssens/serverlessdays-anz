@@ -8,6 +8,7 @@
     "favicon": "/img/favicon.ico",
     "events": {
         "sydney": {
+            "title": "🇦🇺 Sydney (May 21st)",
             "city": "Sydney, AU",
             "date": "Tuesday 21st May 2024",
             "hero": "/img/2023-paneltalk.jpg",
