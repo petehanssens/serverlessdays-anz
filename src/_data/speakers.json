@@ -1,0 +1,24 @@
+{
+    "sheen": {
+        "name": "Sheen Brissals",
+        "title": "Senior Engineering Manager at The LEGO Group, AWS Serverless Hero",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1709114814/slsdays2024/speaker-sheenbrissals.jpg",
+        "bio": "Sheen is an AWS Serverless Hero and co-author of 'Serverless Development on AWS: Building Enterprise-Scale Serverless Solutions' (O'Reilly, 2024). Sheen is an experienced engineering leader who guides enterprise teams to architect, build, and operate sustainable serverless solutions. Sheen has held several positions at leading software organisations over his long career. He is very passionate about serverless and loves sharing knowledge with the community. His writings and thoughts on serverless have helped several engineers, teams, and organisations on their serverless adoption journey. He talks about serverless at conferences around the world.",
+        "talk": {
+            "title": "Think, Architect, and Build Serverless Applications as Set Pieces",
+            "abstract" : "The emergence of microservices made us rethink how we built business applications. It led us to the migration of complex monolith applications to countless microservices. The adoption of the cloud and the suitability of container services helped revolutionize microservices.\n\nAmidst this adoration for microservices came serverless, the next evolution of the cloud. Serverless brought deeper granularity with its technology offering. It tested our thinking, shifted our minds, and questioned the way we’ve been building microservices. The agility of event-driven computing and the granularity of serverless allow us to break traditional application development into multiple pieces.\n\nIn this talk, we will see how cloud and serverless help us create a set-piece thinking and build those pieces in isolation to achieve acceleration in our modern application development process."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/sheenbrisals",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/in/sheen-brisals",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    }
+}

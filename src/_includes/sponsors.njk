@@ -6,6 +6,46 @@ layout: base.njk
         <h1 class="f1">Sponsors</h1>
     </div>
 
+    {% if sponsorsData.list|length %}
+    <div class="pv4 ph4 tl f4 tertiaryColor tertiaryBkg">
+        <div class="mw6-m mw7-l center">
+            {% if sponsorsData.list.platinum|length %}
+            <div class="w-100 pt3 pb4 tc">
+                {% for sponsor in sponsorsData.list.platinum %}
+                    <span class="center dib pa3 v-mid">
+                        <a class="no-underline" href="{{ sponsor.link }}">
+                            <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+                        </a>
+                    </span>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if sponsorsData.list.gold|length %}
+            <div class="w-100 pv3 tc">
+                {% for sponsor in sponsorsData.list.gold %}
+                    <span class="center dib pa3 v-mid">
+                        <a class="no-underline" href="{{ sponsor.link }}">
+                            <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+                        </a>
+                    </span>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if sponsorsData.list.silver|length %}
+            <div class="w-100 pv3 tc">
+                {% for sponsor in sponsorsData.list.silver %}
+                    <span class="center dib pa3 v-mid">
+                        <a class="no-underline" href="{{ sponsor.link }}">
+                            <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
+                        </a>
+                    </span>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+
     <div class="markdown-body mw6-m mw7-l avenir center">
         {{ content | safe }}
     </div>

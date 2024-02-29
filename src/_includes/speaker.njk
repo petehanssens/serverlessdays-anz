@@ -1,6 +1,10 @@
 ---
 layout: base.njk
+page:
+    image: {{ speakers.key.img }}
 ---
+{% set speaker = speakers[key] %}
+
 <div class="ph3 ph0-ns pt4 pt6-ns w-100">
     <div class="w-100 w-80-m w-70-l center tl">
         <div class="dt-ns pt2 pt5-ns">

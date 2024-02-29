@@ -4,11 +4,11 @@ layout: base.njk
 <div class="ph3 ph0-ns pt4 pt6-ns w-100 center">
     <div class="w-100 w-80-m w-70-l center tc tl-ns">
         <h1 class="f1">Organisers</h1>
-            {% for organiser in organisersData.people %}
+            {% for key,organiser in organisers %}
             <span class="w5 pa2 pa3-m pa4-l v-top center tc dib">
-                <a class="no-underline center" href="{{ organiser.link }}">
-                    <img class="ba br-100 b--transparent w5" src="{{ organiser.img }}" alt="{{ organiser.alt }}" />
-                    <p class="f3 pt2 primaryColor tc">{{ organiser.alt }}</p>
+                <a class="no-underline center" href="/organisers/{{ key }}">
+                    <img class="ba br-100 b--transparent w5" src="{{ organiser.img }}" alt="{{ organiser.name }}" />
+                    <p class="f3 pt2 primaryColor tc">{{ organiser.name }}</p>
                 </a>
             </span>
             {% endfor %}

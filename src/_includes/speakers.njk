@@ -4,32 +4,15 @@ layout: base.njk
 <div class="ph3 ph0-ns pt4 pt6-ns w-100 center">
     <div class="w-100 w-80-m w-70-l center tc tl-ns">
         <h1 class="f1">Speakers</h1>
-            {% for speaker in speakers %}
+            {% for key,details in speakers %}
             <span class="w5 pa2 pa3-m pa4-l v-top center tc dib">
-                <a class="no-underline center" href="{{ speaker.link }}">
-                    <img class="ba br-100 b--transparent w5" src="{{ speaker.img }}" alt="{{ speaker.name }}" />
-                    <p class="f3 pt2 primaryColor tc">{{ speaker.name }}</p>
+                <a class="no-underline center primaryColor" href="/speakers/{{ key }}">
+                    <img class="ba br-100 b--transparent w5" src="{{ details.img }}" alt="{{ details.name }}" />
+                    <div class="f3 fw6 pv2 tc">{{ details.name }}</div>
+                    <div class="f5">{{details.title}}</div>
                 </a>
-                <div class="pa2 f4">{{speaker.role}}</div>
-                <div class="pa2 f5">{{speaker.title}}</div>
             </span>
             {% endfor %}
-            {% if session.talk %}
-                        <div class="dt w-50">
-                            <div class="dt-row">
-                                <div class="dtc i pv2 w3 pr3 f5">Title</div>
-                                <div class="dtc pv2 b mw5 mw6-ns f5">
-                                    {{ session.talk.title }}
-                                </div>
-                            </div>
-                            <div class="dt-row mw6 mw7-ns">
-                                <div class="dtc i w3 pr3 f5">Abstract</div>
-                                <div class="dtc f5 lh-copy markdown-body mw5 mw6-ns">
-                                    {% markdown session.talk.abstract %}
-                                </div>
-                            </div>
-                        </div>
-                    {% endif %}
     </div>
     <div class="cf">
     </div>

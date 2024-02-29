@@ -28,12 +28,8 @@
     "sponsors": {
         "sponsorList": "_data/sponsorsData.json"
     },
-    "speakers": {
-        "text": "ServerlessDays ANZ 2024 will be coming to both Australia, and New Zealand for the first time! \n\r Our landscape is changing faster than ever, with ever-more mainstream appeal and proven ability to deliver business value at every scale, from start-up to enterprise. \n\r We're looking forward to bringing a platform to both Sydney and Auckland for local builders to share their experiences with the broader community! \n\r Our **Call for Papers** is now open for 2024, closing March 31st!",
-        "lineup": [
-            
-        ],
-        "speakercaption": "",
+    "speakersPanel": {
+        "text": "ServerlessDays ANZ 2024 will be coming to both Australia, and New Zealand for the first time! \n\r Our landscape is changing faster than ever, with ever-more mainstream appeal and proven ability to deliver business value at every scale, from start-up to enterprise. \n\r We're looking forward to bringing a platform to both Sydney and Auckland for local builders to share their experiences with the broader community! \n\r Our **Call for Papers** is now open for 2024, closing March 31st!","speakercaption": "",
         "rfp": [
             {
                 "name": "Call for Papers",
@@ -45,21 +41,16 @@
         
     ],
     "venue": {
-        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia at Wesley Conference Centre, and Auckland, New Zealand at the Pullman Auckland.\n\nEarly bird tickets are available now!",
+        "text": "ServerlessDays ANZ 2024 will be hosted in Sydney, Australia at Wesley Conference Centre, and Auckland, New Zealand at the Pullman Auckland.\n\nTickets are available now!",
         "image": "img/2024-globalmap.jpg",
         "cta": [
             {
-                "name": "🇦🇺 Sydney (May 21st)",
-                "path": "https://www.tickettailor.com/events/slsdaysanz/1131610"
-            },
-            {
-                "name": "🇳🇿 Auckland (May 24th)",
-                "path": "https://www.tickettailor.com/events/slsdaysanz/1131611"
+                "name": "🎟️ Tickets",
+                "path": "/tickets"
             }
         ]
     },
-    "organisers": {
-        "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible.",
-        "people": "_data/organisersData.json"
+    "organisersPanel": {
+        "text": "ServerlessDays ANZ couldn't happen without our awesome organisers and volunteers who have put in hundred of hours for free to ensure this conference remains affordable and accessible."
     }
 }

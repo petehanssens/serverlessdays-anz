@@ -1,0 +1,218 @@
+{
+    "peter": {
+        "name": "Peter Hanssens",
+        "title": "Founder, Cloud Shuttle and cloudseeder",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736456/SLD/peter-hanssens_dcwal3.jpg",
+        "bio": "Peter is an AWS Serverless Hero and the organizer of Sydney Serverless meetup as well as 5 data engineering meetups across Australia. He is passionate about the intersection of serverless and data engineering and his day job includes running two cloud consultancies, Cloud Shuttle, a community focussed data engineering consultancy, and cloudseeder which implements best practice AWS implementations for its clients. In his spare time he coaches his son's soccer team.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/petehanssens",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/peterhanssens/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "alicia": {
+        "name": "Alicia Cheah",
+        "title": "Content and Community Marketing Leader",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736454/SLD/alicia-cheah_uvwq8x.jpg",
+        "bio": "Alicia is a senior content leader with over a decade of experience commissioning and developing high quality multimedia content to drive business goals. Alicia is passionate about education and has worked for companies such as Oxford University Press, A Cloud Guru, and Pluralsight. \n\n She also has events management, brand and social media marketing experience and loves creating community experiences to bring people together. \n\n Alicia is a fan of horror movies, needle crafts, and video games.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "sbarski": {
+        "name": "Peter Sbarski",
+        "title": "Co-founder & CTO at heart hands, AWS Serverless Hero, Author of Serverless Architectures on AWS",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/peter-sbarski_sxbo77.jpg",
+        "bio": "Peter Sbarski is the author of “Serverless Architectures on AWS” and an AWS Serverless Hero. Previously a VP of Education & Research at A Cloud Guru and the organizer of Serverlessconf, the world's first conference dedicated entirely to serverless architectures and technologies. His work at A Cloud Guru allowed him to work with, talk and write about serverless architectures, cloud computing, and AWS. \n\n\n Peter is always happy to discuss cloud computing and can be found at conferences and meetups throughout the year. He helps to organize the Serverless Meetup in Melbourne, and is always keen to share his experience working on interesting and innovative cloud projects. \n\n\n Peter's passions include serverless technologies, event-driven programming, back end architecture, and orchestration of systems. Peter holds a PhD in Computer Science from Monash University, Australia.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "matt": {
+        "name": "Matthew Gillard",
+        "title": "Managing Consultant, Cevo",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_fill/v1706682162/slsdays2024/org-matt.jpg",
+        "bio": "Matthew is a Managing Consultant co-leading the Cloud Native capability for the AWS consultancy Cevo based in Melbourne, Australia. In recent years  through many Cloud migration projects, he has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. With this experience, he loves helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity. He also co-hosts the Cloud Dialogues podcast.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "nelly": {
+        "name": "Nelly Sattari",
+        "title": "Senior Engineering Manager, Atlassian",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/nelly-sattari_dzoarn.jpg",
+        "bio": "Nelly Sattari is an Engineering Manager at Atlassian focusing on Technical leadership of teams to build  modern softwares, and she is indebted to her full stack development background and the knowledge she gained there. Nelly is a Microsoft Azure MVP, community leader, public speaker and a mentor. \n\n\n She has been assisting tech community events to be a more Inclusive place to collaborate and learn for last 10 years including co-organised the Serverless events, speaking at numerous technical events, organises developer events and leadership workshops for tech senior engineers who wanted to step up to the next level, being part of agenda committee for conferences.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "lars": {
+        "name": "Lars Klint",
+        "title": "Principal Consultant at Arkahna",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/lars-klint_hwiznf.jpg",
+        "bio": "Lars is a Principal Consultant at Arkahna, author, trainer, Microsoft Azure MVP, community leader, aspiring YouTube host and part time classic car collector. He is heavily involved in the space of cloud computing services, especially Azure, and is a published author, solution architect and writer for numerous publications. He has been a part of the software development community for the past 20 years and has co-organised the DDD Melbourne community conference for a decade, organises developer events with Microsoft, and also runs a part time car restoration business. He has spoken at numerous technical events around the world and is an expert in Australian Outback Internet.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "somy": {
+        "name": "Somy Ayazi",
+        "title": "Engineering Manager, Atlassian",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/somy_ayazi_b3lfh8.jpg",
+        "bio": "Somy is an Engineering Manager at Atlassian. She has a technical background and many years of experience delivering modern business technology solutions across different organisations and industries. \n\n\n She is Microsoft AI MVP and provides support to the IT community by co-organising Global AI Podcast and AI APAC Meetups. She is passionate about AI and keen to utilise AI-powered technology to supercharge product capabilities. ",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "william": {
+        "name": "William Liebenberg",
+        "title": "Solutions Architect, SSW",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736457/SLD/william_izzzdt.jpg",
+        "bio": "William is a Solution Architect at SSW with a strong focus on building enterprise solutions on Azure and enjoys developing great software engineering practices for teams. \n\n\n William is an active member of the Melbourne developer community where you can find him attending or presenting at user groups, hack days and conferences every time he has a chance! Also, William is president of Melbourne .NET user group as well as co-organiser of the Melb.NET user group (yes, there are 2 .NET meetups in town – naming is hard!). \n\n\n Recently in his spare time William combined his passion for Serverless IoT and BBQing to build his own smoker that can track the temperature and doneness of his tasty treats.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "nick": {
+        "name": "Nick Triantafillou",
+        "title": "AWS Community Hero & Lead AWS Architect at Vitavo",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736464/SLD/nick-triantafillou_tvigts.jpg",
+        "bio": "Nick is a Cloud Engineer, Educator, User Group founder, and Christmas Light enthusiast. He was one of the original course instructors at the cloud education startup A Cloud Guru, having taught over 1 million students the fundamentals of AWS, and also produced the world's first AWS Certified DevOps Engineer course.\n\nHe's the founder of his local Wollongong AWS User Group, co-founder of the Sydney Serverless Meetup and has assisted in the planning and operation of both the ServerlessConf and ServerlessDays ANZ conferences.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/slsdaysanz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "darshit-pandya": {
+        "name": "Darshit Pandya",
+        "title": "AWS community builder - Serverless & Principal Software Engineer, Serko",
+        "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_pad,b_auto/v1677752750/SLD/darshit-pandya_bujlt9.jpg",
+        "bio": "Darshit Pandya is a seasoned Principal Software Engineer at Serko, based in Auckland, New Zealand. With a strong technical background and a passion for solving complex problems, Darshit has a proven track record of delivering results in building large-scale, distributed cloud applications, event-driven architecture, and microservices. His extensive knowledge of programming languages and technology stacks, combined with a deep understanding of various business domains, makes him a confident and capable problem-solver. As a lifelong learner, Darshit is always seeking new experiences and pushing the boundaries of what's possible. His technical knowledge, leadership skills, and commitment to improvement giving him joy or learning and experiments with technology.\n\nIn addition to his role as a Principal Software Engineer, Darshit is also an AWS Community Builder for Serverless since 2021. With extensive experience in cloud migrations, he advocates for the Cloud operating model and DevOps practices to achieve accelerated business outcomes. He is passionate about educating developers on new serverless technologies and helping them increase their delivery velocity. Darshit's core expertise domains include Travel, Healthcare, Fintech, and Accounting. As a AWS community builder for Serverless Darshit is giving meetup, conference talks on serverless and helping New Zealand community to accelerate their jounry with serverless\n\nDarshit is Co-Organiser of Auckland Serverless meetup, Auckland Serverless Days, ANZ serverless days.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/serverless99/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/darshitpandya/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "stephen": {
+        "name": "Stephen Sennett",
+        "title": "Independent Consultant, and AWS Community Builder",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/w_500,h_500,c_pad,b_auto/v1706682162/slsdays2024/org-stephen.jpg",
+        "bio": "Stephen Sennett is a cloud technology leader, content creator, educator, and speaker. He worked in the industry for over a decade across in a variety of roles. He holds high-level certifications across multiple technologies, has been recognized as an AWS Community Builder, spoken at numerous events, and authors technical content with A Cloud Guru (a Pluralsight company).",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/ssennettau/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ssennettau/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "simon": {
+        "name": "Simon Waight",
+        "title": "Cloud Architect",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1706682162/slsdays2024/org-simon.jpg",
+        "bio": "Simon is an accomplished software engineer who, having worked on a wide range of internet-related projects over the past 20 years, has a wealth of knowledge and experience to draw upon. He is currently a Microsoft MVP for Azure OpenAI Services.\n\nThroughout his career, Simon has had a keen interest in developer experience, always seeking to understand how developers work and what tools and technologies they need to be successful. Simon is known for his hands-on approach, frequently tinkering with technology and experimenting with new tools to gain a practical understanding of their capabilities and limitations.",
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/simonwaight",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/simon-waight/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    }
+}
