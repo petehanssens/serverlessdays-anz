@@ -18,46 +18,138 @@
                 "googleMapsLink": "https://g.co/kgs/WsNYkgV"
             },
             "agenda": {
+                "08:30": [
+                    {
+                        "title": "Registration Opens"
+                    }
+                ],
                 "09:00": [
                     {
-                        "title": "Keynote",
-                        "speaker": "boop"
-                    }
-                ],
-                "10:00": [
-                    {
-                        "title": "Introduction to Fluffy Llamas",
-                        "speaker": "Lars Klint",
+                        "title": "Welcome",
+                        "speaker": "Lars Klint (MC)",
                         "path": "/organisers/lars"
-                    },
-                    {
-                        "title": "Pundamentals",
-                        "speaker": "Alica Cheah",
-                        "path": "/organisers/alicia"
                     }
                 ],
-                "11:00": [
+                "09:10": [
                     {
-                        "title": "Stuff-o-nomics",
-                        "speaker": "Idunno Summone"
-                    },
-                    {
-                        "title": "Longer Title of Warped Flexbox",
-                        "speaker": "Actualdee Signer"
+                        "title": "Keynote: Think, Architect, and Build Serverless Applications as Set Pieces",
+                        "speaker": "Sheen Brissals",
+                        "path": "/speakers/sheen"
                     }
                 ],
-                "12:00": [
+                "09:50": [
                     {
-                        "title": "Stuff-o-nomics",
-                        "speaker": "Idunno Summone"
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "10:20": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "10:50": [
+                    {
+                        "title": "Morning Tea"
+                    }
+                ],
+                "11:20": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
                     },
                     {
-                        "title": "Longer Title of Warped Flexbox",
-                        "speaker": "Actualdee Signer"
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "11:50": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
                     },
                     {
-                        "title": "Longer Title of Warped Flexbox",
-                        "speaker": "Actualdee Signer"
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "12:05": [
+                    {
+                        "title": "Panel Discussion",
+                        "speaker": "TBC"
+                    },
+                    {
+                        "title": "Panel Discussion",
+                        "speaker": "TBC"
+                    }
+                ],
+                "12:45": [
+                    {
+                        "title": "Lunch"
+                    }
+                ],
+                "13:45": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    },
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "14:15": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    },
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "14:45": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    },
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "15:15": [
+                    {
+                        "title": "Afternoon Tea"
+                    }
+                ],
+                "15:45": [
+                    {
+                        "title": "Panel Discussion",
+                        "speaker": "TBC"
+                    }
+                ],
+                "16:25": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "16:55": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "17:25": [
+                    {
+                        "title": "Conclusion"
+                    }
+                ],
+                "17:45": [
+                    {
+                        "title": "After Party (Venue TBA)"
                     }
                 ]
             },
@@ -84,6 +176,118 @@
                 "name": "Pullman Auckland",
                 "address": "Pullman Auckland, Cnr Waterloo Quadrant & Princes Street, Auckland, 1010",
                 "googleMapsLink": "https://g.co/kgs/qUnyCyw"
+            },
+            "agenda": {
+                "08:30": [
+                    {
+                        "title": "Registration Opens"
+                    }
+                ],
+                "09:00": [
+                    {
+                        "title": "Welcome",
+                        "speaker": "Lars Klint (MC)",
+                        "path": "/organisers/lars"
+                    }
+                ],
+                "09:10": [
+                    {
+                        "title": "Keynote: Think, Architect, and Build Serverless Applications as Set Pieces",
+                        "speaker": "Sheen Brissals",
+                        "path": "/speakers/sheen"
+                    }
+                ],
+                "09:50": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "10:20": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "10:50": [
+                    {
+                        "title": "Morning Tea"
+                    }
+                ],
+                "11:20": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "11:50": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "12:05": [
+                    {
+                        "title": "Panel Discussion",
+                        "speaker": "TBC"
+                    }
+                ],
+                "12:45": [
+                    {
+                        "title": "Lunch"
+                    }
+                ],
+                "13:45": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "14:15": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "14:45": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "15:15": [
+                    {
+                        "title": "Afternoon Tea"
+                    }
+                ],
+                "15:45": [
+                    {
+                        "title": "Panel Discussion",
+                        "speaker": "TBC"
+                    }
+                ],
+                "16:25": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "16:55": [
+                    {
+                        "title": "Talk",
+                        "speaker": "TBC"
+                    }
+                ],
+                "17:25": [
+                    {
+                        "title": "Conclusion"
+                    }
+                ],
+                "17:45": [
+                    {
+                        "title": "After Party (Venue TBA)"
+                    }
+                ]
             }
         }
     }
