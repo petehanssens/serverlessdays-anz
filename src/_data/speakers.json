@@ -1,7 +1,7 @@
 {
     "sheen": {
-        "name": "Sheen Brissals",
-        "title": "Senior Engineering Manager at The LEGO Group, AWS Serverless Hero",
+        "name": "Sheen Brisals",
+        "title": "AWS Serverless Hero. Co-author of Serverless Development on AWS (O'Reilly)",
         "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1709114814/slsdays2024/speaker-sheenbrissals.jpg",
         "bio": "Sheen is an AWS Serverless Hero and co-author of 'Serverless Development on AWS: Building Enterprise-Scale Serverless Solutions' (O'Reilly, 2024). Sheen is an experienced engineering leader who guides enterprise teams to architect, build, and operate sustainable serverless solutions. Sheen has held several positions at leading software organisations over his long career. He is very passionate about serverless and loves sharing knowledge with the community. His writings and thoughts on serverless have helped several engineers, teams, and organisations on their serverless adoption journey. He talks about serverless at conferences around the world.",
         "talk": {
