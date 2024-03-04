@@ -1,6 +1,6 @@
 # Tickets
 
-Tickets for ServerlessDays ANZ 2024 are available now, with early bird prices available for a limited time at 30% off!
+Tickets for ServerlessDays ANZ 2024 are available now, with keynote announcement tickets available for purchase!
 
 ### Convincing Your Boss?
 
