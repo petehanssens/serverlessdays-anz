@@ -26,5 +26,5 @@ Express your interest by emailing us at [anz@serverlessdays.io](mailto:anz@serve
 
 ## Submission Guidelines
 
-Sessions can be submitted through our Sessionize pages below. Each city has it's own CFP process, so if you can only make it to one location, we'd still love to hear from you there. All presentations are live and in-person, with our CFP closing on **March 31st, 2024**.
+Sessions can be submitted through our Sessionize pages below. Each city has it's own CFP process, so if you can only make it to one location, we'd still love to hear from you there. All presentations are live and in-person, with our CFP closing on **March 11th, 2024**.
 
