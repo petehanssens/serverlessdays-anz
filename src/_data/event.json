@@ -157,12 +157,23 @@
                 {
                     "title": "Productive and Performant Serverless Apps with Rust",
                     "speaker": "Tim McNamara",
-                    "path": "/organisers/peter",
+                    "path": "https://www.tickettailor.com/events/slsdaysanz/1169287",
                     "dateTime": "Monday 20th May 2024, 9AM",
                     "location": {
                         "name": "Cliftons Sydney",
-                        "address": "Cliftons Sydney Margaret Street, L13, 60 Margaret St, Sydney NSW 2000",
-                        "googleMapsLink": "https://g.co/kgs/gpjjvGS"
+                        "address": "Cliftons Sydney Margaret Street, 13/60 Margaret St, Sydney NSW 2000",
+                        "googleMapsLink": "https://maps.app.goo.gl/fmiMHR7VJiNFkPkm6"
+                    }
+                },
+                {
+                    "title": "Accelerate your Career in Tech",
+                    "speaker": "Kaleida",
+                    "path": "https://www.tickettailor.com/events/slsdaysanz/1179968",
+                    "dateTime": "Monday 20th May 2024, 2PM",
+                    "location": {
+                        "name": "Cliftons Sydney",
+                        "address": "Cliftons Sydney Margaret Street, 13/60 Margaret St, Sydney NSW 2000",
+                        "googleMapsLink": "https://maps.app.goo.gl/fmiMHR7VJiNFkPkm6"
                     }
                 }
             ]
@@ -288,7 +299,31 @@
                         "title": "After Party (Venue TBA)"
                     }
                 ]
-            }
+            },
+            "workshops": [
+                {
+                    "title": "Productive and Performant Serverless Apps with Rust",
+                    "speaker": "Tim McNamara",
+                    "path": "https://www.tickettailor.com/events/slsdaysanz/1169301",
+                    "dateTime": "Thursday 23rd May 2024, 9AM",
+                    "location": {
+                        "name": "Cliftons Auckland",
+                        "address": "Cliftons Auckland, 4/45 Queen Street, Auckland 1010",
+                        "googleMapsLink": "https://maps.app.goo.gl/5KzSRQ4AuKB1VZpd9"
+                    }
+                },
+                {
+                    "title": "Accelerate your Career in Tech",
+                    "speaker": "Kaleida",
+                    "path": "https://www.tickettailor.com/events/slsdaysanz/1179974",
+                    "dateTime": "Thursday 23rd May 2024, 2PM",
+                    "location": {
+                        "name": "Cliftons Auckland",
+                        "address": "Cliftons Auckland, 4/45 Queen Street, Auckland 1010",
+                        "googleMapsLink": "https://maps.app.goo.gl/5KzSRQ4AuKB1VZpd9"
+                    }
+                }
+            ]
         }
     }
 }

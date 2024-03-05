@@ -58,7 +58,7 @@ layout: base.njk
                                 {# Here-be-dragons code to set the width of each session, up to 3 sessions per timeslot #}
                                 {% set sWidth = ("w-100" if sessions|length == 1 else ("w-50 w-100-m" if sessions|length == 2 else "w-33 w-100-m")) %}
                                 {% for session in sessions %}
-                                    <div class="tc pv2 pv3-m ph1 br2 {{ 'mv1 mh5 mh3-m ba b--mid-gray primaryBkg shadow-3' if session.speaker }} {{ sWidth }}">
+                                    <div class="tc pv2 pv3-m ph1 br2 {{ 'mv1 mh2 mh1-m ba b--mid-gray primaryBkg shadow-3' if session.speaker }} {{ sWidth }}">
                                         {% if session.path %}
                                         <a href="{{ session.path }}" class="primaryColor no-underline hover-light-blue grow dib">
                                         {% endif %}
@@ -86,9 +86,9 @@ layout: base.njk
             <h2 class="f2 mv3">🛠️ Workshops</h2>
             <div class="">
                 <p>We're looking forward to bring a number of workshops to you as part of this event! Check out the information below:</p>
-                <div class="flex flex-col ph3 pv1">
+                <div class="flex flex-column ph3 pv1">
                 {% for workshop in currentEvent.workshops %}
-                    <div class="primaryBkg primaryColor w-100 br2 ph3 pv1">
+                    <div class="primaryBkg primaryColor w-100 br2 ph3 mv2">
                         {% if workshop.path %}
                         <a href="{{ workshop.path }}" class="primaryColor no-underline hover-light-blue">
                         {% endif %}
