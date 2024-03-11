@@ -30,7 +30,9 @@
         {
             "key": "cfp",
             "path": "/cfp",
-            "name": "Call for Papers"
+            "name": "Call for Papers",
+            "hiddenFooter": true,
+            "hiddenNavbar": true
         },
         {
             "key": "tickets",
