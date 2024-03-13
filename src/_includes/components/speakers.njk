@@ -4,9 +4,9 @@
     <div class="w-100 w-50-l ph3 ph0-ns tc tl-ns pb4-l">
         <h2 class="f2 mv3">📣 Speakers</h2>
         <div class="f5 lh-copy pr3-m">{% markdown speakersPanel.text %}</div>
-        <div class="pb4 pt3-ns">
+        <div class="flex flex-row flex-wrap pb4 pt3-ns">
             {% for key,speaker in speakers %}
-                <a href="/speakers/{{ key }}" style="background-image: url({{ speaker.img }})" alt="{{ speaker.name }}" class="w4 h4 link dt hide-child br2 cover bg-center" >
+                <a href="/speakers/{{ key }}" style="background-image: url({{ speaker.img }})" alt="{{ speaker.name }}" class="w4 h4 ma1 link dt hide-child br2 cover bg-center" >
                     <span class="white dtc f5 pb2 br2 tc v-btm w-100 h-100 child bg-black-60">{{ speaker.name }}</span>
                 </a>
             {% endfor %}
