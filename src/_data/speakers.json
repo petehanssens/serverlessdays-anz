@@ -20,5 +20,132 @@
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
             }
         ]
+    },
+    "bojan": {
+        "name": "Bojan Zivic",
+        "title": "AWS Ambassador, Lead Consultant @ CMD Solutions",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-bojan.png",
+        "bio": "AWS Serverless Community Builder, AWS Ambassador and Organiser of the Brisbane Serverless Meetup",
+        "talk": {
+            "title": "Agnostic Serverless IaC",
+            "abstract" : "Going through the evolution of infrastructure through the years, with a focus on the future.\n\nHere we will go over battle scars had by vendor specific options such as CDK, BICEP, and the more modern ways in which to write Serverless apps with SST, Serverless Framework.\n\nThe talk then will finish off with addressing the future with a deep dive into WingLang and Ion(by SST) and how they will shape the Serverless future to come."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/bojan-zivic-65431033/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "mishmanners": {
+        "name": "Michelle \"MishManners\" Duke",
+        "title": "GitHub DevRel 🥑 | Hackathon Queen®™ | Founder | Esports Queen",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168204/slsdays2024/speaker-mishmanners.jpg",
+        "bio": "I'm a multi-talented personality in the tech and gaming communities. As a developer advocate 🥑, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've spoken at over 250 events on topics like AI, the future of work, communication, teamwork, and have given technical demos. I'm a respected leader in the hackathon community, having won, organised, and mentored over 100 hackathons.\n\nI have founded several tech companies—including an AI company, and an escooter business—and, as a result, sits at the forefront of Melbourne’s science, tech, esports and startup scenes. In my 'spare' time I'm a streamer, journalist, and always working on something exciting ⚡ So catch me at an event or streaming on Twitch!",
+        "talk": {
+            "title": "Level up with GitHub Copilot: using AI to learn, code, and build",
+            "abstract" : "It's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? Unsure of how best to center a div? GitHub Copilot can help. Get unstuck by seeing suggested lines or code, whole functions, and learn more about your development journey through having code explained, and even translate your code into other languages.\n\nFind out more about GitHub Copilot, new features, updates, and see a demo.\n\nThe session will cover:\n- What is AI\n- Applications of AI\n- How GitHub Copilot works\n- How to get better results from GitHub Copilot with prompt engineering (the art crafting effective prompts)\n- Power of conversational coding with GitHub Copilot Chat\n- What's coming next"
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/mishmanners/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/in/mishmanners/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "heitor": {
+        "name": "Heitor Lessa",
+        "title": "Principal Architect, Amazon Web Services",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-heitor.jpg",
+        "bio": "Heitor Lessa is a Principal Architect at the Powertools for AWS team. He created the AWS Well-Architected Serverless Lens (2017) and Powertools for AWS Lambda (2020) to help customers learn and implement best practices. He spent the last decade at AWS helping customers' engineering teams on digital transformation, engineering processes, migrations, and community building.",
+        "talk": {
+            "title": "Let Them Retry: Idempotency for the Rest of Us",
+            "abstract" : "We often hear that we should design our systems to handle duplicate transactions. Idempotency is what you will hear in these system design discussions. However, legacy systems may not have the luxury of allowing such change, begging the question...\n\nHow can you make an existing system idempotent when you can't change it?\n\nThrough live coding, we will add idempotency to an existing system via Powertools for AWS Lambda SDK. We dive into failure modes, caching, payload tampering, order tolerance, cost, and when not to use it."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/heitor_lessa",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/heitorlessa",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "brent": {
+        "name": "Brent Maxwell",
+        "title": "Founder at SalesMuse",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-brent.jpg",
+        "bio": "I am a passionate executive leader and founder with my primary expertise being in technology and SaaS product development. Within tech, my deepest experience is in Technology Architecture, Software Engineering and Data & Analytics. I’m currently building tools that leverage LLMs to solve real business problems in novel ways (i.e. not using chatbots!).",
+        "talk": {
+            "title": "Serverless Strategies for AI: Architectural Best Practices",
+            "abstract" : "Dive into the world of serverless architectures with Brent Maxwell as he unravels the complexities of integrating AI into flexible, open and scalable systems. This session will cover popular use cases and appropriate architectural decisions based on the most current technologies and frameworks available. We'll explore LLM fallbacks, LangChain and LlamaIndex, RAG and alternative patterns, and how these can be effectively utilized within a serverless framework. Gain insights into available options for LLM APIs like Amazon Bedrock, Together AI, Mistral, OpenAI and more to build awesome serverless solutions."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/brentjmaxwell",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/in/brentmaxwell/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "liz": {
+        "name": "Liz Fong-Jones",
+        "title": "Field CTO, honeycomb.io",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168210/slsdays2024/speaker-liz.jpg",
+        "bio": "Liz is a developer advocate, labor and ethics organizer, and Site Reliability Engineer (SRE) with nearly 20 years of experience. She is an advocate at Honeycomb for the SRE and Observability communities, and previously was an SRE working on products ranging from the Google Cloud Load Balancer to Google Flights.",
+        "talk": {
+            "title": "Using serverless functions for real-time observability",
+            "abstract" : "In this talk, you will learn how a sub-second latency query engine inspired by Facebook's Scuba was extended from running in RAM only, to querying the most recent data that could still fit on local SSD, to querying months of data at a time using cloud storage and serverless functions. We'll describe the pitfalls of managing lambdas at scale, including impatience, maximum concurrency, runtime and architecture configuration/experimentation, and the price/performance of renting tens of thousands of parallel workers across the x86 and arm ecosystems."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/lizthegrey",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/efong/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "emily": {
+        "name": "Emily Melhuish",
+        "title": "Lead Engineer at Multitudes",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-emily.jpg",
+        "bio": "Emily loves to be involved in a range of things from blowing up circuits to riding horses to rockets. She's an Electrical Engineer by trade but has found herself working in the realms of software and data science.\n\nWith a passion for both hardware and software, she hopes to combine the two to make technology smarter and more sustainable. Currently, she is leading engineering at Multitudes, a startup providing engineering metrics that aren't creepy to unlock happier and higher-performing teams.",
+        "talk": {
+            "title": "Building a real-time-ish data pipeline with AWS Lambda, SQS and DynamoDB",
+            "abstract" : "It can be easy to get trapped in expensive streaming products when looking at building a real-time data pipeline. As a startup, you don't have big pockets to foot a big bill, nor the time to learn a complicated new platform. Can we achieve a close to real-time pipeline using cheap serverless products? Emily thinks yes!\n\nShe'll dive into how she built a data pipeline to process GitHub pull requests with AWS Lambda and SQS that is fast enough for customers plus it is cheap! We will look into the technical details for how to set up a Lambda webhook, an SQS reader and a Lambda that then processes data from SQS and loads it into DynamoDB. This pipeline keeps up with events coming in every microsecond and data updates almost immediately PLUS does not cost an arm and a leg.\n\nWhen building a data pipeline, you must think about how/when/why the data is used so you can build a platform that is fit for purpose and your budget. Sometimes the simplest solution is best.\n\nTechnologies we will cover: AWS Lambda, AWS SQS, AWS Dynamodb, Terraform, Typescript"
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/kanocarra",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/emily-melhuish-a89b96a2/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
     }
 }
