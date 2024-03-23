@@ -28,10 +28,25 @@
                 "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-kaleida.png",
                 "alt": "Kaleida",
                 "link": "https://www.kaleida.team/"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-doit.png",
+                "alt": "Doit",
+                "link": "https://www.doit.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-cevo.png",
+                "alt": "Cevo",
+                "link": "https://www.cevo.com.au/"
             }
         ],
         "silver": [
-
+            
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-apiconnects.png",
+                "alt": "API Connects NZ",
+                "link": "https://apiconnects.co.nz/"
+            }
         ]
     }
 }

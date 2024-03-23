@@ -82,28 +82,6 @@
             }
         ]
     },
-    "brent": {
-        "name": "Brent Maxwell",
-        "title": "Founder at SalesMuse",
-        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-brent.jpg",
-        "bio": "I am a passionate executive leader and founder with my primary expertise being in technology and SaaS product development. Within tech, my deepest experience is in Technology Architecture, Software Engineering and Data & Analytics. I’m currently building tools that leverage LLMs to solve real business problems in novel ways (i.e. not using chatbots!).",
-        "talk": {
-            "title": "Serverless Strategies for AI: Architectural Best Practices",
-            "abstract" : "Dive into the world of serverless architectures with Brent Maxwell as he unravels the complexities of integrating AI into flexible, open and scalable systems. This session will cover popular use cases and appropriate architectural decisions based on the most current technologies and frameworks available. We'll explore LLM fallbacks, LangChain and LlamaIndex, RAG and alternative patterns, and how these can be effectively utilized within a serverless framework. Gain insights into available options for LLM APIs like Amazon Bedrock, Together AI, Mistral, OpenAI and more to build awesome serverless solutions."
-        },
-        "social": [
-            {
-                "name": "Twitter",
-                "link": "https://twitter.com/brentjmaxwell",
-                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
-            },
-            {
-                "name": "LinkedIn",
-                "link": "https://linkedin.com/in/brentmaxwell/",
-                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
-            }
-        ]
-    },
     "liz": {
         "name": "Liz Fong-Jones",
         "title": "Field CTO, honeycomb.io",
@@ -126,6 +104,67 @@
             }
         ]
     },
+    "brent": {
+        "name": "Brent Maxwell",
+        "title": "Founder at SalesMuse",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-brent.jpg",
+        "bio": "I am a passionate executive leader and founder with my primary expertise being in technology and SaaS product development. Within tech, my deepest experience is in Technology Architecture, Software Engineering and Data & Analytics. I’m currently building tools that leverage LLMs to solve real business problems in novel ways (i.e. not using chatbots!).",
+        "talk": {
+            "title": "Serverless Strategies for AI: Architectural Best Practices",
+            "abstract" : "Dive into the world of serverless architectures with Brent Maxwell as he unravels the complexities of integrating AI into flexible, open and scalable systems. This session will cover popular use cases and appropriate architectural decisions based on the most current technologies and frameworks available. We'll explore LLM fallbacks, LangChain and LlamaIndex, RAG and alternative patterns, and how these can be effectively utilized within a serverless framework. Gain insights into available options for LLM APIs like Amazon Bedrock, Together AI, Mistral, OpenAI and more to build awesome serverless solutions."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/brentjmaxwell",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/in/brentmaxwell/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "michael": {
+        "name": "Michael Walmsley",
+        "title": "AWS Solution Architect (Serverless Specialist) at Accenture",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-michael.jpg",
+        "bio": "Michael is a global technical architect at Accenture's Asset Engineering Hub in Melbourne, Australia. He has been disrupting Enterprise thinking since 2019, focusing on AWS Serverless and Event-Driven Architectures. He is passionate about Well-Architected Frameworks and is a frequent contributor to the AWS Lambda Powertools open source project, which he feels is essential for creating reliable AWS Lambda services.",
+        "talk": {
+            "title": "Unleashing Serverless Scalability on AWS: Practical Strategies and Proven Patterns",
+            "abstract" : "You've built your serverless application, deployed it with ease, and it's humming along smoothly. But as your user base grows and event volumes soar, you encounter scalability boundaries - performance bottlenecks, throttling, and chaos. Serverless may seem boundless, but those invisible barriers bite hard when you are least prepared!\n\nIn this talk, I'll share practical strategies and proven architectural patterns to help you conquer scalability challenges. Drawing from my experience building high-scale, event-driven systems, I'll explore real-world use cases and the lessons I've learned along the way.\n\nBy the end of this session, you'll have a comprehensive understanding of serverless scalability boundaries and a robust toolkit of strategies to future-proof your event-driven architectures. Whether you're building greenfield applications or optimizing existing systems, this talk will equip you with the knowledge and confidence to unleash the true potential of serverless scalability."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/walmsles",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/in/walmsles",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "brad": {
+        "name": "Brad Jacques",
+        "title": "Principal Engiener @ Mantel Group",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-brad.jpg",
+        "bio": "Brad is a Principal Engineer at Mantel group with over 20 years of experience in designing, implementing, and delivering solutions for global clients in the investment banking industry. He is an advocate for clean code, clean architecture, and simplicity. Brad has excelled at breaking away from legacy software development practices by building small, focused, and high-performing teams.",
+        "talk": {
+            "title": "Delivering at pace while evolving a Serverless architecture",
+            "abstract" : "A real client case study in how to deliver a project with fixed cost, scope, and deadline.\nDemonstrating:\n- event driven architecture using AWS Lambda\n- how to iterate and evolve a serverless architecture\n- performance tuning and scaling a serverless solution\n- observeability of a serverless solution\n- dealing with ambiguity\n- deliver with a small highly focused team across UX, Data, API\n- build and maintaining working software from the start of the project (walking skeleton)\n- continuous feedback, using empirical data from running your software to guide where to spike next and evolve\n- examples of being pragmatic, doing the simplest thing, to reduce delivery risk\n- shift left and address security and production operation concerns early in the build\n- integration with Snowflake"
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/bradjacques/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
     "emily": {
         "name": "Emily Melhuish",
         "title": "Lead Engineer at Multitudes",
@@ -144,6 +183,67 @@
             {
                 "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/emily-melhuish-a89b96a2/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "atilio": {
+        "name": "Atilio Ranzuglia",
+        "title": "Head of Data and AI, Palmerston North City Council",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-atilio.jpg",
+        "bio": "Atilio, a data subject matter expert, software engineer, and architect, is an innovative leader passionate about serverless solutions. With a focus on cloud computing, data architecture, and team leadership, Atilio's hands-on approach spans IoT, resilient cloud architecture, AI, and data engineering.\n\nAs a mentor and communicator, Atilio advocates for ambition-driven strategies and continuous improvements. His expertise in data technologies, integrations, and microservices aligns seamlessly with his role as a lecturer and frequent speaker at conferences and meetups. Attendees can expect a visionary perspective and real-world insights on serverless architectures, data engineering, and the intersection of technology and business.",
+        "talk": {
+            "title": "Serverless without limits: exploration of serverless data products",
+            "abstract" : "At PNCC we are leading the charge on serverless revolution, where traditional data management meets cutting-edge innovation. From on-prem to completely serverless, creating data products with effective data sourcing, to seamless integrations, a serverless data lake and adopting a data mesh approach. Learn how PNCC is reshaping its data ecosystem, navigating the complexities of serverless architectures with its challenges and triumphs."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/atilio-ranzuglia/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "will": {
+        "name": "Will Velida",
+        "title": "Lead Software Engineer at Azenix",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-will.png",
+        "bio": "Will is a Lead Software Engineer at Azenix, where he helps customers build reliable and resilient applications using Microsoft Azure, and loves using serverless and container technologies.\n\nWill has extensive experience in software development, building solutions in the financial, health and agricultural industries. Will has also been a Microsoft MVP and part of the Fast Track for Azure team during his time at Microsoft.\n\nWill regularly speaks at conferences, user groups and developer events around the world. When he is away from his keyboard, you'll find him hiking around the countryside",
+        "talk": {
+            "title": "Building Serverless Applications with Azure Container Apps",
+            "abstract" : "Azure Container Apps is a serverless platform that enables developers to run their containerized workloads. Container Apps are ideal for developers who want to run their applications as if they were running them on Kubernetes, but don't want to manage the operations of the cluster. This simplifies the process of developing and deploying our containers to Azure.\n\nIn this session, we'll cover the key components of Azure Container Apps and compare Container Apps to existing container platforms on Azure. We'll then go over how to deploy an Azure Container Apps environment and how we can deploy and update our containers to Container Apps, monitor the health of our containers, handle logging and how we can secure our Container Apps.\n\nBy the end of this session, you'll learn how you can develop your container workloads on Azure Container Apps without having to deal the complexities of Kubernetes."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/willvelida",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/willvelida/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ]
+    },
+    "benjamin": {
+        "name": "Benjamin Boyter",
+        "title": "Principle at Kablamo",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-benjamin.jpg",
+        "bio": "A technical lead for Kablamo but at heart a codemonkey. I write about various topics on my blog https://boyter.org/ which occasionally makes the front of the orange site, as well as run searchcode.com as a side gig for fun. I like writing code, walks on beach and getting caught in the rain. I hate eating raw tomato unless you prepare it somehow, and slices on a hamburger does not count as preparation.",
+        "talk": {
+            "title": "Abusing Go, AWS Lambda and bloom filters to make a true Australian serverless search engine",
+            "abstract" : "Everyone knows search engines require state, making AWS Lambda not ideal for building one… But, there is a saying in computing. Never do at runtime what you can do at compile time. Lets abuse (and I really mean heavily abuse) this by building a true serverless search engine in AWS Lambda!"
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
             }
         ]
