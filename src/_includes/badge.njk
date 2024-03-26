@@ -11,9 +11,10 @@ layout: base.njk
     </div>
     <div class="markdown-body mw6-m mw7-l avenir center">
         <form class="flex flex-column" id="uploadForm">
-            <input type="text" id="name" name="name" class="ma2 pa2" placeholder="Name">
-            <input type="text" id="title" name="title" class="ma2 pa2" placeholder="Title">
-            <input type="file" id="headshot" name="headshot" class="ma2 pa2">
+            <input type="text" id="name" name="name" class="ma2 pa2" placeholder="Name" maxlength="36" required>
+            <input type="text" id="title" name="title" class="ma2 pa2" placeholder="Title" maxlength="68" required>
+            <input type="file" id="headshot" name="headshot" class="dn">
+            <label for="headshot" class="ma2 pa2 secondaryContrastColor secondaryConstrastBkg br2 center">📷 Choose Headshot</label>
             <button type="submit" class="ma2 pa4 primaryBkg primaryColor br4 f4 b">Generate</button>
             <p id="badgeStatus">&nbsp;</p>
         </form>
@@ -28,13 +29,35 @@ layout: base.njk
         form.addEventListener('submit', function (e) {
             e.preventDefault();
 
+            const textName = document.getElementById('name');
+            const textTitle = document.getElementById('title');
+            const fileHeadshot = document.getElementById('headshot');
+
+            let validationMessages = [];
+
+            if (!textName.value.trim()) {
+              validationMessages.push("Missing Name");
+            }
+            if (!textTitle.value.trim()) {
+              validationMessages.push("Missing Title");
+            }
+            if (!fileHeadshot.files.length) {
+              validationMessages.push("Missing Headshot");
+            }
+
+            if (validationMessages.length > 0) {
+              messageElement.textContent = validationMessages.join(', ');
+              messageElement.style.color = 'red';
+              return;
+            }
+
             messageElement.textContent = "Generating...";
             messageElement.style.color = "blue";
 
             const formData = new FormData();
-            formData.append('name', document.getElementById('name').value);
-            formData.append('title', document.getElementById('title').value);
-            formData.append('headshot', document.getElementById('headshot').files[0]);
+            formData.append('name', textName.value);
+            formData.append('title', textTitle.value);
+            formData.append('headshot', fileHeadshot.files[0]);
 
             fetch('https://aqwck9wtp5.execute-api.us-east-1.amazonaws.com/badge', {
                 method: 'POST',
@@ -49,16 +72,22 @@ layout: base.njk
             .then(data => {
                 const imageUrl = data.uri;
 
+                const aElement = document.createElement('a');
+                aElement.href = imageUrl;
+                aElement.download = true;
+
                 const imgElement = document.createElement('img');
                 imgElement.src = imageUrl;
+
                 imageContainer.innerHTML = ''; // Clear previous images
-                imageContainer.appendChild(imgElement);
+                imageContainer.appendChild(aElement);
+                aElement.appendChild(imgElement);
 
                 messageElement.textContent = '';
             })
             .catch(error => {
                 console.error('Error:', error);
-                messageElement.textContent = '⛔️ Error uploading the file.';
+                messageElement.textContent = '⛔️ Error uploading the file (JPG/PNG)';
                 messageElement.style.color = 'red';
             });
         });
