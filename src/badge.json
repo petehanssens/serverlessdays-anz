@@ -1,0 +1,10 @@
+
+{
+    "layout": "badge.njk",
+    "page": {
+        "title": "ServerlessDays ANZ - Virtual Badge",
+        "description": "One Day. One Track. One Community.",
+        "url": "https://anz.serverlessdays.io/sponsors",
+        "image": "img/2023-paneltalk.jpg"
+    }
+}
