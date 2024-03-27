@@ -126,6 +126,29 @@
             }
         ]
     },
+    "brooke": {
+        "name": "Brooke Jamieson",
+        "title": "Senior Developer Advocate at AWS",
+        "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-brooke.jpg",
+        "bio": "Brooke is an Australian Mathematician and ML Specialist living in NYC, and is a Senior Developer Advocate at AWS. Brooke has degrees in Mathematics and Data Engineering, and combines this with professional experience to nurture & deploy intelligent solutions to the cloud. Overall, they specialize in researching & developing technically robust solutions that help “non-data people” harness the power of AI/ML and the Cloud for their industry, and communicate this effectively.",
+        "talk": {
+          "title": "Unleashing Amazon Q: Supercharging Serverless Development with AI-Powered Assistance",
+          "abstract": "As cloud-native architectures continue to evolve, serverless remains a powerful approach for building modern applications However, developers need ways to accelerate serverless application building while maintaining quality and best practices. Amazon Q is a generative AI assistant purposely trained on AWS knowledge to boost developer productivity.\n\nIn this session, we'll explore how to leverage Amazon Q's deep AWS expertise directly within your familiar workflows to streamline serverless development. You'll discover how Amazon Q's natural language AI capabilities help optimize developer efficiency from writing code to architecting solutions.\n\nThrough live demos, you'll see how Amazon Q assists within IDEs to debug issues, generate tests, optimize queries, and even upgrade apps to newer languages. We'll also showcase how Q provides tailored AWS service and pattern recommendations for architecting secure, scalable serverless solutions aligning with best practices.\n\nLearn how Amazon Q empowers you to get started faster on new serverless projects, quickly ramp up on unfamiliar services/codebases, and troubleshoot complex problems - increasing overall developer agility. Make this innovative AI assistant an indispensable part of your serverless development lifecycles on AWS."
+        },
+        "social": [
+          
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/brooke_jamieson",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://linkedin.com/in/brookejamieson/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+      ]
+    },
     "michael": {
         "name": "Michael Walmsley",
         "title": "AWS Solution Architect (Serverless Specialist) at Accenture",
