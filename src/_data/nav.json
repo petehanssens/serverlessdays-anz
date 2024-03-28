@@ -7,6 +7,11 @@
             "hiddenNavbar": true
         },
         {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
             "key": "sydney2024",
             "path": "/sydney",
             "name": "Sydney 2024"
@@ -19,7 +24,9 @@
         {
             "key": "sponsors",
             "path": "/sponsors",
-            "name": "Sponsors"
+            "name": "Sponsors",
+            "hiddenFooter": true,
+            "hiddenNavbar": true
         },
         {
             "key": "coc",
