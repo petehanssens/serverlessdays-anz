@@ -175,6 +175,17 @@
                         "address": "Cliftons Sydney Margaret Street, 13/60 Margaret St, Sydney NSW 2000",
                         "googleMapsLink": "https://maps.app.goo.gl/fmiMHR7VJiNFkPkm6"
                     }
+                },
+                {
+                    "title": "AWS Serverless Developer Experience Workshop",
+                    "speaker": "Stephen Liedig",
+                    "path": "https://pages.awscloud.com/aws-serverless-developer-experience-workshop.html",
+                    "dateTime": "Monday 20th May 2024, 9AM",
+                    "location": {
+                        "name": "Amazon Web Services Sydney Office",
+                        "address": "Amazon Web Services, 37/2 Park Street, Sydney NSW 2000",
+                        "googleMapsLink": "https://maps.app.goo.gl/fTAs3T4WyPGfx8Jx9"
+                    }
                 }
             ]
         },
@@ -321,6 +332,17 @@
                         "name": "Cliftons Auckland",
                         "address": "Cliftons Auckland, 4/45 Queen Street, Auckland 1010",
                         "googleMapsLink": "https://maps.app.goo.gl/5KzSRQ4AuKB1VZpd9"
+                    }
+                },
+                {
+                    "title": "AWS Serverless Developer Experience Workshop",
+                    "speaker": "Stephen Liedig",
+                    "path": "https://pages.awscloud.com/aws-serverless-developer-experience-workshop.html",
+                    "dateTime": "Thursday 23rd May 2024, 9AM",
+                    "location": {
+                        "name": "Amazon Web Services Auckland Office",
+                        "address": "Amazon Web Services, 12/15 Customs Street West, Auckland 1010",
+                        "googleMapsLink": "https://maps.app.goo.gl/EArvXt4rLtVt8YPj6"
                     }
                 }
             ]
