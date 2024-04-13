@@ -11,6 +11,11 @@
                 "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_100,w_200/v1706679689/slsdays2024/logo-mantelgp.png",
                 "alt": "Mantel Group",
                 "link": "https://mantelgroup.com.au/"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/b_white,c_pad,h_100,w_200/v1706679689/slsdays2024/logo-googlecloud.png",
+                "alt": "Google Cloud",
+                "link": "https://cloud.google.com/"
             }
         ],
         "gold": [
@@ -38,10 +43,19 @@
                 "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-cevo.png",
                 "alt": "Cevo",
                 "link": "https://www.cevo.com.au/"
+            },
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-baseline.png",
+                "alt": "Baseline",
+                "link": "https://baselinejs.com/"
             }
         ],
         "silver": [
-            
+            {
+                "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_80,w_130/v1706679689/slsdays2024/logo-wiresuncrossed.png",
+                "alt": "Wires Uncrossed",
+                "link": "https://wue.co.nz/"
+            },
             {
                 "img": "https://res.cloudinary.com/doxu4euiq/image/upload/c_pad,h_65,w_130/v1706679689/slsdays2024/logo-apiconnects.png",
                 "alt": "API Connects NZ",
