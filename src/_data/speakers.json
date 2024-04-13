@@ -82,6 +82,28 @@
       }
     ]
   },
+  "tyler": {
+    "name": "Tyler McMullen",
+    "title": "Co-Founder and CTO at Fastly",
+    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168210/slsdays2024/speaker-tyler.jpg",
+    "bio": "Tyler McMullen is a Fastly co-founder and its Chief Technology Officer, where he leads a team of experienced technology innovators focused on internet scale, and working on future-facing ambitious projects and standards. As part of the founding team at Fastly, Tyler built the first versions of Fastly’s Instant Purging system, API, and Real-time Analytics. Prior to joining Fastly, Tyler worked on large-scale web applications, text analysis, and performance.",
+    "talk": {
+      "title": "Coming soon...",
+      "abstract" : "Coming soon..."
+    },
+    "social": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/tbmcmullen",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/tylermcmullen/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
+  },
   "liz": {
     "name": "Liz Fong-Jones",
     "title": "Field CTO, honeycomb.io",
@@ -167,6 +189,23 @@
       {
         "name": "LinkedIn",
         "link": "https://linkedin.com/in/walmsles",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
+  },
+  "thomas": {
+    "name": "Thomas Nixon",
+    "title": "Technical Co-Founder of Baseline",
+    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-thomas.jpg",
+    "bio": "Creator of Baseline.\n\nDeveloper advocate for simplicity.\n\nPassionate about empowering startups to excel.",
+    "talk": {
+      "title": "Serverless First & Last",
+      "abstract" : "Baseline is on a mission to redefine how apps are built. In today's fast-paced business world, startup development needs to be efficient, scalable, and cost-effective. Baseline is the fullstack serverless framework that delivers all this and more with up to 6 months worth of development out of the box. Powered by the reliability and power of AWS, Baseline is the perfect solution for startups that want to stay ahead of the curve."
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://linkedin.com/in/thomas-nixon-baseline",
         "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
       }
     ]
@@ -271,6 +310,23 @@
       }
     ]
   },
+  "clara": {
+    "name": "Clara Villa",
+    "title": "Software Engineer",
+    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-clara.jpg",
+    "bio": "After working with software engineers as Product Manager for few years I've decided to become one. After a bootcamp, a couple of years ago I joined a backend team where I started my serverless journey using AWS.",
+    "talk": {
+      "title": "Lambda or Step Function? A quick comparison of both implementation",
+      "abstract" : "Have you been wondering if you should be using a Lambda or if it's worth using a Step Function? Or do you want to learn about Step Functions? Come along to this talk to see how we can implement the same scenario with one Lambda or a small Step Function so you can make an informed choice."
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/clara-villa-990b9962/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
+  },
   "derek": {
     "name": "Derek Bingham",
     "title": "Senior Developer Advocate at AWS",
@@ -333,6 +389,23 @@
       {
         "name": "LinkedIn",
         "link": "https://www.linkedin.com/in/tim-thacker-831130135/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
+  },
+  "birger": {
+    "name": "Birger Halfmeier",
+    "title": "Senior Cloud Architect, DoiT International",
+    "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-birger.png",
+    "bio": "While Birger may not dispute the rumours that his bios are penned by large language models prompted to maximise likability, there's no denying his ability to excite audiences with his infectious enthusiasm and disarming wit.\n\nBirger is your go-to partner for dissecting the hottest cloud trends over a post-work beverage, all while challenging the status quo with a twinkle in his eye that hints at his slightly mischievous personality.\n\nHis 20-year odyssey as a software developer and data engineer has launched him to the forefront of cloud computing. Here, his twin passions for innovation and cost-effectiveness collide, igniting a fire that fuels his mission to empower businesses to achieve serverless nirvana.\n\nBirger's extensive experience guiding cloud-native businesses across the globe has equipped him with a unique perspective, one that's equal parts insightful and quirky.\n\nHis unwavering love for technology is only eclipsed by his infectious passion for knowledge sharing, a quality that ensures his audience is not only informed, but captivated by every word.",
+    "talk": {
+      "title": "Shift-Left Frugality: A smarter approach to Cloud Spending",
+      "abstract" : "This talk aims to inspire a paradigm shift, equipping engineers with the tools and mindset to unlock the full potential of frugality as a driver of innovation and sustainable growth.\n\n\"Shift-Left Frugality\" embeds cost-conscious principles into the core of the development process. By emphasising judicious spending from the outset, engineers become catalysts for innovation, scalability, and ultimately, business success.\n\nThe talk advocates for treating cloud costs not just as a constraint, but as a crucial observability metric. Doing so grants engineers real-time insights into their spending and empowers them to make data-driven decisions that are technologically sound, economically viable and aligned with strategic business objectives."
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/birgerhalfmeier/",
         "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
       }
     ]
