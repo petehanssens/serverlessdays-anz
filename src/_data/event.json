@@ -221,14 +221,16 @@
                 ],
                 "09:50": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Let Them Retry: Idempotency for the Rest of Us",
+                        "speaker": "Heitor Lessa",
+                        "path": "/speakers/heitor"
                     }
                 ],
                 "10:20": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Level up with GitHub Copilot: using AI to learn, code, and build",
+                        "speaker": "Michelle (MishManners) Duke",
+                        "path": "/speakers/mishmanners"
                     }
                 ],
                 "10:50": [
@@ -238,74 +240,96 @@
                 ],
                 "11:20": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Whether Serverless or Not, It's all about how you drive your project!",
+                        "speaker": "Nelly Sattari",
+                        "path": "/speakers/nelly"
                     }
                 ],
-                "11:50": [
+                "11:45": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Delivering at pace while evolving a Serverless architecture",
+                        "speaker": "Brad Jacques",
+                        "path": "/speakers/brad"
                     }
                 ],
-                "12:05": [
+                "12:10": [
                     {
-                        "title": "Panel Discussion",
-                        "speaker": "TBC"
+                        "title": "Using serverless functions for real-time observability",
+                        "speaker": "Liz Fong-Jones",
+                        "path": "/speakers/liz"
                     }
                 ],
-                "12:45": [
+                "12:35": [
                     {
                         "title": "Lunch"
                     }
                 ],
-                "13:45": [
+                "13:25": [
                     {
                         "title": "Talk",
                         "speaker": "TBC"
+                    }
+                ],
+                "13:50": [
+                    {
+                        "title": "Tyler McMullen",
+                        "speaker": "Making Your Serverless Fast and Resilient with Wasm",
+                        "path": "/speakers/tyler"
                     }
                 ],
                 "14:15": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Let's think block by block - Real world serverless AI, in a virtual world",
+                        "speaker": "Derek Bingham & Mike Chambers",
+                        "path": "/speakers/derek"
                     }
                 ],
-                "14:45": [
+                "14:40": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Panel Discussion",
+                        "speaker": "Somy Ayazi",
+                        "path": "/speakers/somy"
                     }
                 ],
-                "15:15": [
+                "15:10": [
                     {
                         "title": "Afternoon Tea"
                     }
                 ],
-                "15:45": [
+                "15:40": [
                     {
-                        "title": "Panel Discussion",
-                        "speaker": "TBC"
+                        "title": "Michael Walmsley",
+                        "speaker": "Unleashing Serverless Scalability on AWS: Practical Strategies and Proven Patterns",
+                        "path": "/speakers/michael"
                     }
                 ],
-                "16:25": [
+                "16:05": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Atilio Ranzuglia",
+                        "speaker": "Serverless without limits: exploration of serverless data products",
+                        "path": "/speakers/atilio"
+                    }
+                ],
+                "16:30": [
+                    {
+                        "title": "Emily Melhuish",
+                        "speaker": "Building a real-time-ish data pipeline with AWS Lambda, SQS and DynamoDB",
+                        "path": "/speakers/emily"
                     }
                 ],
                 "16:55": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Will Velida",
+                        "speaker": "Building Serverless Applications with Azure Container Apps",
+                        "path": "/speakers/will"
                     }
                 ],
-                "17:25": [
+                "17:20": [
                     {
                         "title": "Conclusion"
                     }
                 ],
-                "17:45": [
+                "17:30": [
                     {
                         "title": "After Party (Venue TBA)"
                     }
