@@ -409,5 +409,56 @@
         "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
       }
     ]
+  },
+  "matthew": {
+    "name": "Matthew Gillard",
+    "title": "Principal Consultant, Cevo",
+    "img": "https://res.cloudinary.com/du73ags2q/image/upload/v1713331959/matthew-gillard_ulxcqp.png",
+    "bio": "In recent years through many Cloud migration projects, matt has been an advocate of the Cloud operating model and DevOps practices as a means of providing accelerated business outcomes. His passion however, is helping developers understand new ways of working with Serverless and other platform abstractions that increase their delivery velocity.",
+    "talk": {
+      "title": "Move fast and deploy things with SST!",
+      "abstract" : "One of the hardest things about getting started with Serverless is deciding how to deploy your infrastructure and code. AWS SAM, Serverless framework, CDK, terraform or even plain CloudFormation - which to choose!\n\nThis session makes the case that you should use the Serverless Stack - or more commonly known as SST for your Serverless development. After a short intro on how SST makes your Serverless deployments easier by taking care of all the Infrastructure components, we will cover some advanced topics like authentication, how to use non AWS resources like Databases and how to live debug your lambda functions!\n\nAfter attending this talk you should have a good understanding of the value proposition of SST including some more advanced features that make it easier for you to start building Serverlessly in no time!"
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/mattgillard/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
+  },
+  "somy": {
+    "name": "Somy Ayazi",
+    "title": "Engineering Manager, Atlassian",
+    "img": "https://res.cloudinary.com/du73ags2q/image/upload/v1713331957/somy_zchg8f.jpg",
+    "bio": "Engineering Manager at Atlassian | Microsoft AI MVP",
+    "talk": {
+      "title": "Panel Discussion",
+      "abstract" : "Hear from some of the brightest minds in the field"
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/somy-ayazi/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
+  },
+  "sbarski": {
+    "name": "Peter Sbarski",
+    "title": "Co-founder hearthands.ai",
+    "img": "https://res.cloudinary.com/du73ags2q/image/upload/v1713331957/peter-sbarski_d5wyh3.jpg",
+    "bio": "TBD",
+    "talk": {
+      "title": "A talking Koala walks into a bar",
+      "abstract" : "Matchbooks is an app where childrens imaginations become the canvas for incredible storytelling adventures. The app allows children to converse with two AI narrators (a Koala and a Hedgehog) and then create stories complete with beautiful artwork and voiceovers.\n\nWe spent the better part of 2023 & 2024 building Matchbooks and learnt a lot of lessons about how AI and serverless fits together. Our system is built on a scalable Serverless backend running in AWS, powered by a suite of services including Lambda, DynamoDB, and Step Functions. Additionally, we employ a number of generative and non-generative AI systems (for conversations, stories, narrations, images) to bring a touch of magic to Matchbooks.\n\nIn this session we will explore the idea behind Matchbooks, and our principles and strategies for building an AI-based product thats secure for children. We will discuss our serverless architecture, how we leverage and load balance between different AI systems, and touch on the challenges, problems, and adventures we went through before delivering our product."
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/petersbarski/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
   }
 }
