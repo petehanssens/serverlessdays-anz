@@ -33,20 +33,22 @@
                 "09:10": [
                     {
                         "title": "Keynote: Think, Architect, and Build Serverless Applications as Set Pieces",
-                        "speaker": "Sheen Brisals",
+                        "speaker": "Sheen Brissals",
                         "path": "/speakers/sheen"
                     }
                 ],
                 "09:50": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Let Them Retry: Idempotency for the Rest of Us",
+                        "speaker": "Heitor Lessa",
+                        "path": "/speakers/heitor"
                     }
                 ],
                 "10:20": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Level up with GitHub Copilot: using AI to learn, code, and build",
+                        "speaker": "Michelle (MishManners) Duke",
+                        "path": "/speakers/mishmanners"
                     }
                 ],
                 "10:50": [
@@ -56,98 +58,113 @@
                 ],
                 "11:20": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Unleashing Amazon Q: Supercharging Serverless Development with AI-Powered Assistance",
+                        "speaker": "Brooke Jamieson",
+                        "path": "/speakers/brooke"
                     },
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Serverless Strategies for AI: Architectural Best Practices",
+                        "speaker": "Brent Maxwell",
+                        "path": "/speakers/brent"
                     }
                 ],
                 "11:50": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Agnostic Serverless IAC",
+                        "speaker": "Bojan Zivic",
+                        "path": "/speakers/bojan"
                     },
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Shift-Left Frugality: A smarter approach to Cloud Spending",
+                        "speaker": "Birger Halfmeier",
+                        "path": "/speakers/birger"
                     }
                 ],
-                "12:05": [
+                "12:10": [
                     {
-                        "title": "Panel Discussion",
-                        "speaker": "TBC"
+                        "title": "Using serverless functions for real-time observability",
+                        "speaker": "Liz Fong-Jones",
+                        "path": "/speakers/liz"
                     },
                     {
-                        "title": "Panel Discussion",
-                        "speaker": "TBC"
+                        "title": "Building AI Agents for Application Security on Serverless",
+                        "speaker": "Tim Thacker",
+                        "path": "/speakers/tim"
                     }
                 ],
-                "12:45": [
+                "12:50": [
                     {
                         "title": "Lunch"
                     }
                 ],
-                "13:45": [
+                "13:50": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Making Your Serverless Fast and Resilient with Wasm",
+                        "speaker": "Tyler McMullen",
+                        "path": "/speakers/tyler"
                     },
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Abusing Go, AWS Lambda and bloom filters to make a true Australian serverless search engine",
+                        "speaker": "Benjamin Boyter",
+                        "path": "/speakers/benjamin"
                     }
                 ],
-                "14:15": [
+                "14:20": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Let's think block by block - Real world serverless AI, in a virtual world",
+                        "speaker": "Derek Bingham",
+                        "path": "/speakers/derek"
                     },
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Lamba or Step Function? A quick comparison of both implementation",
+                        "speaker": "Clara Villa",
+                        "path": "/speakers/clara"
                     }
                 ],
-                "14:45": [
+                "14:50": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Panel discussion",
+                        "speaker": "Somy Ayazi",
+                        "path": "/speakers/somy"
                     },
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Whether Serverless or Not, It's all about how you drive your project!",
+                        "speaker": "Nelly Sattari",
+                        "path": "/speakers/nelly"
                     }
                 ],
-                "15:15": [
+                "15:20": [
                     {
                         "title": "Afternoon Tea"
                     }
                 ],
-                "15:45": [
+                "15:50": [
                     {
-                        "title": "Panel Discussion",
-                        "speaker": "TBC"
+                        "title": "Move fast and deploy things with SST!",
+                        "speaker": "Matthew Gillard",
+                        "path": "/speakers/matthew"
                     }
                 ],
-                "16:25": [
+                "16:20": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "Serverless First & Fast",
+                        "speaker": "Thomas Nixon",
+                        "path": "/speakers/thomas"
                     }
                 ],
-                "16:55": [
+                "16:50": [
                     {
-                        "title": "Talk",
-                        "speaker": "TBC"
+                        "title": "A talking Koala walks into a bar",
+                        "speaker": "Peter Sbarski",
+                        "path": "/speakers/peter"
                     }
                 ],
-                "17:25": [
+                "17:20": [
                     {
                         "title": "Conclusion"
                     }
                 ],
-                "17:45": [
+                "17:30": [
                     {
                         "title": "After Party (Venue TBA)"
                     }
