@@ -9,9 +9,9 @@
     "tickets": [
         {
             "title": "Sydney - Tuesday 21st May",
-            "description": "Keynote announcement tickets are now available!",
-            "price": "AUD $200",
-            "strikedPrice": "AUD $250",
+            "description": "General Admission tickets are now available!",
+            "price": "AUD $250",
+            "strikedPrice": "AUD $499",
             "cta": {            
                 "path": "https://www.tickettailor.com/events/slsdaysanz/1131610",
                 "name": "Buy"
@@ -19,9 +19,9 @@
         },
         {
             "title": "Auckland - Friday 24th May",
-            "description": "Keynote announcement tickets are now available!",
-            "price": "NZD $170",
-            "strikedPrice": "NZD $200",
+            "description": "General Admission tickets are now available!",
+            "price": "NZD $200",
+            "strikedPrice": "NZD $399",
             "cta": {            
                 "path": "https://www.tickettailor.com/events/slsdaysanz/1131611",
                 "name": "Buy"
