@@ -460,5 +460,22 @@
         "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
       }
     ]
+  },
+  "graeme": {
+    "name": "Graeme Merrall",
+    "title": "Cloud Technologist - Google Cloud New Zealand",
+    "img": "https://res.cloudinary.com/du73ags2q/image/upload/v1713331957/peter-sbarski_d5wyh3.jpg",
+    "bio": "TBD",
+    "talk": {
+      "title": "Serverless Runtimes on Google Cloud",
+      "abstract" : "Cloud computing is the future of business, and many organisations are already using it to some extent. Serverless runtimes on Google Cloud can help organisations overcome the challenges of deploying and delivering services."
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/gmerrall/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
   }
 }
