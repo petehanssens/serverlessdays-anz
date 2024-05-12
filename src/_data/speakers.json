@@ -23,9 +23,9 @@
   },
   "bojan": {
     "name": "Bojan Zivic",
-    "title": "AWS Ambassador, Lead Consultant @ CMD Solutions",
+    "title": "Principal Consultant @ Mantel Group",
     "img": "https://res.cloudinary.com/doxu4euiq/image/upload/v1710168205/slsdays2024/speaker-bojan.png",
-    "bio": "AWS Serverless Community Builder, AWS Ambassador and Organiser of the Brisbane Serverless Meetup",
+    "bio": "Serverless AWS Community Builder | AWS Ambassador | Principal Consultant",
     "talk": {
       "title": "Agnostic Serverless IaC",
       "abstract" : "Going through the evolution of infrastructure through the years, with a focus on the future.\n\nHere we will go over battle scars had by vendor specific options such as CDK, BICEP, and the more modern ways in which to write Serverless apps with SST, Serverless Framework.\n\nThe talk then will finish off with addressing the future with a deep dive into WingLang and Ion(by SST) and how they will shape the Serverless future to come."
@@ -464,7 +464,7 @@
   "graeme": {
     "name": "Graeme Merrall",
     "title": "Cloud Technologist - Google Cloud New Zealand",
-    "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_80/v1714451249/graeme-merrall_slh0te.jpg",
+    "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_280/v1714451249/graeme-merrall_slh0te.jpg",
     "bio": "TBD",
     "talk": {
       "title": "Serverless Runtimes on Google Cloud",
