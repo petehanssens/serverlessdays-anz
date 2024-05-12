@@ -1,7 +1,7 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays ANZ - Home",
+        "title": "Cloud Tech Conference - AWS, Azure, GCP ⭐️ Sydney + Auckland - ServerlessDays ANZ",
         "description": "One Day. One Track. One Community.",
         "url": "https://anz.serverlessdays.io",
         "image": "img/2023-paneltalk.jpg"
