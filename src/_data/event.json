@@ -80,7 +80,7 @@
                         "path": "/speakers/birger"
                     }
                 ],
-                "12:10": [
+                "12:20": [
                     {
                         "title": "Using serverless functions for real-time observability",
                         "speaker": "Liz Fong-Jones",
@@ -316,29 +316,29 @@
                 ],
                 "15:40": [
                     {
-                        "title": "Michael Walmsley",
-                        "speaker": "Unleashing Serverless Scalability on AWS: Practical Strategies and Proven Patterns",
+                        "title": "Unleashing Serverless Scalability on AWS: Practical Strategies and Proven Patterns",
+                        "speaker": "Michael Walmsley",
                         "path": "/speakers/michael"
                     }
                 ],
                 "16:05": [
                     {
-                        "title": "Atilio Ranzuglia",
-                        "speaker": "Serverless without limits: exploration of serverless data products",
+                        "title": "Serverless without limits: exploration of serverless data products",
+                        "speaker": "Atilio Ranzuglia",
                         "path": "/speakers/atilio"
                     }
                 ],
                 "16:30": [
                     {
-                        "title": "Emily Melhuish",
-                        "speaker": "Building a real-time-ish data pipeline with AWS Lambda, SQS and DynamoDB",
+                        "title": "Building a real-time-ish data pipeline with AWS Lambda, SQS and DynamoDB",
+                        "speaker": "Emily Melhuish",
                         "path": "/speakers/emily"
                     }
                 ],
                 "16:55": [
                     {
-                        "title": "Will Velida",
-                        "speaker": "Building Serverless Applications with Azure Container Apps",
+                        "title": "Building Serverless Applications with Azure Container Apps",
+                        "speaker": "Will Velida",
                         "path": "/speakers/will"
                     }
                 ],
