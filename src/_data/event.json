@@ -166,7 +166,7 @@
                 ],
                 "17:30": [
                     {
-                        "title": "After Party (Venue TBA)"
+                        "title": "After Party!"
                     }
                 ]
             },
@@ -204,7 +204,12 @@
                         "googleMapsLink": "https://maps.app.goo.gl/fTAs3T4WyPGfx8Jx9"
                     }
                 }
-            ]
+            ],
+            "afterParty": {
+                "description": "Be sure to register for our amazing after-party, courtesy of our sponsor [TinaCMS](https://tina.io/)!",
+                "url": "https://www.eventbrite.com.au/e/serverlessdays-sydney-afterparty-sponsored-by-tinacms-tickets-909472014277",
+                "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F771668439%2F55525066651%2F1%2Foriginal.20240520-060548?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=6%2C3%2C2154%2C1077&s=51784f78dfb63911aea43a5d3fd74599"
+            }
         },
         "auckland": {
             "title": "🇳🇿 Auckland (May 24th)",
