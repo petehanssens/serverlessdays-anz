@@ -73,18 +73,18 @@
     },
     "nelly": {
         "name": "Nelly Sattari",
-        "title": "Senior Engineering Manager, Atlassian",
+        "title": "Engineering manager @Atlassian / Microsoft Azure MVP",
         "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/nelly-sattari_dzoarn.jpg",
-        "bio": "Nelly Sattari is an Engineering Manager at Atlassian focusing on Technical leadership of teams to build  modern softwares, and she is indebted to her full stack development background and the knowledge she gained there. Nelly is a Microsoft Azure MVP, community leader, public speaker and a mentor. \n\n\n She has been assisting tech community events to be a more Inclusive place to collaborate and learn for last 10 years including co-organised the Serverless events, speaking at numerous technical events, organises developer events and leadership workshops for tech senior engineers who wanted to step up to the next level, being part of agenda committee for conferences.",
+        "bio": "What fascinates us, engages us and what engages us, helps us to learn.\n\nStories told with enthusiasm build connections. They build trust and help us interact with greater engagement and creativity for stronger technical solutions.\n\nNelly Sattari loves problem-solving and is passionate about driving minds to engage with technology. She is a software engineer and Tech Engineering Manager based in Sydney, Australia and has spent her entire career involved in the IT industry.\n\nHer focus is building teams who create modern applications, and she is indebted to her full-stack development background and the knowledge she gained there.\n\nAlso, she leveraged the synergistic effect of her technical skills and leadership abilities to lead the inclusive, local IT communities that are her favourite playground and where she facilitates knowledge-sharing platforms, supports user groups and nurtures beginner expertise, while steering clear of buzzwords for a more practical and tangible approach.\n\nThat combination led her to be awarded as Microsoft Azure MVP (Most Valuable Professional) four consecutive times.\n\nCome and join Nelly in an armchair-like, story-focused conversation to unpack familiar, yet often undiscussed, problems that will unveil new and thought-provoking solutions.",
         "social": [
             {
                 "name": "Twitter",
-                "link": "https://twitter.com/slsdaysanz/",
+                "link": "https://twitter.com/nelly_sattari/",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
             },
             {
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/company/serverlessdays-anz/",
+                "link": "https://www.linkedin.com/in/nsattari/",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
             }
         ]
