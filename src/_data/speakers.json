@@ -477,5 +477,27 @@
         "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
       }
     ]
+  },
+  "nelly": {
+    "name": "Nelly Sattari",
+    "title": "Engineering manager @Atlassian / Microsoft Azure MVP",
+    "img": "https://res.cloudinary.com/dhf4mezsa/image/upload/w_500,h_500,c_fill/v1677736455/SLD/nelly-sattari_dzoarn.jpg",
+    "bio": "What fascinates us, engages us and what engages us, helps us to learn.\n\nStories told with enthusiasm build connections. They build trust and help us interact with greater engagement and creativity for stronger technical solutions.\n\nNelly Sattari loves problem-solving and is passionate about driving minds to engage with technology. She is a software engineer and Tech Engineering Manager based in Sydney, Australia and has spent her entire career involved in the IT industry.\n\nHer focus is building teams who create modern applications, and she is indebted to her full-stack development background and the knowledge she gained there.\n\nAlso, she leveraged the synergistic effect of her technical skills and leadership abilities to lead the inclusive, local IT communities that are her favourite playground and where she facilitates knowledge-sharing platforms, supports user groups and nurtures beginner expertise, while steering clear of buzzwords for a more practical and tangible approach.\n\nThat combination led her to be awarded as Microsoft Azure MVP (Most Valuable Professional) four consecutive times.\n\nCome and join Nelly in an armchair-like, story-focused conversation to unpack familiar, yet often undiscussed, problems that will unveil new and thought-provoking solutions.",
+    "talk": {
+      "title": "Whether Serverless or Not, It's all about how you drive your project!",
+      "abstract": "There are common challenges for engineering teams during complex project delivery, and engineers and leaders can play a pivotal role in conquering execution challenges. Drawing from real-world experience, I'll share valuable lessons learned from the ahead-of-schedule delivery of a highly intricate project. We’ll also delve into practical tools and techniques to empower your teams and enhance their capabilities.\n\nKey takeaways\n\nExplore a real-world case study from one of the Atlassian teams\nDive into how tech leaders play a crucial, game-changing role in project delivery\nGet tips and best practices for leadership techniques and methods to unlock the engineering potential within teams"
+    },
+    "social": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/nelly_sattari/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/nsattari/",
+        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+      }
+    ]
   }
 }
